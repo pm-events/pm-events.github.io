@@ -1,0 +1,236 @@
+/*
+colors:
+gold: #ffc361, #664e26
+orange: #fbac76, #f97f2c
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana;
+}
+/* Start pc */
+@media screen and (min-width: 1200px) {
+  body {
+    background-color: #363434;
+    text-align: center;
+  }
+  
+  header {
+    background-image: linear-gradient(to bottom right, #fbac76, #f97f2c);
+    position: fixed;
+    width: 100%;
+    text-align: center
+  }
+  
+  a {
+    color: white;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  li {
+    color: white;
+    display: inline-block;
+    padding: 13px;
+    margin: 5px 0;
+    transition: all 1s;
+    transition-property: background-color, color;
+    border-width: 0px 3px 0px 0px;
+    border-color: #fbac76;
+    border-style: solid;
+  }
+  li:last-child {
+    border-width: 0;
+  }
+  header li:hover {
+    background-color: white;
+    color: #f97f2c;
+    cursor: pointer;
+  }
+  
+  hr {
+     border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  }
+  
+  #rumorsdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #officialdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #ongoingdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #utilitiesdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  .active {
+    background-color: white;
+    color: #f97f2c;
+  }
+  
+  #rumorscountdown, #officialcountdown {
+    font-size: 50px;
+  }
+  
+  .events {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 15px;
+    height: 15px;
+  }
+}
+
+/*Stop pc, start mobile*/
+
+@media screen and (max-width: 1199px) {
+  body {
+    background-color: #363434;
+    text-align: center;
+  }
+  
+  header {
+    background-image: linear-gradient(to bottom right, #fbac76, #f97f2c);
+    width: 100%;
+    text-align: center
+  }
+  
+  li {
+    color: white;
+    display: inline-block;
+    padding: 13px;
+    margin: 5px 0;
+    transition: all 1s;
+    transition-property: background-color, color;
+    border-width: 0px 3px 0px 0px;
+    border-color: #fbac76;
+    border-style: solid;
+  }
+  
+  li:last-child {
+    border-width: 0;
+  }
+  header li:hover {
+    background-color: white;
+    color: #99753a;
+    cursor: pointer;
+  }
+  
+  hr {
+     border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  }
+  
+  #rumorsdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #officialdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #ongoingdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  #utilitiesdiv {
+    background-color: rgba(0,0,0,0.15);
+    padding: 10px;
+    margin-top: 100px;
+    display: none;
+    color: white;
+    border-style: solid;
+    border-size: 2px;
+    border-color: #fbac76;
+    border-radius: 2px;
+  }
+  
+  .active {
+    background-color: white;
+    color: #99753a;
+  }
+  
+  #rumorscountdown, #officialcountdown {
+    font-size: 50px;
+  }
+  
+  .events {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 15px;
+    height: 15px;
+  }
+}
