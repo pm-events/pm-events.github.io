@@ -1,8 +1,6 @@
-export const announced = [
-  {
-    name: ["Story Event: Fight or Fright",
-          "Acerola & Mimikyu",
-          "Hilbert & Mightyena"],
-    date: "October 15, 2020"
-  }
-];
+export const announced = [{
+  name: ["Lisia & Altaria Spotlight Scout",
+    "Story Event: Shining Battle Stage"
+  ],
+  date: "October 30, 2020"
+}];
