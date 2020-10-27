@@ -3,4 +3,8 @@ export const announced = [{
     "Story Event: Dazzling Dizzying Battle Stage"
   ],
   date: "October 30, 2020"
+},
+{
+  name: ["Battle Villa"],
+  date: "November 19, 2020"
 }];

@@ -32,6 +32,11 @@ export const rumors = [
     expires: "November 11, 2020"
   },
   {
+    name: ["Battle Villa"],
+    date: "November 19, 2020",
+    expires: "December 4, 2020"
+  },
+  {
     name: ["Sygna Suit Blue & Blastoise [with grid & EX]",],
     date: "August 28, 2020",
     expires: "October 30, 2020"
