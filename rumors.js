@@ -12,7 +12,7 @@ export const rumors = [{
     expires: "October 29, 2020"
   },
   {
-    name: ["Morty & Drifblim [with EX] and Fantina & Mismagius[grid] Spotlight Scout"],
+    name: ["Morty & Drifblim[EX] and Fantina & Mismagius[grid] Spotlight Scout"],
     date: "October 19, 2020",
     expires: "November 2, 2020"
   },
@@ -63,14 +63,14 @@ export const rumors = [{
     expires: "November 25, 2020"
   },
   {
-    name: ["Nate & Braviary Spotlight Scout [gridEX]",
+    name: ["Nate & Braviary Spotlight Scout[gridEX]",
       "Time Trial Event: Race to Victory"
     ],
     date: "November 12, 2020",
     expires: "November 30, 2020"
   },
   {
-    name: ["Bianca & Musharna Spotlight Scout [gridEX]"],
+    name: ["Bianca & Musharna Spotlight Scout[gridEX]"],
     date: "November 14, 2020",
     expires: "November 30, 2020"
   },
