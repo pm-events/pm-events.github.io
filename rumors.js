@@ -32,7 +32,7 @@ export const rumors = [{
     expires: "November 11, 2020"
   },
   {
-    name: ["Lisia & Altaria Spotlight Scout [with grid and EX",
+    name: ["Lisia & Altaria Spotlight Scout [with grid and EX]",
       "Story Event: Dazzling Dizzying Battle Stage"
     ],
     date: "October 30, 2020",
@@ -56,21 +56,21 @@ export const rumors = [{
     expires: "November 19, 2020"
   },
   {
-    name: ["Blue & Pidgeot Spotlight Scout [with grid and EX",
+    name: ["Blue & Pidgeot Spotlight Scout [with grid and EX]",
       "Legendary Arena: Tapu Bulu"
     ],
     date: "November 11, 2020",
     expires: "November 25, 2020"
   },
   {
-    name: ["Nate & Braviary Spotlight Scout [with grid and EX",
+    name: ["Nate & Braviary Spotlight Scout [with grid and EX]",
       "Time Trial Event: Race to Victory"
     ],
     date: "November 12, 2020",
     expires: "November 30, 2020"
   },
   {
-    name: ["Bianca & Musharna Spotlight Scout [with grid and EX"],
+    name: ["Bianca & Musharna Spotlight Scout [with grid and EX]"],
     date: "November 14, 2020",
     expires: "November 30, 2020"
   },
