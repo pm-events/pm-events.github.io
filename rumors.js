@@ -1,7 +1,7 @@
 export const rumors = [{
     name: ["Story Event: Fight or Fright",
-      "Acerola & Mimikyu Seasonal Scout[gridEX]",
-      "Hilbert & Mightyena Seasonal Scout[gridEX]"
+      "Acerola & Mimikyu[gridEX] Seasonal Scout",
+      "Hilbert & Mightyena[gridEX] Seasonal Scout"
     ],
     date: "October 15, 2020",
     expires: "November 2, 2020"
@@ -32,7 +32,7 @@ export const rumors = [{
     expires: "November 11, 2020"
   },
   {
-    name: ["Lisia & Altaria Spotlight Scout[gridEX]",
+    name: ["Lisia & Altaria[gridEX] Spotlight Scout",
       "Story Event: Dazzling Dizzying Battle Stage"
     ],
     date: "October 30, 2020",
@@ -56,21 +56,21 @@ export const rumors = [{
     expires: "November 19, 2020"
   },
   {
-    name: ["Blue & Pidgeot Spotlight Scout[gridEX]",
+    name: ["Blue & Pidgeot[gridEX] Spotlight Scout",
       "Legendary Arena: Tapu Bulu"
     ],
     date: "November 11, 2020",
     expires: "November 25, 2020"
   },
   {
-    name: ["Nate & Braviary Spotlight Scout[gridEX]",
+    name: ["Nate & Braviary[gridEX] Spotlight Scout",
       "Time Trial Event: Race to Victory"
     ],
     date: "November 12, 2020",
     expires: "November 30, 2020"
   },
   {
-    name: ["Bianca & Musharna Spotlight Scout[gridEX]"],
+    name: ["Bianca & Musharna[gridEX] Spotlight Scout"],
     date: "November 14, 2020",
     expires: "November 30, 2020"
   },
@@ -104,7 +104,7 @@ export const rumors = [{
     expires: "December 1, 2020"
   },
   {
-    name: ["Sygna Suit Blue & Blastoise[gridEX]", ],
+    name: ["Sygna Suit Blue & Blastoise[gridEX] Pokéfair Scout", ],
     date: "August 28, 2020",
     expires: "October 30, 2020"
   },
