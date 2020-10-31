@@ -89,7 +89,7 @@ export const rumors = [{
     date: "November 19, 2020"
   },
   {
-    name: ["Cynthia & Garchomp[EX] and Steven & Metagross Pokéfair Scout[EX]"],
+    name: ["Cynthia & Garchomp[ex] and Steven & Metagross Pokéfair Scout[ex]"],
     date: "November 23, 2020",
     expires: "December 14, 2020"
   },
