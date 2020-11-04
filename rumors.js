@@ -56,6 +56,11 @@ export const rumors = [{
     expires: "November 19, 2020"
   },
   {
+    name: ["Alder & Volcarona Pokéfair Scout[gridEX]"],
+    date: "November 6, 2020",
+    expires: "November 30, 2020"
+  },
+  {
     name: ["Blue & Pidgeot[gridEX] Spotlight Scout",
       "Legendary Arena: Tapu Bulu"
     ],
@@ -100,7 +105,7 @@ export const rumors = [{
   },
   {
     name: ["Blissful Bonanza"],
-    date: "November 13, 2020",
+    date: "November 23, 2020",
     expires: "December 1, 2020"
   },
   {
