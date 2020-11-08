@@ -1,6 +1,6 @@
 export const announced = [{
-    name: ["Alder & Volcarona"],
-    date: "November 6, 2020"
+    name: ["Legendary Arena: Tapu Bulu"],
+    date: "November 11, 2020"
   },
   {
     name: ["Battle Villa"],
