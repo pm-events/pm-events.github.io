@@ -52,7 +52,7 @@ export const rumors = [{
     expires: "November 30, 2020"
   },
   {
-    name: ["Rosa & Delibird (Holiday 2019)[gridEX] and Siebold & Octillery (Holiday 2019)[grid]"],
+    name: ["Rosa & Delibird (Holiday 2019)[gridEX] and Siebold & Octillery (Holiday 2019)[grid] Seasonal Scout"],
     date: "November 16, 2020",
     expires: "November 30, 2020"
   },
