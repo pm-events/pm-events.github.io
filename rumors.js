@@ -1,32 +1,4 @@
 export const rumors = [{
-    name: ["Story Event: Fight or Fright",
-      "Acerola & Mimikyu[gridEX] Seasonal Scout",
-      "Hilbert & Mightyena[gridEX] Seasonal Scout"
-    ],
-    date: "October 15, 2020",
-    expires: "November 2, 2020"
-  },
-  {
-    name: ["Legendary Arena - Cobalion"],
-    date: "October 17, 2020",
-    expires: "October 29, 2020"
-  },
-  {
-    name: ["Morty & Drifblim[EX] and Fantina & Mismagius[grid] Spotlight Scout"],
-    date: "October 19, 2020",
-    expires: "November 2, 2020"
-  },
-  {
-    name: ["Wally & Gallade and Glacia & Glalie[grid] Spotlight Scout"],
-    date: "October 22, 2020",
-    expires: "November 2, 2020"
-  },
-  {
-    name: ["Ice- and Fighting-type Egg Event"],
-    date: "October 22, 2020",
-    expires: "November 5, 2020"
-  },
-  {
     name: ["Legendary Arena - Latios"],
     date: "October 29, 2020",
     expires: "November 11, 2020"
