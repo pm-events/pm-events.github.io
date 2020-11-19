@@ -1,31 +1,7 @@
 export const rumors = [{
-    name: ["Legendary Arena - Latios"],
-    date: "October 29, 2020",
-    expires: "November 11, 2020"
-  },
-  {
-    name: ["Lisia & Altaria[gridEX] Spotlight Scout",
-      "Story Event: Dazzling Dizzying Battle Stage"
-    ],
-    date: "October 30, 2020",
-    expires: "November 12, 2020"
-  },
-  {
-    name: ["Olivia & Midnight Lycanroc[grid] and Kukui & Midday Lycanroc Spotlight Scout"],
-    date: "November 1, 2020",
-    expires: "November 11, 2020"
-  },
-  {
     name: ["Legendary Event: The Dragon That Rules the Sky"],
     date: "November 1, 2020",
     expires: "December 7, 2020"
-  },
-  {
-    name: ["Plumeria & Salazzle Spotlight Scout",
-      "Psychic- and Poison-Type Egg Event"
-    ],
-    date: "November 5, 2020",
-    expires: "November 19, 2020"
   },
   {
     name: ["Alder & Volcarona Pokéfair Scout[gridEX]"],
@@ -62,10 +38,6 @@ export const rumors = [{
     expires: "December 4, 2020"
   },
   {
-    name: ["New Story Chapters!"],
-    date: "November 19, 2020"
-  },
-  {
     name: ["Cynthia & Garchomp[ex] and Steven & Metagross Pokéfair Scout[ex]"],
     date: "November 23, 2020",
     expires: "December 14, 2020"
@@ -79,11 +51,6 @@ export const rumors = [{
     name: ["Blissful Bonanza"],
     date: "November 23, 2020",
     expires: "December 1, 2020"
-  },
-  {
-    name: ["Sygna Suit Blue & Blastoise[gridEX] Pokéfair Scout", ],
-    date: "August 28, 2020",
-    expires: "October 30, 2020"
   },
   {
     name: ["Special Event: Blasting Off Again! [Free James & Koffing]"],
