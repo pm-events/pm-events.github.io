@@ -75,7 +75,7 @@ export const rumors = [{
   {
     name: ["Deck the Halls",
       "Skyla & Togekiss [Holiday 2020][gridEX] Seasonal Scout",
-      "Erika & Comfey [Holiday 2020][gridEX]"
+      "Erika & Comfey [Holiday 2020][gridEX] Seasonal Scout"
     ],
     date: "December 10, 2020",
     expires: "January 1, 2021"
