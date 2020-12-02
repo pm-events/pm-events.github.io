@@ -61,6 +61,11 @@ export const rumors = [{
     expires: "December 24, 2020"
   },
   {
+    name: ["Jasmine & Steelix[ex] Spotlight Scout"],
+    date: "December 2, 2020",
+    expires: "December 21, 2020"
+  },
+  {
     name: ["Legendary Arena - Regirock",
       "Dawn & Turtwig[ex] and Brendan & Treecko[gridEX] Spotlight Scout"
     ],
