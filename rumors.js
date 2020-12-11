@@ -69,7 +69,7 @@ export const rumors = [{
     expires: "January 1, 2021"
   },
   {
-    name: ["Special Event: Blasting Off Again! [Free James & Koffing]"],
+    name: ["Special Event: Blasting Off Again! [Free James & Weezing]"],
     date: "September 17, 2020",
     expires: "January 25, 2021"
   }
