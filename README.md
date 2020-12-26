@@ -1,10 +1,11 @@
 # How to contribute
 1. Edit *only* **rumors.js** and **announced.js**.
 2. **rumors.js** works for the ongoing page too, so add everything in there even if already in **announced.js**. Don't remove the events from the file until they actually expired.
-3. Dates must follow the **UTC Timezone**, so using the dates from the **#datamine-discoveries** channel is the way (they are always in UTC).
-4. In **announced.js** you will only add **date**, no **expires** since the ongoing page only works from the **rumors.js**, **date** can be *TBA*, since sometimes the announcements have no date.
-5. For grid and EX icons, use \[grid] - \[ex] - \[gridEX], depending on what they have, eg. *Sygna Suit Red & Charizard\[gridEX] Pokéfair Scout*.
-6. Follow this layout for the events list:
+3. The *name* property has to be an Array, even if it's only one event on the same date and expiration.
+4. Dates must follow the **UTC Timezone**, so using the dates from the **#datamine-discoveries** channel is the way (they are always in UTC).
+5. In **announced.js** you will only add **date**, no **expires** since the ongoing page only works from the **rumors.js**, **date** can be *TBA*, since sometimes the announcements have no date.
+6. For grid and EX icons, use \[grid] - \[ex] - \[gridEX], depending on what they have, eg. *Sygna Suit Red & Charizard\[gridEX] Pokéfair Scout*.
+7. Follow this layout for the events list:
 ```
 ///// rumors.js
 export const rumors = [{
