@@ -21,7 +21,7 @@ expires: "February 13, 2021"
 
 ///// announced.js
 export const announced = [{
-name: ["Event Name",
+name: ["Event Name"],
 date: "TBA"
 }]
 ```
