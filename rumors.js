@@ -108,7 +108,7 @@ export const rumors = [
     expires: "January 21, 2021"
   },
   {
-    name: ["6★ [EX] Skyla Sync Pair Support Rally"],
+    name: ["6★ [ex] Skyla Sync Pair Support Rally"],
     date: "January 11, 2021",
     expires: "February 18, 2021"
   },
