@@ -1,5 +1,10 @@
 export const rumors = [
   {
+    name: ["Special Event: Blasting Off Again! [Free James & Weezing]"],
+    date: "September 17, 2020",
+    expires: "January 25, 2021"
+  },
+  {
     name: ["Legendary Event: The Beast That Devours The Sun [Solgaleo]"],
     date: "December 7, 2020",
     expires: "January 4, 2021"
@@ -13,11 +18,6 @@ export const rumors = [
     expires: "January 1, 2021"
   },
   {
-    name: ["Battle Villa Challenge"],
-    date: "December 14, 2020",
-    expires: "December 29, 2020"
-  },
-  {
     name: ["Fire-, Rock-, and Bug-Type Egg Event"],
     date: "December 17, 2020",
     expires: "December 31, 2020"
@@ -28,8 +28,8 @@ export const rumors = [
     expires: "January 1, 2021"
   },
   {
-    name: ["Special Event: Blasting Off Again! [Free James & Weezing]"],
-    date: "September 17, 2020",
+    name: ["Special Event: Double Trouble [Free Jessie & Arbok]"],
+    date: "December 18, 2020",
     expires: "January 25, 2021"
   },
   {
@@ -48,6 +48,21 @@ export const rumors = [
     expires: "January 1, 2021"
   },
   {
+    name: ["Legendary Arena - Latios"],
+    date: "December 28, 2020",
+    expires: "January 11, 2021"
+  },
+  {
+    name: ["Training Area Reward Boost Rally"],
+    date: "December 28, 2020",
+    expires: "January 4, 2021"
+  },
+  {
+    name: ["Champion Stadium: Johto Challenge"],
+    date: "December 28, 2020",
+    expires: "February 1, 2021"
+  },
+  {
     name: ["Hoenn and Sinnoh 5★-Guaranteed Scout"],
     date: "December 29, 2020",
     expires: "January 1, 2021"
@@ -63,27 +78,7 @@ export const rumors = [
     expires: "January 1, 2021"
   },
   {
-    name: ["5★-Select Special Scout ×15"],
-    date: "January 1, 2021",
-    expires: "January 14, 2021"
-  },
-  {
-    name: ["5★-Select Special Scout ×25"],
-    date: "January 1, 2021",
-    expires: "January 14, 2021"
-  },
-  {
-    name: ["Story Event: Season’s Greetings"],
-    date: "January 1, 2021",
-    expires: "January 14, 2021"
-  },
-  {
-    name: ["Lillie (New Years 2021) [gridEX] Scout + Tiered Scout"],
-    date: "January 1, 2021",
-    expires: "January 14, 2021"
-  },
-  {
-    name: ["Lance (New Years 2021) [gridEX] Scout + Tiered Scout"],
+    name: ["5★-Select Special Scout ×15","5★-Select Special Scout ×25","Story Event: Season’s Greetings","Lillie (New Years 2021) [gridEX] Scout + Tiered Scout","Lance (New Years 2021) [gridEX] Scout + Tiered Scout"],
     date: "January 1, 2021",
     expires: "January 14, 2021"
   },
@@ -98,7 +93,7 @@ export const rumors = [
     expires: "January 21, 2021"
   },
   {
-    name: ["Battle Villa"],
+    name: ["Battle Villa Challenge"],
     date: "January 7, 2021",
     expires: "January 21, 2021"
   },
@@ -128,6 +123,11 @@ export const rumors = [
     expires: "February 1, 2021"
   },
   {
+    name: ["Legendary Arena - Entei"],
+    date: "January 14, 2021",
+    expires: "January 28, 2021"
+  },
+  {
     name: ["Wallace and Sygna Suit Grimsley Spotlight Scout"],
     date: "January 18, 2021",
     expires: "January 28, 2021"
@@ -141,30 +141,5 @@ export const rumors = [
     name: ["Blissful Bonanza"],
     date: "January 21, 2021",
     expires: "January 29, 2021"
-  },
-  {
-    name: ["Champion Stadium: Johto Challenge"],
-    date: "December 28, 2020",
-    expires: "February 1, 2021"
-  },
-  {
-    name: ["Special Event: Double Trouble [Free Jessie & Arbok]"],
-    date: "December 18, 2020",
-    expires: "January 25, 2021"
-  },
-  {
-    name: ["Legendary Arena - Latios"],
-    date: "December 28, 2020",
-    expires: "January 11, 2021"
-  },
-  {
-    name: ["Legendary Arena - Entei"],
-    date: "January 14, 2021",
-    expires: "January 28, 2021"
-  },
-  {
-    name: ["Training Area Reward Boost Rally"],
-    date: "December 28, 2020",
-    expires: "January 4, 2021"
   }
 ];
