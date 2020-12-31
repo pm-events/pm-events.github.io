@@ -18,11 +18,6 @@ export const rumors = [
     expires: "January 1, 2021"
   },
   {
-    name: ["Fire-, Rock-, and Bug-Type Egg Event"],
-    date: "December 17, 2020",
-    expires: "December 31, 2020"
-  },
-  {
     name: ["Triple Feature Pokéfair Scout"],
     date: "December 17, 2020",
     expires: "January 1, 2021"
