@@ -1,6 +1,7 @@
 export const announced = [{
-  name: ["Skyla & Togekiss [Christmas 2020]",
-    "Erika & Comfey [Christmas 2020]"
+  name: ["Story Event: Season’s Greetings",
+    "Lillie (New Years 2021) [gridEX] Scout + Tiered Scout",
+    "Lance (New Years 2021) [gridEX] Scout + Tiered Scout"
   ],
-  date: "December 10, 2020"
+  date: "January 1, 2021"
 }];
