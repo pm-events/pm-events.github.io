@@ -10,19 +10,6 @@ export const rumors = [
     expires: "January 4, 2021"
   },
   {
-    name: ["Deck the Halls",
-      "Skyla & Togekiss [Holiday 2020][gridEX] Seasonal Scout",
-      "Erika & Comfey [Holiday 2020][gridEX] Seasonal Scout"
-    ],
-    date: "December 10, 2020",
-    expires: "January 1, 2021"
-  },
-  {
-    name: ["Triple Feature Pokéfair Scout"],
-    date: "December 17, 2020",
-    expires: "January 1, 2021"
-  },
-  {
     name: ["Special Event: Double Trouble [Free Jessie & Arbok]"],
     date: "December 18, 2020",
     expires: "January 25, 2021"
@@ -38,11 +25,6 @@ export const rumors = [
     expires: "January 29, 2021"
   },
   {
-    name: ["Kanto and Johto 5★-Guaranteed Scout"],
-    date: "December 28, 2020",
-    expires: "January 1, 2021"
-  },
-  {
     name: ["Legendary Arena - Latios"],
     date: "December 28, 2020",
     expires: "January 11, 2021"
@@ -56,21 +38,6 @@ export const rumors = [
     name: ["Champion Stadium: Johto Challenge"],
     date: "December 28, 2020",
     expires: "February 1, 2021"
-  },
-  {
-    name: ["Hoenn and Sinnoh 5★-Guaranteed Scout"],
-    date: "December 29, 2020",
-    expires: "January 1, 2021"
-  },
-  {
-    name: ["Unova 5★-Guaranteed Scout"],
-    date: "December 30, 2020",
-    expires: "January 1, 2021"
-  },
-  {
-    name: ["Kalos and Alola 5★-Guaranteed Scout"],
-    date: "December 31, 2020",
-    expires: "January 1, 2021"
   },
   {
     name: ["5★-Select Special Scout ×15","5★-Select Special Scout ×25","Story Event: Season’s Greetings","Lillie (New Years 2021) [gridEX] Scout + Tiered Scout","Lance (New Years 2021) [gridEX] Scout + Tiered Scout"],
