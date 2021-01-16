@@ -5,19 +5,9 @@ export const rumors = [
     expires: "January 25, 2021"
   },
   {
-    name: ["Legendary Event: The Beast That Devours The Sun [Solgaleo]"],
-    date: "December 7, 2020",
-    expires: "January 4, 2021"
-  },
-  {
     name: ["Special Event: Double Trouble [Free Jessie & Arbok]"],
     date: "December 18, 2020",
     expires: "January 25, 2021"
-  },
-  {
-    name: ["Story Event: The Ideal Formula"],
-    date: "December 24, 2020",
-    expires: "January 12, 2021"
   },
   {
     name: ["N [gridEX] Poké Fair Scout"],
@@ -25,24 +15,9 @@ export const rumors = [
     expires: "January 29, 2021"
   },
   {
-    name: ["Legendary Arena - Latios"],
-    date: "December 28, 2020",
-    expires: "January 11, 2021"
-  },
-  {
-    name: ["Training Area Reward Boost Rally"],
-    date: "December 28, 2020",
-    expires: "January 4, 2021"
-  },
-  {
     name: ["Champion Stadium: Johto Challenge"],
     date: "December 28, 2020",
     expires: "February 1, 2021"
-  },
-  {
-    name: ["5★-Select Special Scout ×15","5★-Select Special Scout ×25","Story Event: Season’s Greetings","Lillie (New Years 2021) [gridEX] Scout + Tiered Scout","Lance (New Years 2021) [gridEX] Scout + Tiered Scout"],
-    date: "January 1, 2021",
-    expires: "January 14, 2021"
   },
   {
     name: ["Legendary Event: Pure Hearts and Rainbow Wings [Ho-Oh]"],
