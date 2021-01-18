@@ -9,11 +9,11 @@ export const announced = [
   },
   {
     name: ["Blissful Bonanza"],
-    date: "January 21, 2021
+    date: "January 21, 2021"
   },
   {
     name: ["Valentine's Day Story Event","Serena & Whimsicott (Valentine's Day 2021) Scout"],
-    date: "January 29, 2021
+    date: "January 29, 2021"
   },
   {
     name: ["Battle Villa Challenge","Fighting-, Grass-, and Rock-Type Egg Event"],
