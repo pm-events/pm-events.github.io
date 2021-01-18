@@ -34,5 +34,5 @@ export const announced = [
   {
     name: ["6★ [ex] Barry Unlocked"],
     date: "TBA"
-  },
+  }
 ];
