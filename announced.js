@@ -1,6 +1,6 @@
 export const announced = [
   {
-    name: ["Wallace [ex] Unlocked"],
+    name: ["Wallace EX Unlocked"],
     date: "January 18, 2021"
   },
   {
@@ -28,11 +28,11 @@ export const announced = [
     date: "February 11, 2021"
   },
   {
-    name: ["6★ [ex] Skyla Unlocked","6★ [ex] Korrina Unlocked"],
+    name: ["6★ EX Skyla Unlocked","6★ EX Korrina Unlocked"],
     date: "TBA"
   },
   {
-    name: ["6★ [ex] Barry Unlocked"],
+    name: ["6★ EX Barry Unlocked"],
     date: "TBA"
   }
 ];
