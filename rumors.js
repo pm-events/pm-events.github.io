@@ -55,13 +55,18 @@ export const rumors = [
     expires: "January 29, 2021"
   },
   {
-    name: ["Story Event: Baking Buddies","Serena (Palentine's 2021) [gridEX] Seasonal Scout","Dawn (Palentine's 2021) [gridEX] Seasonal Scout"],
+    name: ["Story Event: Baking Buddies","Serena (Palentine's 2021) [gridEX] Seasonal Scout"],
     date: "January 29, 2021",
     expires: "February 19, 2021"
   },
   {
     name: ["Lillie [gridEX] Spotlight Scout"],
     date: "January 31, 2021",
+    expires: "February 19, 2021"
+  },
+  {
+    name: ["Dawn (Palentine's 2021) [gridEX] Seasonal Scout"],
+    date: "February 1, 2021",
     expires: "February 19, 2021"
   },
   {
