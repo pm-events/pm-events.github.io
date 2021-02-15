@@ -1,38 +1,22 @@
 export const announced = [
   {
-    name: ["Wallace EX Unlocked"],
-    date: "January 18, 2021"
-  },
-  {
-    name: ["Mallow Spotlight Scout"],
-    date: "January 21, 2021"
-  },
-  {
-    name: ["Blissful Bonanza"],
-    date: "January 21, 2021"
-  },
-  {
-    name: ["Valentine's Day Story Event","Serena & Whimsicott (Valentine's Day 2021) Scout"],
-    date: "January 29, 2021"
-  },
-  {
-    name: ["Battle Villa Challenge","Fighting-, Grass-, and Rock-Type Egg Event"],
-    date: "February 4, 2021"
-  },
-  {
-    name: ["Legendary Event: Lurking Shadow [Mewtwo]"],
-    date: "February 8, 2021"
-  },
-  {
-    name: ["Legendary Event: Give and Take [Xerneas & Yveltal]"],
-    date: "February 11, 2021"
-  },
-  {
-    name: ["6★ EX Skyla Unlocked","6★ EX Korrina Unlocked"],
+    name: ["6★ EX Skyla Unlocked","6★ EX Korrina Unlocked","6★ EX Barry Unlocked"],
     date: "TBA"
   },
   {
-    name: ["6★ EX Barry Unlocked"],
-    date: "TBA"
+    name: ["Legendary Arena: Cresselia"],
+    date: "February 18, 2021"
+  },
+  {
+    name: ["The Story Continues!"],
+    date: "February 18, 2021"
+  },
+  {
+    name: ["Piers Spotlight Scout"],
+    date: "February 18, 2021"
+  },
+  {
+    name: ["Lance 6★ EX and Sygna Suit Cynthia 6★ EX Poké Fair Scout"],
+    date: "February 22, 2021"
   }
 ];
