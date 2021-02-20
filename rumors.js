@@ -100,11 +100,6 @@ export const rumors = [
     expires: "March 4, 2021"
   },
   {
-    name: ["The Story Continues!"],
-    date: "February 18, 2021",
-    expires: "February 25, 2021"
-  },
-  {
     name: ["Piers [gridEX] Spotlight Scout"],
     date: "February 18, 2021",
     expires: "March 11, 2021"
