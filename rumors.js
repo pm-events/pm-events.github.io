@@ -55,7 +55,7 @@ export const rumors = [
     expires: "March 25, 2021"
   },
   {
-    name: ["Legendary Event: New World Dilemma (Palkia [gridEX])"],
+    name: ["Legendary Event: New World Dilemma (Palkia [grid])"],
     date: "March 15, 2021",
     expires: "April 8, 2021"
   },
