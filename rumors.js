@@ -30,7 +30,7 @@ export const rumors = [
     expires: "March 11, 2021"
   },
   {
-    name: ["Lance [gridEX] and Sygna Suit Cynthia [gridEX] Poké Fair Scout"],
+    name: ["Lance and Sygna Suit Cynthia (Both [gridEX]) Poké Fair Scout"],
     date: "February 22, 2021",
     expires: "March 4, 2021"
   },
