@@ -10,7 +10,7 @@ export const rumors = [
     expires: "February 26, 2021"
   },
   {
-    name: ["Legendary Event: Give and Take (Xerneas [gridEX])","Lysandre [gridEX] Poké Fair Scout"],
+    name: ["Legendary Event: Give and Take (Xerneas [grid])","Lysandre [gridEX] Poké Fair Scout"],
     date: "February 11, 2021",
     expires: "March 4, 2021"
   },
