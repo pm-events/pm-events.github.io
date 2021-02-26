@@ -24,7 +24,7 @@ export const announced = [
     date: "March 31, 2021"
   },
   {
-    name: ["6★ EX Skyla Unlocked","6★ EX Korrina Unlocked","6★ EX Barry Unlocked"],
+    name: ["6★ EX Barry Unlocked"],
     date: "TBA"
   }
 ];
