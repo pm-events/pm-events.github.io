@@ -75,7 +75,12 @@ export const rumors = [
     expires: "April 2, 2021"
   },
   {
-    name: ["Legendary Arena: Latias","Fairy- and Normal-Type Egg Event"],
+    name: ["Fairy- and Normal-Type Egg Event"],
+    date: "March 25, 2021",
+    expires: "April 8, 2021"
+  },
+  {
+    name: ["Legendary Arena: Latias"],
     date: "March 31, 2021",
     expires: "April 14, 2021"
   },
