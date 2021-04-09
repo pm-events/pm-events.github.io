@@ -55,6 +55,11 @@ export const rumors = [
     expires: "April 22, 2021"
   },
   {
+    name: ["Special Rally"],
+    date: "April 8, 2021",
+    expires: "April 15, 2021"
+  },
+  {
     name: ["The Battle Villa Is Open!","May and Brendan Spotlight Scout"],
     date: "April 8, 2021",
     expires: "April 22, 2021"
@@ -65,8 +70,8 @@ export const rumors = [
     expires: "May 18, 2021"
   },
   {
-    name: ["The Story Continues!"],
-    date: "April 8, 2021",
+    name: ["Training Area Reward Boost Rally"],
+    date: "April 10, 2021",
     expires: "April 15, 2021"
   },
   {
