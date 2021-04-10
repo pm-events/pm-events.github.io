@@ -5,7 +5,7 @@
 4. Dates must follow the **UTC Timezone**, so using the dates from the **#datamine-discoveries** channel is the way (they are always in UTC).
 5. In **announced.js** you will only add **date**, no **expires** since the ongoing page only works from the **rumors.js**, **date** can be *TBA*, since sometimes the announcements have no date.
 6. For grid and EX icons, use \[grid] - \[ex] - \[gridEX], depending on what they have, eg. *Sygna Suit Red & Charizard\[gridEX] Pokéfair Scout*.
-7. Follow this layout for the events list:
+7. Follow this layout for the events list (announced.js only):
 ```
 ///// rumors.js
 export const rumors = [{
@@ -25,6 +25,22 @@ export const announced = [{
 name: ["Event Name"],
 date: "TBA"
 }]
+```
+For rumors.js, you will only need to copy-paste the list from the datamine server, which usually goes and must be like this:
+```
+///// rumors.js
+export const rumors = `Event 1 Name
+
+Event 1 Date
+Event 1 Expiration
+
+Event 2 Name
+
+Event 2 Date
+Event 2 Expiration
+
+Event 3 Name[...]
+`
 ```
 
 #### If something breaks, you can ping @ ntcs#0900 on discord.
