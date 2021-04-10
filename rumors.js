@@ -1,103 +1,102 @@
-export const rumorstxt = `Special Event: Happy Team Break Day
-
-2021-04-01 06:00:00 UTC
-2021-04-02 06:00:00 UTC
-
-Story Event: Pasio Eggsplorers
-
-2021-04-02 06:00:00 UTC
-2021-04-16 06:00:00 UTC
-
-Champion Stadium Unova Challenge
-
-2021-04-05 06:00:00 UTC
-
-The Battle Villa is Open
-
-2021-04-08 06:00:00 UTC
-2021-04-22 06:00:00 UTC
-
-Legendary Event: The Dragon That Rules the Sky
-
-2021-04-08 06:00:00 UTC
-2021-05-18 06:00:00 UTC
-
-The Story Continues!
-
-2021-04-08 06:00:00 UTC
-2021-04-15 06:00:00 UTC
-
-Special Rally
-
-2021-04-08 06:00:00 UTC
-2021-04-15 06:00:00 UTC
-
-Training Area Reward Boost Rally
-
-2021-04-10 06:00:00 UTC
-2021-04-15 06:00:00 UTC
-
-Story Event: Trials on the Isle
-
-2021-04-15 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Water- and Electric-type Egg Event
-
-2021-04-22 06:00:00 UTC
-2021-05-06 06:00:00 UTC
-
-Legendary Arena Tornadus
-
-2021-04-22 06:00:00 UTC
-2021-05-06 06:00:00 UTC
-
-May Seasonal Scout
-
-2021-04-02 06:00:00 UTC
-2021-04-16 06:00:00 UTC
-
-Burgh Seasonal Scout
-
-2021-04-02 06:00:00 UTC
-2021-04-16 06:00:00 UTC
-
-Leaf and Gladion Spotlight Scout
-
-2021-04-05 06:00:00 UTC
-2021-04-17 06:00:00 UTC
-
-Morty, Jasmine, and Glacia Spotlight Scout
-
-2021-04-05 06:00:00 UTC
-2021-04-22 06:00:00 UTC
-
-May and Brendan Spotlight Scout
-
-2021-04-08 06:00:00 UTC
-2021-04-22 06:00:00 UTC
-
-Elio Spotlight Scout
-
-2021-04-17 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Selene Spotlight Scout
-
-2021-04-17 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Guzma and Lusamine Spotlight Scout
-
-2021-04-19 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-N Poké Fair Scout
-
-2021-04-22 06:00:00 UTC
-2021-05-20 06:00:00 UTC
-
-Double Feature Spotlight Scout
-
-2021-04-22 06:00:00 UTC
-2021-05-06 06:00:00 UTC`;
+export const rumors = [
+  {
+    name: ["Legendary Event: New World Dilemma (Palkia [grid])"],
+    date: "March 15, 2021",
+    expires: "April 8, 2021"
+  },
+  {
+    name: ["Story Event: Shining Heart of Dragons","Iris (Champion) [gridEX] Poké Fair Scout"],
+    date: "March 18, 2021",
+    expires: "April 2, 2021"
+  },
+  {
+    name: ["Blissful Bonanza!","Hilbert [gridEX] and Caitlin Spotlight Scout"],
+    date: "March 22, 2021",
+    expires: "April 2, 2021"
+  },
+  {
+    name: ["Fairy- and Normal-Type Egg Event"],
+    date: "March 25, 2021",
+    expires: "April 8, 2021"
+  },
+  {
+    name: ["Legendary Arena: Latias"],
+    date: "March 31, 2021",
+    expires: "April 14, 2021"
+  },
+  {
+    name: ["Diantha [gridEX] Poké Fair Scout"],
+    date: "March 31, 2021",
+    expires: "April 22, 2021"
+  },
+  {
+    name: ["Special Event: Happy Team Break Day!"],
+    date: "April 1, 2021",
+    expires: "April 2, 2021"
+  },
+  {
+    name: ["Story Event: Pasio Eggsplorers", "May (Spring 2021) [gridEX] & Lopunny Seasonal Scout","Burgh (Spring 2021) [gridEX] & Togepi Seasonal Scout"],
+    date: "April 2, 2021",
+    expires: "April 16, 2021"
+  },
+  {
+    name: ["Champion Stadium: Unova Challenge"],
+    date: "April 5, 2021",
+    expires: "April 12, 2021"
+  },
+  {
+    name: ["Leaf [gridEX] and Gladion Spotlight Scout"],
+    date: "April 5, 2021",
+    expires: "April 17, 2021"
+  },
+  {
+    name: ["Morty, Jasmine, and Glacia Spotlight Scout"],
+    date: "April 5, 2021",
+    expires: "April 22, 2021"
+  },
+  {
+    name: ["Special Rally"],
+    date: "April 8, 2021",
+    expires: "April 15, 2021"
+  },
+  {
+    name: ["The Battle Villa Is Open!","May and Brendan Spotlight Scout"],
+    date: "April 8, 2021",
+    expires: "April 22, 2021"
+  },
+  {
+    name: ["Legendary Event: The Dragon That Rules the Sky (Rayquaza [grid])"],
+    date: "April 8, 2021",
+    expires: "May 18, 2021"
+  },
+  {
+    name: ["Training Area Reward Boost Rally"],
+    date: "April 10, 2021",
+    expires: "April 15, 2021"
+  },
+  {
+    name: ["Story Event: Trials on the Isle","Selene & Rowlet Spotlight Scout","Elio & Popplio Spotlight Scout"],
+    date: "April 15, 2021",
+    expires: "May 2, 2021"
+  },
+  {
+    name: ["Guzma and Lusamine Spotlight Scout"],
+    date: "April 19, 2021",
+    expires: "May 2, 2021"
+  },
+  {
+    name: ["Water- and Electric-Type Egg Event","Legendary Arena: Tornadus"],
+    date: "April 22, 2021",
+    expires: "May 6, 2021"
+  },
+  {
+    name: ["N Poké Fair Scout"],
+    date: "April 22, 2021",
+    expires: "May 20, 2021"
+  },
+  {
+    name: ["Double Feature Spotlight Scout (Volkner & SS Elesa)"],
+    date: "April 26, 2021",
+    expires: "May 6, 2021"
+  }
+];
