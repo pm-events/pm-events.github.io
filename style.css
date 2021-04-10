@@ -1,7 +1,7 @@
 /*
 colors:
 gold: #ffc361, #664e26
-orange: #fbac76, #f97f2c
+orange: lightgrey, #f97f2c
 */
 
 * {
@@ -17,39 +17,10 @@ orange: #fbac76, #f97f2c
   }
   
   header {
-    background-image: linear-gradient(to bottom right, #fbac76, #f97f2c);
+    background-image: linear-gradient(to bottom right, lightgrey, #f97f2c);
     position: fixed;
     width: 100%;
     text-align: center
-  }
-  
-  a {
-    color: white;
-  }
-  
-  ul {
-    display: flex;
-    justify-content: center;
-  }
-  
-  li {
-    color: white;
-    display: inline-block;
-    padding: 13px;
-    margin: 5px 0;
-    transition: all 1s;
-    transition-property: background-color, color;
-    border-width: 0px 3px 0px 0px;
-    border-color: #fbac76;
-    border-style: solid;
-  }
-  li:last-child {
-    border-width: 0;
-  }
-  header li:hover {
-    background-color: white;
-    color: #f97f2c;
-    cursor: pointer;
   }
   
   hr {
@@ -67,7 +38,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -79,7 +50,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -91,19 +62,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
-    border-radius: 2px;
-  }
-  
-  #utilitiesdiv {
-    background-color: rgba(0,0,0,0.15);
-    padding: 10px;
-    margin-top: 100px;
-    display: none;
-    color: white;
-    border-style: solid;
-    border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -124,9 +83,40 @@ orange: #fbac76, #f97f2c
     width: 15px;
     height: 15px;
   }
+  
+  .drophome {
+    background-color: #121212;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
 }
 
-/*Stop pc, start mobile*/
+.dropdown {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    cursor: default;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: darkgrey;
+    min-width: 200px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+.dropdown-content a:hover {background-color: white;}
+.dropdown:hover .dropdown-content { display: block; opacity: 1;}
+.dropdown:hover .dropbtn {background-color: grey;}
+}
 
 @media screen and (max-width: 1199px) {
   body {
@@ -135,30 +125,9 @@ orange: #fbac76, #f97f2c
   }
   
   header {
-    background-image: linear-gradient(to bottom right, #fbac76, #f97f2c);
+    background-image: linear-gradient(to bottom right, lightgrey, #f97f2c);
     width: 100%;
     text-align: center
-  }
-  
-  li {
-    color: white;
-    display: inline-block;
-    padding: 13px;
-    margin: 5px 0;
-    transition: all 1s;
-    transition-property: background-color, color;
-    border-width: 0px 3px 0px 0px;
-    border-color: #fbac76;
-    border-style: solid;
-  }
-  
-  li:last-child {
-    border-width: 0;
-  }
-  header li:hover {
-    background-color: white;
-    color: #99753a;
-    cursor: pointer;
   }
   
   hr {
@@ -176,7 +145,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -188,7 +157,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -200,7 +169,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -212,7 +181,7 @@ orange: #fbac76, #f97f2c
     color: white;
     border-style: solid;
     border-size: 2px;
-    border-color: #fbac76;
+    border-color: lightgrey;
     border-radius: 2px;
   }
   
@@ -233,4 +202,41 @@ orange: #fbac76, #f97f2c
     width: 15px;
     height: 15px;
   }
+  
+  
+  .drophome {
+    background-color: #121212;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
 }
+
+.dropdown {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    cursor: default;
+    border: 3px solid darkgrey;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: darkgrey;
+    min-width: 200px;
+    top: 55px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+.dropdown-content a:hover {background-color: white;}
+.dropdown:hover .dropdown-content { display: block; opacity: 1;}
+.dropdown:hover .dropbtn {background-color: grey;}
+  
+  }
