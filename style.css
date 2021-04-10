@@ -216,7 +216,6 @@ orange: lightgrey, #f97f2c
     left: 30px;
     top: 30px;
     cursor: default;
-    border: 3px solid darkgrey;
 }
 
 .dropdown-content {
