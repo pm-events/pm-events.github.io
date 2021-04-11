@@ -1,9 +1,5 @@
-import {
-  rumorstxt
-} from "./rumors.js"
-import {
-  announced
-} from "./announced.js"
+import { rumorstxt } from "./rumors.js"
+import { announced } from "./announced.js"
 let active;
 
 
