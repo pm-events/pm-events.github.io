@@ -21,7 +21,7 @@ document.getElementById("rumors").onclick = () => {
     const b = a.map(item =>item.replace("\n", ""))
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
-        date: event.split("\n")[1],
+        date: event.split("\n")[1].split("-").join("/"),
         expires: event.split("\n")[2]}
     })
     console.log(rumors);
