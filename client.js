@@ -22,7 +22,7 @@ document.getElementById("rumors").onclick = () => {
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
         date: event.split("\n")[1].split("-").join("/"),
-        expires: event.split("\n")[2].split("-").join("/")}
+        expires: event.split("\n")[2]}
     })
     console.log(rumors);
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() >= 0 || e.date === "TBA").sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
@@ -79,7 +79,7 @@ document.getElementById("ongoing").onclick = () => {
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
         date: event.split("\n")[1].split("-").join("/"),
-        expires: event.split("\n")[2].split("-").join("/")}
+        expires: event.split("\n")[2]}
     })
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() <= 0 && new Date(e.expires).getTime() >= Date.now());
     document.getElementById("ongoinglist").innerHTML = events.sort((a, b) => new Date(a.expires).getTime() - new Date(b.expires).getTime()).map(e => e.name +  `- Ends on <span style="color:darkgrey;">${new Date(e.expires).toDateString()}</span>`.replace("[grid]", "<img src=\"./grid.png\"/>").replace("[ex]", "<img src=\"./ex.png\"/>").replace("[gridEX]", "<img src=\"./grid.png\"/><img src=\"./ex.png\"/>")).flat().join("<br>") || "No events running at the moment.";
