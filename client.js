@@ -78,7 +78,7 @@ document.getElementById("ongoing").onclick = () => {
     const b = a.map(item =>item.replace("\n", ""))
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
-        date: event.split("\n")[1],
+        date: event.split("\n")[1].split("-").join("/"),
         expires: event.split("\n")[2]}
     })
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() <= 0 && new Date(e.expires).getTime() >= Date.now());
