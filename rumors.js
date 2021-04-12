@@ -1,7 +1,12 @@
-export const rumorstxt = `Special Event: Happy Team Break Day
+export const rumorstxt = `Legendary Arena: Latias
 
-2021-04-01 06:00:00 UTC
-2021-04-02 06:00:00 UTC
+2021-03-31 06:00:00 UTC
+2021-04-14 06:00:00 UTC
+
+Diantha [gridEX] Poké Fair Scout
+
+2021-03-31 06:00:00 UTC
+2021-04-22 06:00:00 UTC
 
 Story Event: Pasio Eggsplorers
 
@@ -17,15 +22,10 @@ The Battle Villa is Open
 2021-04-08 06:00:00 UTC
 2021-04-22 06:00:00 UTC
 
-Legendary Event: The Dragon That Rules the Sky
+Legendary Event: The Dragon That Rules the Sky (Rayquaza [grid])
 
 2021-04-08 06:00:00 UTC
 2021-05-18 06:00:00 UTC
-
-The Story Continues!
-
-2021-04-08 06:00:00 UTC
-2021-04-15 06:00:00 UTC
 
 Special Rally
 
@@ -52,17 +52,17 @@ Legendary Arena Tornadus
 2021-04-22 06:00:00 UTC
 2021-05-06 06:00:00 UTC
 
-May Seasonal Scout
+May (Spring 2021) & Lopunny Seasonal Scout
 
 2021-04-02 06:00:00 UTC
 2021-04-16 06:00:00 UTC
 
-Burgh Seasonal Scout
+Burgh (Spring 2021) & Togepi Seasonal Scout
 
 2021-04-02 06:00:00 UTC
 2021-04-16 06:00:00 UTC
 
-Leaf and Gladion Spotlight Scout
+Leaf [gridEX] and Gladion Spotlight Scout
 
 2021-04-05 06:00:00 UTC
 2021-04-17 06:00:00 UTC
@@ -77,14 +77,14 @@ May and Brendan Spotlight Scout
 2021-04-08 06:00:00 UTC
 2021-04-22 06:00:00 UTC
 
-Elio Spotlight Scout
+Elio & Popplio Spotlight Scout
 
 2021-04-17 06:00:00 UTC
 2021-05-02 06:00:00 UTC
 
-Selene Spotlight Scout
+Selene & Rowlet Spotlight Scout
 
-2021-04-17 06:00:00 UTC
+2021-04-15 06:00:00 UTC
 2021-05-02 06:00:00 UTC
 
 Guzma and Lusamine Spotlight Scout
@@ -97,7 +97,7 @@ N Poké Fair Scout
 2021-04-22 06:00:00 UTC
 2021-05-20 06:00:00 UTC
 
-Double Feature Spotlight Scout
+Double Feature Spotlight Scout (Volkner & SS Elesa)
 
 2021-04-22 06:00:00 UTC
 2021-05-06 06:00:00 UTC`;
