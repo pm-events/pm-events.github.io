@@ -9,6 +9,16 @@ document.getElementById("reddit").onclick = () => window.open("https://www.reddi
 document.getElementById("twitteren").onclick = () => window.open("https://twitter.com/PokemonMasters");
 document.getElementById("twitterjp").onclick = () => window.open("https://twitter.com/pokemas_game");
 
+if(window.matchMedia("(max-width: 1199px)").matches) {
+  document.getElementsByClassName("dropdown")[0].onclick = () => {
+    document.getElementsByClassName("dropdown-content")[0].style.display = "inline-block";
+    document.getElementsByClassName("dropbtn")[0].style.backgroundColor = "grey";
+  }
+  window.onclick = (e) => {
+  if(!e.target.className.includes("drop")) document.getElementsByClassName("dropdown-content")[0].style.display = "none";
+  };
+}
+
 document.getElementById("rumors").onclick = () => {
   if (active) {
     document.getElementById(active).className = "";
