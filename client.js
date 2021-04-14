@@ -17,7 +17,7 @@ document.getElementById("rumors").onclick = () => {
   active = "rumors";
   document.getElementById("rumors").className = "active";
   setInterval(() => {
-    const a = rumorstxt.split(/(?<=UTC)\n\n/)
+    const a = rumorstxt.split("UTC\n\n")
     const b = a.map(item =>item.replace("\n", ""))
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
@@ -72,7 +72,7 @@ document.getElementById("ongoing").onclick = () => {
   active = "ongoing";
   document.getElementById("ongoing").className = "active";
   setInterval(() => {
-    const a = rumorstxt.split(/(?<=UTC)\n\n/)
+    const a = rumorstxt.split("UTC\n\n")
     const b = a.map(item =>item.replace("\n", ""))
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
