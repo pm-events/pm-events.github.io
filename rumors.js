@@ -99,5 +99,5 @@ N Poké Fair Scout
 
 Double Feature Spotlight Scout (Volkner & SS Elesa)
 
-2021-04-22 06:00:00 UTC
+2021-04-26 06:00:00 UTC
 2021-05-06 06:00:00 UTC`;
