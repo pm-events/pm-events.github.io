@@ -63,6 +63,10 @@ Raihan & Duraludon Poké Fair Scout
 2021-04-28 06:00:00 UTC
 2021-05-31 06:00:00 UTC
 
+Training Area Update (Lv. 135 Level Cap Items)
+
+2021-04-28 06:00:00 UTC
+
 Blissful Bonanza!
 
 2021-04-30 06:00:00 UTC
