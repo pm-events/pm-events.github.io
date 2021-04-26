@@ -58,12 +58,12 @@ Time Trial Event: Eternal Rivals
 2021-04-28 06:00:00 UTC
 2021-05-16 06:00:00 UTC
 
-Raihan Poké Fair Scout
+Raihan & Duraludon Poké Fair Scout
 
 2021-04-28 06:00:00 UTC
 2021-05-31 06:00:00 UTC
 
-Blissful: Bonanza!
+Blissful Bonanza!
 
 2021-04-30 06:00:00 UTC
 2021-05-07 06:00:00 UTC
@@ -113,7 +113,7 @@ Special Event Phase 1: Weather Alert
 2021-05-06 06:00:00 UTC
 2021-05-28 06:00:00 UTC
 
-Nessa Spotlight Scout
+Nessa & Drednaw Spotlight Scout
 
 2021-05-13 06:00:00 UTC
 2021-05-29 06:00:00 UTC
@@ -128,7 +128,7 @@ Event Gem Special!
 2021-05-13 06:00:00 UTC
 2021-05-31 06:00:00 UTC
 
-Bea Spotlight Scout
+Bea & Sirfetch'd Spotlight Scout
 
 2021-05-15 06:00:00 UTC
 2021-05-29 06:00:00 UTC
