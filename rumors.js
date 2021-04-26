@@ -98,7 +98,7 @@ Special Log-In Bonus
 2021-05-06 06:00:00 UTC
 2021-05-16 06:00:00 UTC
 
-Triple Feature Spotlight Scout (Grimsley, Elesa, Burgh)
+Triple Feature Spotlight Scout (Grimsley [ex], Elesa, Burgh [ex])
 
 2021-05-06 06:00:00 UTC
 2021-05-20 06:00:00 UTC
@@ -148,7 +148,7 @@ Legendary Event: Pure Hearts and Rainbow Wings (Ho-Oh [grid])
 2021-05-18 06:00:00 UTC
 2021-06-07 06:00:00 UTC
 
-Serena, Hilda, and Ethan Spotlight Scout
+Serena, Hilda [ex], and Ethan [ex] Spotlight Scout
 
 2021-05-20 06:00:00 UTC
 2021-06-03 06:00:00 UTC
@@ -174,5 +174,6 @@ Super Spotlight Poké Fair Scout (Steven, SS Cynthia, Lance, maybe Cynthia)
 2021-06-08 06:00:00 UTC
 
 Story Event: Two Champions
+
 2021-05-25 06:00:00 UTC
 2021-06-08 06:00:00 UTC`;
