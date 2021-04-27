@@ -31,9 +31,8 @@ document.getElementById("rumors").onclick = () => {
     const b = a.map(item =>item.replace("\n", ""))
     const rumors = b.map(event => {
       return {name: event.split("\n")[0],
-        date: event.split("\n")[1].split("-").join("/"),
-        expires: event.split("\n")[2] !== undefined ? event.split("\n")[2].split("-").join("/").split("-").join("/") : ""}
-    })
+        date: event.split("\n")[1].split("-").join("/").endsWith("UTC") ? event.split("\n")[1].split("-").join("/") : event.split("\n")[1].split("-").join("/") + "UTC",
+        expires: event.split("\n")[2] !== undefined ? event.split("\n")[2].split("-").join("/").split("-").join("/").endsWith("UTC") ? event.split("\n")[2].split("-").join("/").split("-").join("/") : event.split("\n")[2].split("-").join("/").split("-").join("/") + "UTC" : ""}
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() >= 0 || e.date === "TBA").sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
     const nextEvents = events.filter(e => e.date === events[0].date);
     const futureEvents = events.filter(e => e.date !== events[0].date);
