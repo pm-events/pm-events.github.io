@@ -36,7 +36,7 @@ document.getElementById("rumors").onclick = () => {
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() >= 0 || e.date === "TBA").sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
     const nextEvents = events.filter(e => e.date === events[0].date);
     const futureEvents = events.filter(e => e.date !== events[0].date);
-    document.getElementById("rumorstitles").innerHTML = nextEvents.length >= 1 ? "<b style=\"\">" + nextEvents.map(e => e.name.replace(/\[ex\]/g, "<img src=\"./ex.png\"/>").replace(/\[gridEX\]/g, "<img src=\"./grid.png\"/><img src=\"./ex.png\"/>")).join("<br>") + "</b>" : "No rumors yet.";
+    document.getElementById("rumorstitles").innerHTML = nextEvents.length >= 1 ? "<b style=\"\">" + nextEvents.map(e => e.name.replace(/\[grid\]/g, "<img src=\"./grid.png\"/>").replace(/\[ex\]/g, "<img src=\"./ex.png\"/>").replace(/\[gridEX\]/g, "<img src=\"./grid.png\"/><img src=\"./ex.png\"/>")).join("<br>") + "</b>" : "No rumors yet.";
     document.getElementById("rumorsdate").innerHTML = nextEvents.length >= 1 ? nextEvents[0].date !== "TBA" ? "<span style=\"font-size:10px\"><i>" + new Date(nextEvents[0].date).toDateString() + "</i></span>" : null : null;
     const countdown = events.length >= 1 ? new Date(events[0].date).getTime() - Date.now() : null;
     const days = Math.floor(countdown / (1000 * 60 * 60 * 24));
