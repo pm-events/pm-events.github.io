@@ -8,7 +8,7 @@ export const announced = [
     date: "May 17, 2021"
   },
   {
-    name: ["Fire-Type Egg Event"],
+    name: ["Fire-Type Egg Event","Legendary Arena: Cobalion"],
     date: "May 20, 2021"
   },
   {
