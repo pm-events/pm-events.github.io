@@ -172,7 +172,7 @@ Training Area Reward Boost Rally
 2021-05-25 06:00:00 UTC
 2021-06-01 06:00:00 UTC
 
-Super Spotlight Poké Fair Scout (Steven, SS Cynthia, Lance, maybe Cynthia)
+Super Spotlight Poké Fair Scout (Steven, SS Cynthia, Lance, Cynthia)
 
 2021-05-25 06:00:00 UTC
 2021-06-08 06:00:00 UTC
