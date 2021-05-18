@@ -89,7 +89,7 @@ document.getElementById("ongoing").onclick = () => {
         expires: event.split("\n")[2] !== undefined ? event.split("\n")[2].split("-").join("/").split("-").join("/") : ""}
     })
     const events = rumors.filter(e => new Date(e.date).getTime() - Date.now() <= 0 && new Date(e.expires).getTime() >= Date.now());
-    document.getElementById("ongoinglist").innerHTML = events.sort((a, b) => new Date(a.expires).getTime() - new Date(b.expires).getTime()).map(e => e.name.replace("[grid]", "<img src=\"./grid.png\"/>").replace("[ex]", "<img src=\"./ex.png\"/>").replace("[gridEX]", "<img src=\"./grid.png\"/><img src=\"./ex.png\"/>") +  ` - Ends on <span style="color:darkgrey;">${new Date(e.expires).toDateString()}</span>`).flat().join("<br>") || "No events running at the moment.";
+    document.getElementById("ongoinglist").innerHTML = events.sort((a, b) => new Date(a.expires).getTime() - new Date(b.expires).getTime()).map(e => e.name.replace(/\[grid\]/g, "<img src=\"./grid.png\"/>").replace(/\[ex\]/g, "<img src=\"./ex.png\"/>").replace(/\[gridEX\]/g, "<img src=\"./grid.png\"/><img src=\"./ex.png\"/>") +  ` - Ends on <span style="color:darkgrey;">${new Date(e.expires).toDateString()}</span>`).flat().join("<br>") || "No events running at the moment.";
   }, 1000);
   document.getElementById("ongoingdiv").style.display = "inline-block";
 }
