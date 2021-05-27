@@ -1,116 +1,7 @@
-export const rumorstxt = `Legendary Event: The Dragon That Rules the Sky (Rayquaza [grid])
-
-2021-04-08 06:00:00 UTC
-2021-05-18 06:00:00 UTC
-
-Story Event: Trials on the Isle
-
-2021-04-15 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Water- and Electric-type Egg Event
-
-2021-04-22 06:00:00 UTC
-2021-05-06 06:00:00 UTC
-
-Legendary Arena Tornadus
-
-2021-04-22 06:00:00 UTC
-2021-05-06 06:00:00 UTC
-
-Elio & Popplio Spotlight Scout
-
-2021-04-17 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Selene & Rowlet Spotlight Scout
-
-2021-04-15 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-Guzma and Lusamine Spotlight Scout
-
-2021-04-19 06:00:00 UTC
-2021-05-02 06:00:00 UTC
-
-N Poké Fair Scout
-
-2021-04-22 06:00:00 UTC
-2021-05-20 06:00:00 UTC
-
-Double Feature Spotlight Scout (Volkner & SS Elesa)
-
-2021-04-26 06:00:00 UTC
-2021-05-06 06:00:00 UTC
-
-Raihan Welcome Rally
-
-2021-04-28 06:00:00 UTC
-2021-05-13 06:00:00 UTC
-
-Limited-Time Extra Gem Specials!
-
-2021-04-28 06:00:00 UTC
-2021-05-13 06:00:00 UTC
-
-Time Trial Event: Eternal Rivals
-
-2021-04-28 06:00:00 UTC
-2021-05-16 06:00:00 UTC
-
-Raihan & Duraludon Poké Fair Scout
+export const rumorstxt = `Raihan & Duraludon Poké Fair Scout
 
 2021-04-28 06:00:00 UTC
 2021-05-31 06:00:00 UTC
-
-Training Area Update (Lv. 135 Level Cap Items)
-
-2021-04-28 06:00:00 UTC
-
-Blissful Bonanza!
-
-2021-04-30 06:00:00 UTC
-2021-05-07 06:00:00 UTC
-
-5★-Select Special Scout ×11
-
-2021-04-30 06:00:00 UTC
-2021-05-13 06:00:00 UTC
-
-The Battle Villa Is Open!
-
-2021-04-30 06:00:00 UTC
-2021-05-14 06:00:00 UTC
-
-Alder Poké Fair Scout
-
-2021-05-04 06:00:00 UTC
-2021-05-20 06:00:00 UTC
-
-Legendary Event: Father or Foe (Kyurem [grid])
-
-2021-05-04 06:00:00 UTC
-2021-05-20 06:00:00 UTC
-
-Special Rally
-
-2021-05-06 06:00:00 UTC
-2021-05-13 06:00:00 UTC
-
-Special Log-In Bonus
-
-2021-05-06 06:00:00 UTC
-2021-05-16 06:00:00 UTC
-
-Triple Feature Spotlight Scout (Grimsley [ex], Elesa, Burgh [ex])
-
-2021-05-06 06:00:00 UTC
-2021-05-20 06:00:00 UTC
-
-Legendary Arena: Azelf
-
-2021-05-06 06:00:00 UTC
-2021-05-20 06:00:00 UTC
 
 Special Event Phase 1: Weather Alert
 
@@ -180,4 +71,133 @@ Super Spotlight Poké Fair Scout (Steven, SS Cynthia, Lance, Cynthia)
 Story Event: Two Champions
 
 2021-05-25 06:00:00 UTC
-2021-06-08 06:00:00 UTC`;
+2021-06-08 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2021-05-31 06:00:00 UTC
+2021-06-11 06:00:00 UTC
+
+Story Event: Masters of Land and Sea
+
+2021-05-31 06:00:00 UTC
+2021-06-14 06:00:00 UTC
+
+Maxie & Groudon Master Fair Scout
+
+2021-05-31 06:00:00 UTC
+2021-06-30 06:00:00 UTC
+
+Archie & Kyogre Master Fair Scout
+
+2021-06-01 06:00:00 UTC
+2021-06-30 06:00:00 UTC
+
+Gem Special + Present!
+
+2021-06-01 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Hoenn 5★-Guaranteed Scout
+
+2021-06-02 06:00:00 UTC
+2021-06-21 06:00:00 UTC
+
+Extreme Battle Event: Ancient Brawl
+
+2021-06-03 06:00:00 UTC
+2021-06-21 06:00:00 UTC
+
+Special Rally
+
+2021-06-07 06:00:00 UTC
+2021-06-14 06:00:00 UTC
+
+The Story Continues!
+
+2021-06-07 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2021-06-07 06:00:00 UTC
+2021-06-21 06:00:00 UTC
+
+Legendary Event: The Beast That Devours the Sun (Solgaleo [grid])
+
+2021-06-07 06:00:00 UTC
+2021-07-26 06:00:00 UTC
+
+Triple Feature Spotlight Scout
+
+2021-06-09 06:00:00 UTC
+2021-06-23 06:00:00 UTC
+
+Legendary Arena: Entei
+
+2021-06-09 06:00:00 UTC
+2021-06-23 06:00:00 UTC
+
+Battle Point Challenge: Daily Region Rotation
+
+2021-06-10 06:00:00 UTC
+2021-06-15 06:00:00 UTC
+
+Lana & Araquanid Spotlight Scout
+
+2021-06-11 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Event Gem Special!
+
+2021-06-11 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Solo Event: Town Square Street Fair
+
+2021-06-11 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Kiawe & Alolan Marowak Spotlight Scout
+
+2021-06-13 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Hala & Crabominable Spotlight Scout
+
+2021-06-15 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+The Masked Royal & Incineroar Spotlight Scout
+
+2021-06-17 06:00:00 UTC
+2021-07-01 06:00:00 UTC
+
+Grass- and Poison-Type Egg Event
+
+2021-06-21 06:00:00 UTC
+2021-07-05 06:00:00 UTC
+
+Triple Feature Spotlight Scout
+
+2021-06-21 06:00:00 UTC
+2021-07-08 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2021-06-22 06:00:00 UTC
+2021-07-06 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2021-06-24 06:00:00 UTC
+2021-06-30 06:00:00 UTC
+
+Story Event: The Star of the Contest
+
+2021-06-24 06:00:00 UTC
+2021-07-08 06:00:00 UTC
+
+Legendary Arena: Regirock
+
+2021-06-25 06:00:00 UTC
+2021-07-09 06:00:00 UTC`;
