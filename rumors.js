@@ -1,9 +1,4 @@
-export const rumorstxt = `Raihan & Duraludon Poké Fair Scout
-
-2021-04-28 06:00:00 UTC
-2021-05-31 06:00:00 UTC
-
-Special Event Phase 1: Weather Alert
+export const rumorstxt = `Special Event Phase 1: Weather Alert
 
 2021-05-06 06:00:00 UTC
 2021-05-28 06:00:00 UTC
