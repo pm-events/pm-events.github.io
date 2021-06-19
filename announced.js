@@ -16,15 +16,7 @@ export const announced = [
     date: "May 25, 2021"
   },
   {
-    name: ["Story Event: Masters of Land and Sea","Chapter 29 of the Main Story","Legendary Event: The Beast That Devours the Sun"],
-    date: "TBA"
-  },
-  {
     name: ["Daily Region Rotation Event","Player Character & Regirock","Zinnia & Salamence","Morty & Mismagius"],
     date: "June 10, 2021"
-  },
-  {
-    name: ["New Story Unfolds"],
-    date: "TBA"
   }
 ];
