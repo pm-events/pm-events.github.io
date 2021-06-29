@@ -153,7 +153,7 @@ Marnie & Grimmsnarl Seasonal Tiered Scout
 2021-07-17 06:00:00 UTC
 2021-07-31 06:00:00 UTC
 
-Steven and Lyra Seasonal Scout
+Steven [ex] and Lyra [ex] Seasonal Scout
 
 2021-07-20 06:00:00 UTC
 2021-08-03 06:00:00 UTC
