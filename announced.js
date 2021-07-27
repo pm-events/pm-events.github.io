@@ -24,7 +24,7 @@ export const announced = [
     date: "August 20, 2021"
   },
   {
-    name: ["Triple Feature Poke Fair Scout for SS Red, SS Blue, and SS Leaf (72 Hours Only!)", "Evelyn & Entei Added to BP Exchange", "Sync Pair that can use Max Moves"],
+    name: ["Triple Feature Poke Fair Scout for SS Red, SS Blue, and SS Leaf (72 Hours Only!)", "Evelyn & Entei Added to BP Exchange", "Sync Pair that can use Max Moves", "Daily log-in bonus update", "Zero stamina consumption for the Evolution Area and Sync Orb Area", "EggDex"],
     date: "TBA"
   }
 ];
