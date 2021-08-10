@@ -1,17 +1,5 @@
 export const announced = [
   {
-    name: ["PML Arc of the Main Story Concludes!","Solo Event: Lear Takes the Lead","Lear & Hoopa, Rachel & Umbreon, and Sawyer & Honchkrow Sync Pair Scout"],
-    date: "July 30, 2021"
-  },
-  {
-    name: ["Daily Type Rotation: Type Team-Up", "Falkner & Swellow Sync Pair Scout"],
-    date: "August 5, 2021"
-  },
-  {
-    name: ["Battle Points Added to Champion Stadium's Master Mode"],
-    date: "August 9, 2021"
-  },
-  {
     name: ["Run-Up to Two Years Celebration","Legendary Event: Howling Shield of Eternity (Hop & Zamazenta)"],
     date: "August 12, 2021"
   },
@@ -24,7 +12,11 @@ export const announced = [
     date: "August 20, 2021"
   },
   {
-    name: ["Triple Feature Poke Fair Scout for SS Red, SS Blue, and SS Leaf (72 Hours Only!)", "Evelyn & Entei Added to BP Exchange", "Sync Pair that can use Max Moves", "Daily log-in bonus update", "Zero stamina consumption for the Evolution Area and Sync Orb Area", "EggDex"],
+    name: ["Two-year Anniversary"],
+    date: "August 29, 2021"
+  },
+  {
+    name: ["Daily log-in bonus update", "Zero stamina consumption for the Evolution Area and Sync Orb Area", "EggDex"],
     date: "TBA"
   }
 ];
