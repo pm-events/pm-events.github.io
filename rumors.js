@@ -1,102 +1,7 @@
 export const rumorstxt = `Gem Special + Present!
 
-2021-07-01 06:00:00 UTC
-2021-08-01 06:00:00 UTC
-
-Event Gem Special!
-
-2021-07-15 06:00:00 UTC
-2021-07-30 06:00:00 UTC
-
-Gloria & Inteleon Seasonal Tiered Scout
-
-2021-07-15 06:00:00 UTC
-2021-07-31 06:00:00 UTC
-
-Story Event: Beachside Rivalry
-
-2021-07-15 06:00:00 UTC
-2021-07-31 06:00:00 UTC
-
-Marnie & Grimmsnarl Seasonal Tiered Scout
-
-2021-07-17 06:00:00 UTC
-2021-07-31 06:00:00 UTC
-
-Steven [ex] and Lyra [ex] Seasonal Scout
-
-2021-07-20 06:00:00 UTC
-2021-08-03 06:00:00 UTC
-
-Story Event: Summer Superstars
-
-2021-07-20 06:00:00 UTC
-2021-08-03 06:00:00 UTC
-
-Sync Pair-Up Event: Bugsy & Scyther
-
-2021-07-22 06:00:00 UTC
-2021-08-05 06:00:00 UTC
-
-Special Rally
-
-2021-07-26 06:00:00 UTC
-2021-08-02 06:00:00 UTC
-
-Legendary Event: Lurking Shadow (Mewtwo [grid])
-
-2021-07-26 06:00:00 UTC
-2021-08-19 06:00:00 UTC
-
-Lisia and Glacia Spotlight Scout
-
-2021-07-27 06:00:00 UTC
-2021-08-10 06:00:00 UTC
-
-Legendary Arena: Latios
-
-2021-07-27 06:00:00 UTC
-2021-08-10 06:00:00 UTC
-
-The Story Continues!
-
-2021-07-30 06:00:00 UTC
-2021-08-06 06:00:00 UTC
-
-Event Gem Special!
-
-2021-07-30 06:00:00 UTC
-2021-08-12 06:00:00 UTC
-
-Triple Feature Poké Fair Scout (Lear / Rachel / Sawyer)
-
-2021-07-30 06:00:00 UTC
-2021-08-13 06:00:00 UTC
-
-Solo Event: Lear Takes the Lead
-
-2021-07-30 06:00:00 UTC
-2021-08-13 06:00:00 UTC
-
-Gem Special + Present!
-
 2021-08-01 06:00:00 UTC
 2021-09-01 06:00:00 UTC
-
-The Battle Villa Is Open!
-
-2021-08-02 06:00:00 UTC
-2021-08-16 06:00:00 UTC
-
-Flying- and Psychic-Type Egg Event
-
-2021-08-03 06:00:00 UTC
-2021-08-17 06:00:00 UTC
-
-Legendary Arena: Tapu Bulu
-
-2021-08-05 06:00:00 UTC
-2021-08-19 06:00:00 UTC
 
 Falkner Spotlight Scout
 
@@ -191,4 +96,79 @@ Legendary Arena: Cresselia
 Sabrina [ex] and Phoebe [ex] Spotlight Scout
 
 2021-08-23 06:00:00 UTC
-2021-09-04 06:00:00 UTC`;
+2021-09-04 06:00:00 UTC
+
+Daily Battle: Present Event
+
+2021-08-28 06:00:00 UTC
+2021-09-12 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×11
+
+2021-08-28 06:00:00 UTC
+2021-09-16 06:00:00 UTC
+
+Two-Year Anniversary Gem Specials!
+
+2021-08-28 06:00:00 UTC
+2021-09-16 06:00:00 UTC
+
+Special Sync Pair Event: Misty & Psyduck
+
+2021-08-28 06:00:00 UTC
+2021-10-16 06:00:00 UTC
+
+Lillie (Anniversary 2021) & Lunala Master Fair Scout
+
+2021-08-28 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Story Event: Hearts United
+
+2021-08-28 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+N (Anniversary 2021) & Reshiram Master Fair Scout
+
+2021-08-30 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Extreme Battle Event: Unity Gala Challenge
+
+2021-09-01 06:00:00 UTC
+2021-09-16 06:00:00 UTC
+
+Steven (Anniversary 2021) & Rayquaza Master Fair Scout
+
+2021-09-01 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2021-09-02 06:00:00 UTC
+2021-09-16 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2021-09-03 06:00:00 UTC
+2021-09-10 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event
+
+2021-09-03 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Dragon- and Water-Type Egg Event
+
+2021-09-09 06:00:00 UTC
+2021-09-23 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2021-09-10 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Legendary Arena: Cobalion
+
+2021-09-10 06:00:00 UTC
+2021-09-24 06:00:00 UTC`;
