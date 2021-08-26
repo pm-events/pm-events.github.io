@@ -113,7 +113,7 @@ Two-Year Anniversary Gem Specials!
 2021-08-28 06:00:00 UTC
 2021-09-16 06:00:00 UTC
 
-Special Sync Pair Event: Misty & Psyduck
+Special Sync Pair Event: Misty (Swimsuit) & Psyduck
 
 2021-08-28 06:00:00 UTC
 2021-10-16 06:00:00 UTC
