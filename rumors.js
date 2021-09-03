@@ -148,14 +148,39 @@ The Battle Villa Is Open!
 2021-09-02 06:00:00 UTC
 2021-09-16 06:00:00 UTC
 
-Super Spotlight Seasonal Scout
+Super Spotlight Seasonal Scout (Serena, Skyla, Lillie, Acerola, Steven, Rosa)
 
 2021-09-03 06:00:00 UTC
 2021-09-10 06:00:00 UTC
 
-Two-Year Anniversary Rerun Event
+Two-Year Anniversary Rerun Event - The Girl in Black and White
 
 2021-09-03 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event - Evolution Material Mining!
+
+2021-09-05 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event - Family Ties
+
+2021-09-07 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event - The Eccentric Electrician
+
+2021-09-09 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event - Dazzling Dizzying Battle Stage
+
+2021-09-11 06:00:00 UTC
+2021-09-17 06:00:00 UTC
+
+Two-Year Anniversary Rerun Event - The Ideal Formula
+
+2021-09-13 06:00:00 UTC
 2021-09-17 06:00:00 UTC
 
 Dragon- and Water-Type Egg Event
@@ -163,7 +188,7 @@ Dragon- and Water-Type Egg Event
 2021-09-09 06:00:00 UTC
 2021-09-23 06:00:00 UTC
 
-Super Spotlight Seasonal Scout
+Super Spotlight Seasonal Scout (Dawn, Erika, Lance, Hilbert, Lyra, Siebold)
 
 2021-09-10 06:00:00 UTC
 2021-09-17 06:00:00 UTC
