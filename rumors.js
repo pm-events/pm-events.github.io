@@ -1,24 +1,4 @@
-export const rumorstxt = `Gem Special + Present!
-
-2021-08-01 06:00:00 UTC
-2021-09-01 06:00:00 UTC
-
-Falkner Spotlight Scout
-
-2021-08-05 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Daily Type Rotation: Type Team-Up
-
-2021-08-05 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Sidney Spotlight Scout
-
-2021-08-09 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Sygna Suit Leon Poké Fair Scout
+export const rumorstxt = `Sygna Suit Leon Poké Fair Scout
 
 2021-08-12 06:00:00 UTC
 2021-09-16 06:00:00 UTC
@@ -27,26 +7,6 @@ Legendary Event: Howling Shield of Eternity
 
 2021-08-12 06:00:00 UTC
 2021-09-16 06:00:00 UTC
-
-Run-Up to Two Years Rally
-
-2021-08-12 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Run-Up to Two Years Gem Specials!
-
-2021-08-12 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Gloria Poké Fair Scout
-
-2021-08-16 06:00:00 UTC
-2021-09-02 06:00:00 UTC
-
-5★-Select Special Scout ×11
-
-2021-08-17 06:00:00 UTC
-2021-09-02 06:00:00 UTC
 
 10-Pair Scout (Max 100 Pairs)
 
@@ -67,41 +27,6 @@ Legendary Event: New World Dilemma (Cyrus & Palkia)
 
 2021-08-19 06:00:00 UTC
 2021-09-16 06:00:00 UTC
-
-Two-Year Run-Up Special Rally
-
-2021-08-19 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Blissful: Bonanza!
-
-2021-08-19 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Training Area Reward Boost Rally
-
-2021-08-19 06:00:00 UTC
-2021-08-28 06:00:00 UTC
-
-Lysandre Poké Fair Scout
-
-2021-08-20 06:00:00 UTC
-2021-09-04 06:00:00 UTC
-
-Legendary Arena: Cresselia
-
-2021-08-20 06:00:00 UTC
-2021-09-04 06:00:00 UTC
-
-Sabrina [ex] and Phoebe [ex] Spotlight Scout
-
-2021-08-23 06:00:00 UTC
-2021-09-04 06:00:00 UTC
-
-Daily Battle: Present Event
-
-2021-08-28 06:00:00 UTC
-2021-09-12 06:00:00 UTC
 
 5★-Select Poké Fair Scout ×11
 
@@ -136,7 +61,7 @@ N (Anniversary 2021) & Reshiram Master Fair Scout
 Extreme Battle Event: Unity Gala Challenge
 
 2021-09-01 06:00:00 UTC
-2021-09-16 06:00:00 UTC
+2021-09-23 06:00:00 UTC
 
 Steven (Anniversary 2021) & Rayquaza Master Fair Scout
 
@@ -147,11 +72,6 @@ The Battle Villa Is Open!
 
 2021-09-02 06:00:00 UTC
 2021-09-16 06:00:00 UTC
-
-Super Spotlight Seasonal Scout (Serena, Skyla, Lillie, Acerola, Steven, Rosa)
-
-2021-09-03 06:00:00 UTC
-2021-09-10 06:00:00 UTC
 
 Two-Year Anniversary Rerun Event - The Girl in Black and White
 
@@ -196,4 +116,74 @@ Super Spotlight Seasonal Scout (Dawn, Erika, Lance, Hilbert, Lyra, Siebold)
 Legendary Arena: Cobalion
 
 2021-09-10 06:00:00 UTC
-2021-09-24 06:00:00 UTC`;
+2021-09-24 06:00:00 UTC
+
+Villain Event Prelude: Looming Shadow of Kanto
+
+2021-09-16 06:00:00 UTC
+2021-10-16 06:00:00 UTC
+
+Legendary Event: Lurking Shadow (Mewtwo [ex])
+
+2021-09-16 06:00:00 UTC
+2021-10-16 06:00:00 UTC
+
+Event Gem Special!
+
+2021-09-16 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Red & Snorlax Poké Fair Scout
+
+2021-09-16 06:00:00 UTC
+2021-10-30 06:00:00 UTC
+
+5★-Guaranteed Kanto Special Scout (Blue, Leaf, Sabrina)
+
+2021-09-18 06:00:00 UTC
+2021-10-16 06:00:00 UTC
+
+Extreme Battle Event: Team Rocket Takedown
+
+2021-09-18 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Blue (Classic) & Aerodactyl Poké Fair Scout
+
+2021-09-18 06:00:00 UTC
+2021-10-30 06:00:00 UTC
+
+Marnie Poké Fair Scout
+
+2021-09-21 06:00:00 UTC
+2021-10-05 06:00:00 UTC
+
+Legendary Arena: Tornadus
+
+2021-09-21 06:00:00 UTC
+2021-10-05 06:00:00 UTC
+
+Triple Feature Spotlight Scout (Volkner, SS Elesa, Clemont)
+
+2021-09-23 06:00:00 UTC
+2021-10-05 06:00:00 UTC
+
+Blissful: Bonanza!
+
+2021-09-23 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Ghost-Type Gear Event
+
+2021-09-23 06:00:00 UTC
+2021-09-30 06:00:00 UTC
+
+Special Rally
+
+2021-09-24 06:00:00 UTC
+2021-10-01 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2021-09-24 06:00:00 UTC
+2021-10-01 06:00:00 UTC`;
