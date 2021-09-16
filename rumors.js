@@ -118,7 +118,7 @@ Legendary Arena: Cobalion
 2021-09-10 06:00:00 UTC
 2021-09-24 06:00:00 UTC
 
-Villain Event Prelude: Looming Shadow of Kanto (Mewtwo [ex] Unlocked]
+Villain Event Prelude: Looming Shadow of Kanto (Mewtwo [ex] Unlocked)
 
 2021-09-16 06:00:00 UTC
 2021-10-16 06:00:00 UTC
