@@ -139,6 +139,7 @@ Jasmine Seasonal Tiered Scout
 2021-12-10 06:00:00 UTC
 
 Legendary Arena: Regirock
+
 2021-11-19 06:00:00 UTC
 2021-12-03 06:00:00 UTC
 
