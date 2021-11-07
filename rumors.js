@@ -1,62 +1,7 @@
-export const rumorstxt = `Red & Snorlax Poké Fair Scout
-
-2021-09-16 06:00:00 UTC
-2021-10-30 06:00:00 UTC
-
-Blue (Classic) & Aerodactyl Poké Fair Scout
-
-2021-09-18 06:00:00 UTC
-2021-10-30 06:00:00 UTC
-
-Gem Special + Present!
-
-2021-10-01 06:00:00 UTC
-2021-11-01 06:00:00 UTC
-
-Morty Seasonal Tiered Scout
-
-2021-10-14 06:00:00 UTC
-2021-11-05 06:00:00 UTC
-
-Story Event: Midnight Spookfest
-
-2021-10-14 06:00:00 UTC
-2021-11-05 06:00:00 UTC
-
-Event Gem Special!
-
-2021-10-14 06:00:00 UTC
-2021-10-29 06:00:00 UTC
-
-Caitlin Seasonal Tiered Scout
-
-2021-10-16 06:00:00 UTC
-2021-11-05 06:00:00 UTC
-
-Legendary Event: Pure Hearts and Rainbow Wings
+export const rumorstxt = `Legendary Event: Pure Hearts and Rainbow Wings
 
 2021-10-16 06:00:00 UTC
 2021-11-22 06:00:00 UTC
-
-The Battle Villa Is Open!
-
-2021-10-19 06:00:00 UTC
-2021-11-02 06:00:00 UTC
-
-Acerola and Hilbert Seasonal Scout
-
-2021-10-20 06:00:00 UTC
-2021-11-04 06:00:00 UTC
-
-Story Event: Fight or Fright
-
-2021-10-20 06:00:00 UTC
-2021-11-04 06:00:00 UTC
-
-Legendary Arena: Uxie
-
-2021-10-22 06:00:00 UTC
-2021-11-05 06:00:00 UTC
 
 Allister Spotlight Scout
 
@@ -154,6 +99,11 @@ Training Area Reward Boost Rally
 2021-11-30 06:00:00 UTC
 
 Special Monthly Event: Pokémon Masters Day
+
+2021-11-25 06:00:00 UTC
+2021-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
 
 2021-11-25 06:00:00 UTC
 2021-11-26 06:00:00 UTC
