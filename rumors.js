@@ -418,6 +418,11 @@ Pokémon Masters Day One-Time-Only Happy Scout
 2022-01-25 06:00:00 UTC
 2022-01-26 06:00:00 UTC
 
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-01-25 06:00:00 UTC
+2022-01-26 06:00:00 UTC
+
 Hop & Zamazenta: Howling Shield of Eternity
 
 2022-02-04 06:00:00 UTC
