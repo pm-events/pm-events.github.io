@@ -1,177 +1,7 @@
-export const rumorstxt = `Sygna Suit Lusamine Master Fair Scout
-
-2021-11-30 06:00:00 UTC
-2021-12-29 06:00:00 UTC
-
-Gem Special + Present!
-
-2021-12-01 06:00:00 UTC
-2022-01-01 06:00:00 UTC
-
-Leon Seasonal Tiered Scout
-
-2021-12-16 06:00:00 UTC
-2022-01-01 06:00:00 UTC
-
-Story Event: Winter Wishes
-
-2021-12-16 06:00:00 UTC
-2022-01-01 06:00:00 UTC
-
-Event Gem Special!
-
-2021-12-16 06:00:00 UTC
-2021-12-29 06:00:00 UTC
-
-Nessa Seasonal Tiered Scout
-
-2021-12-18 06:00:00 UTC
-2022-01-01 06:00:00 UTC
-
-Super Spotlight Seasonal Scout
-
-2021-12-22 06:00:00 UTC
-2022-01-05 06:00:00 UTC
-
-Story Event: Deck the Halls
-
-2021-12-22 06:00:00 UTC
-2022-01-05 06:00:00 UTC
-
-Sonia Spotlight Scout
-
-2021-12-23 06:00:00 UTC
-2022-01-08 06:00:00 UTC
-
-Legendary Arena: Latios
-
-2021-12-24 06:00:00 UTC
-2022-01-08 06:00:00 UTC
-
-Cyrus & Palkia: New World Dilemma
-
-2021-12-24 06:00:00 UTC
-2021-12-31 06:00:00 UTC
-
-Special Monthly Event: Pokémon Masters Day
-
-2021-12-25 06:00:00 UTC
-2021-12-26 06:00:00 UTC
-
-Pokémon Masters Day One-Time-Only Happy Scout
-
-2021-12-25 06:00:00 UTC
-2021-12-26 06:00:00 UTC
-
-Master Fair Gem Special!
-
-2021-12-27 06:00:00 UTC
-2022-01-13 06:00:00 UTC
-
-Villain Event Prelude: Galactic Nightmare
-
-2021-12-27 06:00:00 UTC
-2022-01-13 06:00:00 UTC
-
-Sygna Suit Renegade Cynthia Master Fair Scout
+export const rumorstxt = `Sygna Suit Renegade Cynthia Master Fair Scout
 
 2021-12-27 06:00:00 UTC
 2022-02-28 06:00:00 UTC
-
-New Year’s Gem Present
-
-2022-01-01 06:00:00 UTC
-2022-01-08 06:00:00 UTC
-
-Daily Battle: New Year’s Challenge
-
-2022-01-01 06:00:00 UTC
-2022-01-08 06:00:00 UTC
-
-Sabrina Seasonal Tiered Scout
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Volkner Seasonal Tiered Scout
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-5★-Select Poké Fair Scout ×25 (A)
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-5★-Select Poké Fair Scout ×25 (B)
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-5★-Select Special Scout ×15
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Happy New Year Gem Special!
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Story Event: New Year and New Friends
-
-2022-01-01 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Ghetsis & Kyurem: Father or Foe
-
-2022-01-04 06:00:00 UTC
-2022-01-11 06:00:00 UTC
-
-5★-Guaranteed Seasonal Scout
-
-2022-01-04 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Lillie and Lance Seasonal Scout
-
-2022-01-04 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Story Event: Season’s Greetings
-
-2022-01-04 06:00:00 UTC
-2022-01-18 06:00:00 UTC
-
-Dragon-Type Gear Event
-
-2022-01-06 06:00:00 UTC
-2022-01-13 06:00:00 UTC
-
-The Battle Villa Is Open!
-
-2022-01-06 06:00:00 UTC
-2022-01-20 06:00:00 UTC
-
-Special Rally
-
-2022-01-07 06:00:00 UTC
-2022-01-14 06:00:00 UTC
-
-Training Area Reward Boost Rally
-
-2022-01-07 06:00:00 UTC
-2022-01-14 06:00:00 UTC
-
-Legendary Arena: Uxie
-
-2022-01-07 06:00:00 UTC
-2022-01-21 06:00:00 UTC
-
-New chapter added to the villain arc!
-
-2022-01-13 06:00:00 UTC
-2022-01-20 06:00:00 UTC
 
 Lucas Poké Fair Scout
 
@@ -187,11 +17,6 @@ Event Gem Special!
 
 2022-01-13 06:00:00 UTC
 2022-01-31 06:00:00 UTC
-
-Professor Sycamore & Xerneas: Give and Take
-
-2022-01-14 06:00:00 UTC
-2022-01-21 06:00:00 UTC
 
 5★-Guaranteed Sinnoh Special Scout
 
@@ -253,27 +78,177 @@ Fire- and Steel-Type Egg Event
 2022-01-24 06:00:00 UTC
 2022-02-07 06:00:00 UTC
 
-Main Character & Solgaleo: The Beast That Devours the Sun
+Hop & Zamazenta: Howling Shield of Eternity
 
-2022-01-24 06:00:00 UTC
+2022-02-04 06:00:00 UTC
+2022-02-11 06:00:00 UTC
+
+Music Coin Challenge: Daily Battle Event
+
+2022-01-28 06:00:00 UTC
+2022-02-07 06:00:00 UTC
+
+Event Gem Special!
+
 2022-01-31 06:00:00 UTC
+2022-02-17 06:00:00 UTC
 
-Special Monthly Event: Pokémon Masters Day
+Marnie Seasonal Tiered Scout
 
-2022-01-25 06:00:00 UTC
-2022-01-26 06:00:00 UTC
+2022-01-31 06:00:00 UTC
+2022-02-19 06:00:00 UTC
 
-Pokémon Masters Day One-Time-Only Happy Scout
+Story Event: Sweet Shenanigans
 
-2022-01-25 06:00:00 UTC
-2022-01-26 06:00:00 UTC
+2022-01-31 06:00:00 UTC
+2022-02-19 06:00:00 UTC
 
-Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+Bea Seasonal Tiered Scout
 
-2022-01-25 06:00:00 UTC
-2022-01-26 06:00:00 UTC
+2022-02-02 06:00:00 UTC
+2022-02-19 06:00:00 UTC
 
 Hop & Zamazenta: Howling Shield of Eternity
 
 2022-02-04 06:00:00 UTC
-2022-02-11 06:00:00 UTC`;
+2022-02-11 06:00:00 UTC
+
+5★-Guaranteed Seasonal Scout
+
+2022-02-05 06:00:00 UTC
+2022-02-19 06:00:00 UTC
+
+Serena and Dawn Seasonal Scout
+
+2022-02-05 06:00:00 UTC
+2022-02-19 06:00:00 UTC
+
+Story Event: Baking Buddies
+
+2022-02-05 06:00:00 UTC
+2022-02-19 06:00:00 UTC
+
+Legendary Arena: Tapu Bulu
+
+2022-02-07 06:00:00 UTC
+2022-02-21 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-02-07 06:00:00 UTC
+2022-02-21 06:00:00 UTC
+
+Water- and Ice-Type Egg Event
+
+2022-02-07 06:00:00 UTC
+2022-02-21 06:00:00 UTC
+
+New content added to the Sinnoh chapter!
+
+2022-02-10 06:00:00 UTC
+2022-02-17 06:00:00 UTC
+
+Sygna Suit Cyrus Poké Fair Scout
+
+2022-02-10 06:00:00 UTC
+2022-02-28 06:00:00 UTC
+
+Villain Event: Galactic Awakening
+
+2022-02-10 06:00:00 UTC
+2022-02-28 06:00:00 UTC
+
+Sygna Suit Dawn Poké Fair Scout
+
+2022-02-14 06:00:00 UTC
+2022-02-28 06:00:00 UTC
+
+Extreme Battle Event: Cynthia’s Determination
+
+2022-02-14 06:00:00 UTC
+2022-02-28 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2022-02-16 06:00:00 UTC
+2022-02-28 06:00:00 UTC
+
+Run-Up to 2.5 Years Gem Special!
+
+2022-02-17 06:00:00 UTC
+2022-03-03 06:00:00 UTC
+
+Red and Blue (Classic) Poké Fair Scout
+
+2022-02-17 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Extreme Battle Event: Team Rocket Takedown
+
+2022-02-17 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Villain Event Prelude: Looming Shadow of Kanto
+
+2022-02-17 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Special Sync Pair Event: Blue & Arcanine
+
+2022-02-17 06:00:00 UTC
+2022-03-17 06:00:00 UTC
+
+Double Feature Spotlight Scout
+
+2022-02-21 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Kanto-only 5★-Select Scout ×11
+
+2022-02-21 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Extreme Battle Event: Giovanni’s Malice
+
+2022-02-21 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+Villain Event: Spreading Shadows
+
+2022-02-21 06:00:00 UTC
+2022-03-07 06:00:00 UTC
+
+10-Pair Scout (Max 100 Pairs)
+
+2022-02-21 06:00:00 UTC
+2022-03-24 06:00:00 UTC
+
+Special Rally
+
+2022-02-24 06:00:00 UTC
+2022-03-03 06:00:00 UTC
+
+Blissful: Bonanza!
+
+2022-02-24 06:00:00 UTC
+2022-03-03 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-02-24 06:00:00 UTC
+2022-03-03 06:00:00 UTC
+
+Legendary Arena: Moltres
+
+2022-02-24 06:00:00 UTC
+2022-03-10 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-02-25 06:00:00 UTC
+2022-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2022-02-25 06:00:00 UTC
+2022-02-26 06:00:00 UTC`;
