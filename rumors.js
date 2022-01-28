@@ -78,11 +78,6 @@ Fire- and Steel-Type Egg Event
 2022-01-24 06:00:00 UTC
 2022-02-07 06:00:00 UTC
 
-Hop & Zamazenta: Howling Shield of Eternity
-
-2022-02-04 06:00:00 UTC
-2022-02-11 06:00:00 UTC
-
 Music Coin Challenge: Daily Battle Event
 
 2022-01-28 06:00:00 UTC
