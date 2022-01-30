@@ -246,4 +246,9 @@ Special Monthly Event: Pokémon Masters Day
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2022-02-25 06:00:00 UTC
+2022-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-02-25 06:00:00 UTC
 2022-02-26 06:00:00 UTC`;
