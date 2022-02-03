@@ -8,6 +8,7 @@ document.getElementById("discord").onclick = () => window.open("https://discord.
 document.getElementById("reddit").onclick = () => window.open("https://www.reddit.com/r/PokemonMasters/");
 document.getElementById("twitteren").onclick = () => window.open("https://twitter.com/PokemonMasters");
 document.getElementById("twitterjp").onclick = () => window.open("https://twitter.com/pokemas_game");
+document.getElementById("github").onclick = () => window.open("https://github.com/pm-events/pm-events.github.io/");
 
 if(window.matchMedia("(max-width: 1199px)").matches) {
   document.getElementsByClassName("dropdown")[0].onclick = () => {
