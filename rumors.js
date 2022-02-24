@@ -413,6 +413,11 @@ Special Monthly Event: Pokémon Masters Day
 2022-03-25 06:00:00 UTC
 2022-03-26 06:00:00 UTC
 
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-03-25 06:00:00 UTC
+2022-03-26 06:00:00 UTC
+
 Psychic-Type Gear Event
 
 2022-03-26 06:00:00 UTC
