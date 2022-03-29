@@ -413,6 +413,11 @@ Special Monthly Event: Pokémon Masters Day
 2022-03-25 06:00:00 UTC
 2022-03-26 06:00:00 UTC
 
+Pokémon Masters Day Scout for 25 Gems
+
+2022-03-25 06:00:00 UTC
+2022-03-26 06:00:00 UTC
+
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2022-03-25 06:00:00 UTC
@@ -421,4 +426,129 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Psychic-Type Gear Event
 
 2022-03-26 06:00:00 UTC
-2022-04-02 06:00:00 UTC`;
+2022-04-02 06:00:00 UTC
+
+Lillie Costume Tiered Scout
+
+2022-03-31 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Costume Event: Curious Tea Party
+
+2022-03-31 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Event Gem Special!
+
+2022-03-31 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+May and Burgh Seasonal Scout
+
+2022-04-04 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+5★-Guaranteed Seasonal Scout
+
+2022-04-04 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+Story Event: Pasio Eggsplorers
+
+2022-04-04 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+Sonia Costume Tiered Scout
+
+2022-04-07 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Legendary Arena: Regirock
+
+2022-04-07 06:00:00 UTC
+2022-04-21 06:00:00 UTC
+
+Riddle Event: Solve the mission riddles!
+
+2022-04-07 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Special Rally
+
+2022-04-11 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-04-11 06:00:00 UTC
+2022-04-18 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-04-11 06:00:00 UTC
+2022-04-25 06:00:00 UTC
+
+Grass-, Ghost-, and Poison-Type Egg Event
+
+2022-04-11 06:00:00 UTC
+2022-04-25 06:00:00 UTC
+
+Ingo Costume Tiered Scout
+
+2022-04-14 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Event Gem Special!
+
+2022-04-14 06:00:00 UTC
+2022-05-02 06:00:00 UTC
+
+Selene and Elio Spotlight Scout
+
+2022-04-18 06:00:00 UTC
+2022-05-02 06:00:00 UTC
+
+Story Event: Trials on the Isle
+
+2022-04-18 06:00:00 UTC
+2022-05-02 06:00:00 UTC
+
+Emmet Costume Tiered Scout
+
+2022-04-21 06:00:00 UTC
+2022-05-04 06:00:00 UTC
+
+Legendary Arena: Azelf
+
+2022-04-21 06:00:00 UTC
+2022-05-05 06:00:00 UTC
+
+Triple Feature Spotlight Scout
+
+2022-04-24 06:00:00 UTC
+2022-05-08 06:00:00 UTC
+
+Solo Event: A Sweet Secret
+
+2022-04-24 06:00:00 UTC
+2022-05-08 06:00:00 UTC
+
+Blissful: Bonanza!
+
+2022-04-25 06:00:00 UTC
+2022-05-02 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-04-25 06:00:00 UTC
+2022-04-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-04-25 06:00:00 UTC
+2022-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-04-25 06:00:00 UTC
+2022-04-26 06:00:00 UTC`;
