@@ -443,6 +443,11 @@ Event Gem Special!
 2022-03-31 06:00:00 UTC
 2022-04-18 06:00:00 UTC
 
+April Fools with Ditto (Sus)
+
+2022-04-01 06:00:00 UTC
+2022-04-02 06:00:00 UTC
+
 May and Burgh Seasonal Scout
 
 2022-04-04 06:00:00 UTC
