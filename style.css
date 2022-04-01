@@ -7,7 +7,7 @@ orange: lightgrey, #f97f2c
 * {
   margin: 0;
   padding: 0;
-  font-family: Verdana;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 /* Start pc */
 @media screen and (min-width: 1200px) {
