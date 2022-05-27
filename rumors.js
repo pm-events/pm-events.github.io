@@ -721,4 +721,159 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2022-05-25 06:00:00 UTC
-2022-05-26 06:00:00 UTC`;
+2022-05-26 06:00:00 UTC
+
+Sygna Suit Ethan Master Fair Scout
+
+2022-05-30 06:00:00 UTC
+2022-07-14 06:00:00 UTC
+
+Villain Event: Team Rocket Attacks
+
+2022-05-30 06:00:00 UTC
+2022-06-16 06:00:00 UTC
+
+Extreme Battle Event: Trio of Justice
+
+2022-05-30 06:00:00 UTC
+2022-06-16 06:00:00 UTC
+
+New content added to the Johto chapter!
+
+2022-05-30 06:00:00 UTC
+2022-06-06 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2022-05-30 06:00:00 UTC
+2022-06-19 06:00:00 UTC
+
+Sygna Suit Lyra Master Fair Scout
+
+2022-06-01 06:00:00 UTC
+2022-07-14 06:00:00 UTC
+
+Sygna Suit Kris Master Fair Scout
+
+2022-06-03 06:00:00 UTC
+2022-07-14 06:00:00 UTC
+
+Special Rally
+
+2022-06-06 06:00:00 UTC
+2022-06-13 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-06-06 06:00:00 UTC
+2022-06-13 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2022-06-06 06:00:00 UTC
+2022-06-20 06:00:00 UTC
+
+Time Trial Event: Top Speed
+
+2022-06-06 06:00:00 UTC
+2022-06-13 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-06-09 06:00:00 UTC
+2022-06-23 06:00:00 UTC
+
+Flying- and Psychic-Type Egg Event
+
+2022-06-09 06:00:00 UTC
+2022-06-23 06:00:00 UTC
+
+Legendary Arena: Tapu Bulu
+
+2022-06-09 06:00:00 UTC
+2022-06-23 06:00:00 UTC
+
+First Scout ×11 Half Off!: Super Spotlight Scout
+
+2022-06-10 06:00:00 UTC
+2022-06-24 06:00:00 UTC
+
+Solo Event: Town Square Street Fair
+
+2022-06-10 06:00:00 UTC
+2022-06-24 06:00:00 UTC
+
+Bede Poké Fair Scout
+
+2022-06-16 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+Story Event: Revel in Rivalry
+
+2022-06-16 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+Event Gem Special!
+
+2022-06-16 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+Main Character Poké Fair Scout
+
+2022-06-20 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+5★-Guaranteed Main Character Special Scout
+
+2022-06-20 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+Special Event: Rival Challenge
+
+2022-06-20 06:00:00 UTC
+2022-07-04 06:00:00 UTC
+
+First Scout ×11 Half Off!: Triple Feature Spotlight Scout
+
+2022-06-23 06:00:00 UTC
+2022-07-07 06:00:00 UTC
+
+Solo Event: It’s All Good
+
+2022-06-23 06:00:00 UTC
+2022-07-07 06:00:00 UTC
+
+Special Rally
+
+2022-06-25 06:00:00 UTC
+2022-07-02 06:00:00 UTC
+
+Blissful: Bonanza!
+
+2022-06-25 06:00:00 UTC
+2022-07-02 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-06-25 06:00:00 UTC
+2022-07-02 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-06-25 06:00:00 UTC
+2022-06-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-06-25 06:00:00 UTC
+2022-06-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-06-25 06:00:00 UTC
+2022-06-26 06:00:00 UTC
+
+Legendary Arena: Latias
+
+2022-06-27 06:00:00 UTC
+2022-07-11 06:00:00 UTC`;
