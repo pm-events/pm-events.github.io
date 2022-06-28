@@ -876,4 +876,159 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Legendary Arena: Latias
 
 2022-06-27 06:00:00 UTC
-2022-07-11 06:00:00 UTC`;
+2022-07-11 06:00:00 UTC
+
+N Seasonal Tiered Scout
+
+2022-06-30 06:00:00 UTC
+2022-07-17 06:00:00 UTC
+
+Story Event: Summer Nights & Wishing Stars
+
+2022-06-30 06:00:00 UTC
+2022-07-17 06:00:00 UTC
+
+Event Gem Special!
+
+2022-06-30 06:00:00 UTC
+2022-07-17 06:00:00 UTC
+
+Hilda Seasonal Tiered Scout
+
+2022-07-02 06:00:00 UTC
+2022-07-17 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2022-07-04 06:00:00 UTC
+2022-07-18 06:00:00 UTC
+
+Story Event: Beachside Rivalry
+
+2022-07-04 06:00:00 UTC
+2022-07-18 06:00:00 UTC
+
+Dark-Type Gear Event
+
+2022-07-05 06:00:00 UTC
+2022-07-12 06:00:00 UTC
+
+Legendary Arena: Cresselia
+
+2022-07-05 06:00:00 UTC
+2022-07-19 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-07-07 06:00:00 UTC
+2022-07-14 06:00:00 UTC
+
+Anime Collaboration Special Rally
+
+2022-07-07 06:00:00 UTC
+2022-07-31 06:00:00 UTC
+
+Anime Collaboration 10-Pair + 5★-Select Ticket Scout
+
+2022-07-07 06:00:00 UTC
+2022-07-31 06:00:00 UTC
+
+Anime Collaboration One-Time-Only 5★-Guaranteed Scout for 100 Gems
+
+2022-07-07 06:00:00 UTC
+2022-07-31 06:00:00 UTC
+
+Special Event: The Classic Thunderbolt
+
+2022-07-07 06:00:00 UTC
+2022-07-31 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-07-11 06:00:00 UTC
+2022-07-25 06:00:00 UTC
+
+Gloria (Dojo Uniform) Poké Fair Scout
+
+2022-07-14 06:00:00 UTC
+2022-08-06 06:00:00 UTC
+
+Solo Event: Strongest Fighters
+
+2022-07-14 06:00:00 UTC
+2022-07-30 06:00:00 UTC
+
+Event Gem Special!
+
+2022-07-14 06:00:00 UTC
+2022-08-02 06:00:00 UTC
+
+Sygna Suit Korrina Poké Fair Scout
+
+2022-07-16 06:00:00 UTC
+2022-08-06 06:00:00 UTC
+
+Special Battle Event: Four Trials
+
+2022-07-16 06:00:00 UTC
+2022-07-30 06:00:00 UTC
+
+Raise Tyrogue!
+
+2022-07-16 06:00:00 UTC
+2022-08-06 06:00:00 UTC
+
+Ingo and Emmet Poké Fair Scout
+
+2022-07-21 06:00:00 UTC
+2022-08-04 06:00:00 UTC
+
+Story Event: All Aboard the Victory Train
+
+2022-07-21 06:00:00 UTC
+2022-08-04 06:00:00 UTC
+
+Water, Flying, and Ghost Poké Fair Scout
+
+2022-07-25 06:00:00 UTC
+2022-08-09 06:00:00 UTC
+
+Water, Flying, and Ghost 5★-Select Scout
+
+2022-07-25 06:00:00 UTC
+2022-08-09 06:00:00 UTC
+
+Special Rally
+
+2022-07-25 06:00:00 UTC
+2022-08-01 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-07-25 06:00:00 UTC
+2022-08-01 06:00:00 UTC
+
+Blissful: Bonanza!
+
+2022-07-25 06:00:00 UTC
+2022-08-01 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-07-25 06:00:00 UTC
+2022-07-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-07-25 06:00:00 UTC
+2022-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-07-25 06:00:00 UTC
+2022-07-26 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2022-07-25 06:00:00 UTC
+2022-08-09 06:00:00 UTC`;
