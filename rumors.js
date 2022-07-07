@@ -943,6 +943,11 @@ Special Event: The Classic Thunderbolt
 2022-07-07 06:00:00 UTC
 2022-07-31 06:00:00 UTC
 
+Anime Collaboration: Let's Have a Battle!
+
+2022-07-07 06:00:00 UTC
+2022-07-14 06:00:00 UTC
+
 The Battle Villa Is Open!
 
 2022-07-11 06:00:00 UTC
