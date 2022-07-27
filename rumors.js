@@ -1073,7 +1073,7 @@ Sygna Suit Brendan Poké Fair Scout
 2022-07-31 06:00:00 UTC
 2022-08-28 06:00:00 UTC
 
-Extreme Battle Event : Battle Hoenn’s Best!
+Extreme Battle Event: Battle Hoenn’s Best!
 
 2022-07-31 06:00:00 UTC
 2022-08-28 06:00:00 UTC
