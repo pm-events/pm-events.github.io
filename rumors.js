@@ -1036,4 +1036,94 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Epic Battle Event: Legendary Gauntlet
 
 2022-07-25 06:00:00 UTC
-2022-08-09 06:00:00 UTC`;
+2022-07-26 06:00:00 UTC
+
+Sygna Suit May Poké Fair Scout
+
+2022-07-29 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+5★-Guaranteed Hoenn Special Scout
+
+2022-07-29 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Villain Event: Team Magma’s Red-Hot Rage
+
+2022-07-29 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Event Gem Special!
+
+2022-07-29 06:00:00 UTC
+2022-08-18 06:00:00 UTC
+
+New chapter added to the villain arc!
+
+2022-07-29 06:00:00 UTC
+2022-08-05 06:00:00 UTC
+
+Sygna Suit Brendan Poké Fair Scout
+
+2022-07-31 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2022-07-31 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Extreme Battle Event : Battle Hoenn’s Best!
+
+2022-07-31 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Champion Stadium: Hoenn Challenge
+
+2022-08-01 06:00:00 UTC
+2022-08-08 06:00:00 UTC
+
+Looker Spotlight Scout
+
+2022-08-03 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Solo Event: Team Hoenn Unite!
+
+2022-08-03 06:00:00 UTC
+2022-08-17 06:00:00 UTC
+
+Courtney Spotlight Scout
+
+2022-08-05 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Legendary Arena: Cobalion
+
+2022-08-05 06:00:00 UTC
+2022-08-19 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-08-08 06:00:00 UTC
+2022-08-22 06:00:00 UTC
+
+Special Rally
+
+2022-08-08 06:00:00 UTC
+2022-08-15 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-08-08 06:00:00 UTC
+2022-08-15 06:00:00 UTC
+
+Fire- and Ground-Type Egg Event
+
+2022-08-08 06:00:00 UTC
+2022-08-22 06:00:00 UTC
+
+Blissful Bonanza!
+
+2022-08-08 06:00:00 UTC
+2022-08-15 06:00:00 UTC`;
