@@ -1035,8 +1035,8 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 Epic Battle Event: Legendary Gauntlet
 
-2022-07-25 06:00:00 UTC
-2022-07-26 06:00:00 UTC
+2022-07-29 06:00:00 UTC
+2022-08-19 06:00:00 UTC
 
 Sygna Suit May Poké Fair Scout
 
