@@ -1168,7 +1168,7 @@ Run-Up to Three Years now under way!
 2022-08-15 06:00:00 UTC
 2022-08-22 06:00:00 UTC
 
-Extreme Battle Event : Ancient Brawl
+Extreme Battle Event: Ancient Brawl
 
 2022-08-15 06:00:00 UTC
 2022-08-28 06:00:00 UTC
