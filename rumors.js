@@ -1126,4 +1126,84 @@ Fire- and Ground-Type Egg Event
 Blissful Bonanza!
 
 2022-08-08 06:00:00 UTC
-2022-08-15 06:00:00 UTC`;
+2022-08-15 06:00:00 UTC
+
+Sygna Suit Steven Poké Fair Scout
+
+2022-08-10 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Villain Event: Team Aqua’s Stormy Seas
+
+2022-08-10 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+New content added to the Hoenn chapter!
+
+2022-08-10 06:00:00 UTC
+2022-08-17 06:00:00 UTC
+
+Extreme Battle Event: Looker’s Tenacity
+
+2022-08-12 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Run-Up to Three Years Gem Special!
+
+2022-08-15 06:00:00 UTC
+2022-09-02 06:00:00 UTC
+
+Maxie Master Fair Scout
+
+2022-08-15 06:00:00 UTC
+2022-10-02 06:00:00 UTC
+
+Archie Master Fair Scout
+
+2022-08-15 06:00:00 UTC
+2022-10-02 06:00:00 UTC
+
+Run-Up to Three Years now under way!
+
+2022-08-15 06:00:00 UTC
+2022-08-22 06:00:00 UTC
+
+Extreme Battle Event : Ancient Brawl
+
+2022-08-15 06:00:00 UTC
+2022-08-28 06:00:00 UTC
+
+Special Sync Pair Event: Giovanni & Persian
+
+2022-08-15 06:00:00 UTC
+2022-09-15 06:00:00 UTC
+
+Special Sync Pair Event: Misty & Psyduck
+
+2022-08-18 06:00:00 UTC
+2022-09-15 06:00:00 UTC
+
+Special Sync Pair Event: Blue & Arcanine
+
+2022-08-21 06:00:00 UTC
+2022-09-15 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11
+
+2022-08-22 06:00:00 UTC
+2022-09-05 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-08-25 06:00:00 UTC
+2022-08-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-08-25 06:00:00 UTC
+2022-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-08-25 06:00:00 UTC
+2022-08-26 06:00:00 UTC`;
