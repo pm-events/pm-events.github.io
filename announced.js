@@ -1,6 +1,6 @@
 export const announced = [
   {
-    name: ["EggDex","Connecting/Interacting With Trainers"],
+    name: ["EggDex"],
     date: "TBA"
   }
 ];
