@@ -1206,4 +1206,149 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2022-08-25 06:00:00 UTC
-2022-08-26 06:00:00 UTC`;
+2022-08-26 06:00:00 UTC
+
+Vol. 1: Monthly Poké Fair Scout
+
+2022-08-25 06:00:00 UTC
+2022-09-01 06:00:00 UTC
+
+Ash Master Fair Scout
+
+2022-08-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+1,000 Paid Gems!: One-Time-Only Ash Master Fair Scout
+
+2022-08-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Three-Year Celebration Rally
+
+2022-08-28 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Special Event: Blazing Battle with Ash
+
+2022-08-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Special Event: Challenge from Ash
+
+2022-08-28 06:00:00 UTC
+2022-09-27 06:00:00 UTC
+
+Welcome Ash Gem Special!
+
+2022-08-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Three-Year Celebration Gem Specials
+
+2022-08-28 06:00:00 UTC
+2022-09-18 06:00:00 UTC
+
+5★-Guaranteed Ticket Scout Update!
+
+2022-08-28 06:00:00 UTC
+2022-09-04 06:00:00 UTC
+
+Battle Point Item Exchange Update
+
+2022-08-28 06:00:00 UTC
+2022-09-04 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15
+
+2022-08-29 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Sygna Suit Cynthia & Lucario Master Fair Scout
+
+2022-08-30 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Story Event: Threads of Strength
+
+2022-08-30 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Extreme Battle Event: Serious Battle with Powerful Trainers
+
+2022-08-30 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×25
+
+2022-08-31 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Sygna Suit Red & Pikachu Master Fair Scout
+
+2022-09-01 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Electric-Type Gear Event
+
+2022-09-05 06:00:00 UTC
+2022-09-19 06:00:00 UTC
+
+Costume Tiered Scout
+
+2022-09-08 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Legendary Arena Is Now Always Available!
+
+2022-09-08 06:00:00 UTC
+2022-09-15 06:00:00 UTC
+
+Electric- and Fighting-Type Egg Event
+
+2022-09-12 06:00:00 UTC
+2022-09-26 06:00:00 UTC
+
+Rosa Costume Tiered Scout
+
+2022-09-15 06:00:00 UTC
+2022-10-01 06:00:00 UTC
+
+Costume Event: Super Tour Guide Rosa
+
+2022-09-15 06:00:00 UTC
+2022-10-01 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2022-09-19 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Dragon, Bug, and Fire Poké Fair Scout
+
+2022-09-22 06:00:00 UTC
+2022-10-13 06:00:00 UTC
+
+Dragon, Bug, and Fire 5★-Select Scout
+
+2022-09-22 06:00:00 UTC
+2022-10-13 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2022-09-22 06:00:00 UTC
+2022-10-13 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-09-25 06:00:00 UTC
+2022-09-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-09-25 06:00:00 UTC
+2022-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-09-25 06:00:00 UTC
+2022-09-26 06:00:00 UTC`;
