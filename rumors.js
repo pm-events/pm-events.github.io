@@ -1228,6 +1228,11 @@ Three-Year Celebration Rally
 2022-08-28 06:00:00 UTC
 2022-10-03 06:00:00 UTC
 
+Special Event: The Classic Thunderbolt
+
+2022-08-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
 Special Event: Blazing Battle with Ash
 
 2022-08-28 06:00:00 UTC
@@ -1298,12 +1303,27 @@ Costume Tiered Scout
 2022-09-08 06:00:00 UTC
 2022-10-03 06:00:00 UTC
 
+Costume Event: Poké War Games
+
+2022-09-08 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Costume Event: Battle Prep
+
+2022-09-08 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
 Legendary Arena Is Now Always Available!
 
 2022-09-08 06:00:00 UTC
 2022-09-15 06:00:00 UTC
 
 Electric- and Fighting-Type Egg Event
+
+2022-09-12 06:00:00 UTC
+2022-09-26 06:00:00 UTC
+
+Solo Event: A Pasio Spectacle
 
 2022-09-12 06:00:00 UTC
 2022-09-26 06:00:00 UTC
@@ -1319,6 +1339,11 @@ Costume Event: Super Tour Guide Rosa
 2022-10-01 06:00:00 UTC
 
 Triple Feature Poké Fair Scout
+
+2022-09-19 06:00:00 UTC
+2022-10-03 06:00:00 UTC
+
+Solo Event: Lear Takes the Lead
 
 2022-09-19 06:00:00 UTC
 2022-10-03 06:00:00 UTC
