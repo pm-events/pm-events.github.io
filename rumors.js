@@ -1298,6 +1298,11 @@ Electric-Type Gear Event
 2022-09-05 06:00:00 UTC
 2022-09-19 06:00:00 UTC
 
+The Battle Villa Is Open!
+
+2022-09-08 06:00:00 UTC
+2022-09-22 06:00:00 UTC
+
 Costume Tiered Scout
 
 2022-09-08 06:00:00 UTC
