@@ -1381,4 +1381,144 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2022-09-25 06:00:00 UTC
-2022-09-26 06:00:00 UTC`;
+2022-09-26 06:00:00 UTC
+
+Sygna Suit Wally Poké Fair Scout
+
+2022-09-28 06:00:00 UTC
+2022-10-31 06:00:00 UTC
+
+Story Event: Melancholy Wally
+
+2022-09-28 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Event Gem Special!
+
+2022-09-28 06:00:00 UTC
+2022-10-19 06:00:00 UTC
+
+Daily Battle: Challenge from Wally
+
+2022-09-30 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Vol. 2: Monthly Poké Fair Scout
+
+2022-10-01 06:00:00 UTC
+2022-11-01 06:00:00 UTC
+
+Gordie Spotlight Scout
+
+2022-10-03 06:00:00 UTC
+2022-10-24 06:00:00 UTC
+
+Solo Event: Severely Strained Relations
+
+2022-10-03 06:00:00 UTC
+2022-10-24 06:00:00 UTC
+
+Melony Spotlight Scout
+
+2022-10-05 06:00:00 UTC
+2022-10-24 06:00:00 UTC
+
+Victor Poké Fair Scout
+
+2022-10-07 06:00:00 UTC
+2022-10-24 06:00:00 UTC
+
+Rock- and Ice-Type Egg Event
+
+2022-10-07 06:00:00 UTC
+2022-10-21 06:00:00 UTC
+
+Legendary Arena: Latias
+
+2022-10-07 06:00:00 UTC
+2022-10-21 06:00:00 UTC
+
+Villain Event: Dreams of the Void
+
+2022-10-10 06:00:00 UTC
+2022-10-31 06:00:00 UTC
+
+New content added to the Paulo Interlude!
+
+2022-10-10 06:00:00 UTC
+2022-10-17 06:00:00 UTC
+
+Villain Event: Galactic Awakening
+
+2022-10-13 06:00:00 UTC
+2022-10-31 06:00:00 UTC
+
+Iris Seasonal Tiered Scout
+
+2022-10-17 06:00:00 UTC
+2022-11-03 06:00:00 UTC
+
+Story Event: Otherworldly Encounter
+
+2022-10-17 06:00:00 UTC
+2022-11-03 06:00:00 UTC
+
+Event Gem Special!
+
+2022-10-17 06:00:00 UTC
+2022-11-03 06:00:00 UTC
+
+Allister Seasonal Tiered Scout
+
+2022-10-19 06:00:00 UTC
+2022-11-03 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-10-20 06:00:00 UTC
+2022-11-03 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2022-10-24 06:00:00 UTC
+2022-11-10 06:00:00 UTC
+
+Story Event: Midnight Battle Ball
+
+2022-10-24 06:00:00 UTC
+2022-11-10 06:00:00 UTC
+
+Special Rally
+
+2022-10-25 06:00:00 UTC
+2022-11-01 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-10-25 06:00:00 UTC
+2022-11-01 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2022-10-25 06:00:00 UTC
+2022-11-01 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-10-25 06:00:00 UTC
+2022-10-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-10-25 06:00:00 UTC
+2022-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-10-25 06:00:00 UTC
+2022-10-26 06:00:00 UTC
+
+Legendary Arena: Uxie
+
+2022-10-25 06:00:00 UTC
+2022-11-08 06:00:00 UTC`;
