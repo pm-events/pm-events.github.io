@@ -1521,4 +1521,169 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Legendary Arena: Uxie
 
 2022-10-25 06:00:00 UTC
-2022-11-08 06:00:00 UTC`;
+2022-11-08 06:00:00 UTC
+
+Sygna Suit Hilda Poké Fair Scout
+
+2022-10-31 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+5★-Guaranteed Unova Special Scout
+
+2022-10-31 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Villain Event: The Captured King
+
+2022-10-31 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Event Gem Special!
+
+2022-10-31 07:00:00 UTC
+2022-11-17 07:00:00 UTC
+
+New chapter added to the villain arc!
+
+2022-10-31 07:00:00 UTC
+2022-11-07 07:00:00 UTC
+
+Vol. 3: Monthly Poké Fair Scout
+
+2022-11-01 07:00:00 UTC
+2022-12-01 07:00:00 UTC
+
+Sygna Suit Hilbert Poké Fair Scout
+
+2022-11-02 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2022-11-02 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Extreme Battle Event: Battle Unova’s Best!
+
+2022-11-02 07:00:00 UTC
+2022-11-14 07:00:00 UTC
+
+Fire-Type Gear Event
+
+2022-11-04 07:00:00 UTC
+2022-11-18 07:00:00 UTC
+
+Hugh Spotlight Scout
+
+2022-11-07 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Special Rally
+
+2022-11-07 07:00:00 UTC
+2022-11-14 07:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-11-07 07:00:00 UTC
+2022-11-14 07:00:00 UTC
+
+Story Event: The Ideal Formula
+
+2022-11-07 07:00:00 UTC
+2022-11-21 07:00:00 UTC
+
+Bug- and Steel-Type Egg Event
+
+2022-11-09 07:00:00 UTC
+2022-11-23 07:00:00 UTC
+
+Legendary Arena: Azelf
+
+2022-11-09 07:00:00 UTC
+2022-11-23 07:00:00 UTC
+
+Sygna Suit N Poké Fair Scout
+
+2022-11-14 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Villain Event: Team Plasma’s Icy Malice
+
+2022-11-14 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Event Gem Special!
+
+2022-11-14 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+New content added to the Unova chapter!
+
+2022-11-14 07:00:00 UTC
+2022-11-21 07:00:00 UTC
+
+Extreme Battle Event: Ghetsis’s Villainy
+
+2022-11-16 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+Colress Spotlight Scout
+
+2022-11-17 07:00:00 UTC
+2022-12-03 07:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-11-17 07:00:00 UTC
+2022-12-01 07:00:00 UTC
+
+Eevee Day Celebration!: Triple Feature Variety Scout
+
+2022-11-21 07:00:00 UTC
+2022-12-05 07:00:00 UTC
+
+Eevee Day Celebration!: Three Eevee Tales
+
+2022-11-21 07:00:00 UTC
+2022-12-05 07:00:00 UTC
+
+Type-Specific Poké Fair Scout
+
+2022-11-24 07:00:00 UTC
+2022-12-15 07:00:00 UTC
+
+5★-Select Type Scout
+
+2022-11-24 07:00:00 UTC
+2022-12-15 07:00:00 UTC
+
+Solo Event: A Sweet Secret
+
+2022-11-24 07:00:00 UTC
+2022-12-08 07:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2022-11-24 07:00:00 UTC
+2022-12-15 07:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2022-11-25 07:00:00 UTC
+2022-12-02 07:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-11-25 07:00:00 UTC
+2022-11-26 07:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-11-25 06:00:00 UTC
+2022-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-11-25 06:00:00 UTC
+2022-11-26 06:00:00 UTC`;
