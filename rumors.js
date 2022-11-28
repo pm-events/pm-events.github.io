@@ -1525,158 +1525,158 @@ Legendary Arena: Uxie
 
 Sygna Suit Hilda Poké Fair Scout
 
-2022-10-31 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-10-31 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 5★-Guaranteed Unova Special Scout
 
-2022-10-31 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-10-31 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Villain Event: The Captured King
 
-2022-10-31 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-10-31 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Event Gem Special!
 
-2022-10-31 07:00:00 UTC
-2022-11-17 07:00:00 UTC
+2022-10-31 06:00:00 UTC
+2022-11-17 06:00:00 UTC
 
 New chapter added to the villain arc!
 
-2022-10-31 07:00:00 UTC
-2022-11-07 07:00:00 UTC
+2022-10-31 06:00:00 UTC
+2022-11-07 06:00:00 UTC
 
 Vol. 3: Monthly Poké Fair Scout
 
-2022-11-01 07:00:00 UTC
-2022-12-01 07:00:00 UTC
+2022-11-01 06:00:00 UTC
+2022-12-01 06:00:00 UTC
 
 Sygna Suit Hilbert Poké Fair Scout
 
-2022-11-02 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-02 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 5★-Select Special Scout ×11
 
-2022-11-02 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-02 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Extreme Battle Event: Battle Unova’s Best!
 
-2022-11-02 07:00:00 UTC
-2022-11-14 07:00:00 UTC
+2022-11-02 06:00:00 UTC
+2022-11-14 06:00:00 UTC
 
 Fire-Type Gear Event
 
-2022-11-04 07:00:00 UTC
-2022-11-18 07:00:00 UTC
+2022-11-04 06:00:00 UTC
+2022-11-18 06:00:00 UTC
 
 Hugh Spotlight Scout
 
-2022-11-07 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-07 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Special Rally
 
-2022-11-07 07:00:00 UTC
-2022-11-14 07:00:00 UTC
+2022-11-07 06:00:00 UTC
+2022-11-14 06:00:00 UTC
 
 Training Area Reward Boost Rally
 
-2022-11-07 07:00:00 UTC
-2022-11-14 07:00:00 UTC
+2022-11-07 06:00:00 UTC
+2022-11-14 06:00:00 UTC
 
 Story Event: The Ideal Formula
 
-2022-11-07 07:00:00 UTC
-2022-11-21 07:00:00 UTC
+2022-11-07 06:00:00 UTC
+2022-11-21 06:00:00 UTC
 
 Bug- and Steel-Type Egg Event
 
-2022-11-09 07:00:00 UTC
-2022-11-23 07:00:00 UTC
+2022-11-09 06:00:00 UTC
+2022-11-23 06:00:00 UTC
 
 Legendary Arena: Azelf
 
-2022-11-09 07:00:00 UTC
-2022-11-23 07:00:00 UTC
+2022-11-09 06:00:00 UTC
+2022-11-23 06:00:00 UTC
 
 Sygna Suit N Poké Fair Scout
 
-2022-11-14 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-14 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Villain Event: Team Plasma’s Icy Malice
 
-2022-11-14 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-14 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Event Gem Special!
 
-2022-11-14 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-14 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 New content added to the Unova chapter!
 
-2022-11-14 07:00:00 UTC
-2022-11-21 07:00:00 UTC
+2022-11-14 06:00:00 UTC
+2022-11-21 06:00:00 UTC
 
 Extreme Battle Event: Ghetsis’s Villainy
 
-2022-11-16 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-16 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 Colress Spotlight Scout
 
-2022-11-17 07:00:00 UTC
-2022-12-03 07:00:00 UTC
+2022-11-17 06:00:00 UTC
+2022-12-03 06:00:00 UTC
 
 The Battle Villa Is Open!
 
-2022-11-17 07:00:00 UTC
-2022-12-01 07:00:00 UTC
+2022-11-17 06:00:00 UTC
+2022-12-01 06:00:00 UTC
 
 Eevee Day Celebration!: Triple Feature Variety Scout
 
-2022-11-21 07:00:00 UTC
-2022-12-05 07:00:00 UTC
+2022-11-21 06:00:00 UTC
+2022-12-05 06:00:00 UTC
 
 Eevee Day Celebration!: Three Eevee Tales
 
-2022-11-21 07:00:00 UTC
-2022-12-05 07:00:00 UTC
+2022-11-21 06:00:00 UTC
+2022-12-05 06:00:00 UTC
 
 Type-Specific Poké Fair Scout
 
-2022-11-24 07:00:00 UTC
-2022-12-15 07:00:00 UTC
+2022-11-24 06:00:00 UTC
+2022-12-15 06:00:00 UTC
 
 5★-Select Type Scout
 
-2022-11-24 07:00:00 UTC
-2022-12-15 07:00:00 UTC
+2022-11-24 06:00:00 UTC
+2022-12-15 06:00:00 UTC
 
 Solo Event: A Sweet Secret
 
-2022-11-24 07:00:00 UTC
-2022-12-08 07:00:00 UTC
+2022-11-24 06:00:00 UTC
+2022-12-08 06:00:00 UTC
 
 Epic Battle Event: Legendary Gauntlet
 
-2022-11-24 07:00:00 UTC
-2022-12-15 07:00:00 UTC
+2022-11-24 06:00:00 UTC
+2022-12-15 06:00:00 UTC
 
 Daily Battle: Blissful Bonanza!
 
-2022-11-25 07:00:00 UTC
-2022-12-02 07:00:00 UTC
+2022-11-25 06:00:00 UTC
+2022-12-02 06:00:00 UTC
 
 Special Monthly Event: Pokémon Masters Day
 
-2022-11-25 07:00:00 UTC
-2022-11-26 07:00:00 UTC
+2022-11-25 06:00:00 UTC
+2022-11-26 06:00:00 UTC
 
 Pokémon Masters Day Scout for 25 Gems
 
@@ -1686,4 +1686,189 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2022-11-25 06:00:00 UTC
-2022-11-26 06:00:00 UTC`;
+2022-11-26 06:00:00 UTC
+
+Serena (Champion) Master Fair Scout
+
+2022-11-30 06:00:00 UTC
+2023-01-09 06:00:00 UTC
+
+Neo Champions: Leaders of a New Era
+
+2022-11-30 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2022-11-30 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Thank-You Gem Special EX
+
+2022-11-30 06:00:00 UTC
+2022-12-26 06:00:00 UTC
+
+Vol. 4: Monthly Poké Fair Scout
+
+2022-12-01 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Calem (Champion) Master Fair Scout
+
+2022-12-02 06:00:00 UTC
+2023-01-09 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2022-12-02 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Extreme Battle Event: Let Your Heart Shine!
+
+2022-12-02 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Special Battle Event: Challenge Serena and Calem
+
+2022-12-05 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+New content added to the Paulo Interlude!
+
+2022-12-05 06:00:00 UTC
+2022-12-12 06:00:00 UTC
+
+5★-Guaranteed Johto Special Scout
+
+2022-12-07 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Villain Event: Rocket Execs Assemble
+
+2022-12-07 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Sygna Suit Leaf Poké Fair Scout
+
+2022-12-09 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Villain Event: Team Rocket Attacks
+
+2022-12-09 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Water- and Normal-Type Egg Event
+
+2022-12-09 06:00:00 UTC
+2022-12-23 06:00:00 UTC
+
+Special Rally
+
+2022-12-12 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2022-12-12 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2022-12-12 06:00:00 UTC
+2022-12-19 06:00:00 UTC
+
+Legendary Arena: Entei
+
+2022-12-12 06:00:00 UTC
+2022-12-26 06:00:00 UTC
+
+Jasmine Seasonal Tiered Scout
+
+2022-12-14 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Story Event: Shine a Gentle Light
+
+2022-12-14 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+Event Gem Special!
+
+2022-12-14 06:00:00 UTC
+2022-12-29 06:00:00 UTC
+
+Whitney Seasonal Tiered Scout
+
+2022-12-16 06:00:00 UTC
+2023-01-01 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2022-12-16 06:00:00 UTC
+2022-12-30 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2022-12-19 06:00:00 UTC
+2023-01-05 06:00:00 UTC
+
+Story Event: Winter Wishes
+
+2022-12-19 06:00:00 UTC
+2023-01-05 06:00:00 UTC
+
+Daily Battle: Heartwarming Presents
+
+2022-12-19 06:00:00 UTC
+2022-12-25 06:00:00 UTC
+
+Legendary Arena: Latios
+
+2022-12-21 06:00:00 UTC
+2023-01-04 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2022-12-25 06:00:00 UTC
+2022-12-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-12-25 06:00:00 UTC
+2022-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2022-12-25 06:00:00 UTC
+2022-12-26 06:00:00 UTC
+
+Lillie Master Fair Scout
+
+2022-12-26 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Story Event: Hearts United
+
+2022-12-26 06:00:00 UTC
+2023-01-11 06:00:00 UTC
+
+Holiday Season Gem Special!
+
+2022-12-26 06:00:00 UTC
+2023-01-11 06:00:00 UTC
+
+N Master Fair Scout
+
+2022-12-28 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Steven Master Fair Scout
+
+2022-12-30 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Extreme Battle Event: Unity Gala Challenge
+
+2022-12-30 06:00:00 UTC
+2023-01-11 06:00:00 UTC`;
