@@ -1,89 +1,4 @@
-export const rumorstxt = `Sygna Suit Renegade Cynthia Master Fair Scout
-
-2021-12-27 06:00:00 UTC
-2022-02-28 06:00:00 UTC
-
-Lucas Poké Fair Scout
-
-2022-01-13 06:00:00 UTC
-2022-02-28 06:00:00 UTC
-
-Villain Event: Dreams of the Void
-
-2022-01-13 06:00:00 UTC
-2022-02-28 06:00:00 UTC
-
-Event Gem Special!
-
-2022-01-13 06:00:00 UTC
-2022-01-31 06:00:00 UTC
-
-5★-Guaranteed Sinnoh Special Scout
-
-2022-01-14 06:00:00 UTC
-2022-02-28 06:00:00 UTC
-
-5★-Select Special Scout ×11
-
-2022-01-15 06:00:00 UTC
-2022-01-31 06:00:00 UTC
-
-Extreme Battle Event: Team Galactic Takedown
-
-2022-01-15 06:00:00 UTC
-2022-01-31 06:00:00 UTC
-
-Story Event: Team Skull Crash Course
-
-2022-01-17 06:00:00 UTC
-2022-02-03 06:00:00 UTC
-
-Bug-, Water-, and Fire-Type Poké Fair Scout
-
-2022-01-20 06:00:00 UTC
-2022-02-03 06:00:00 UTC
-
-Water, Fire, and Bug 5★-Select Scout
-
-2022-01-20 06:00:00 UTC
-2022-02-03 06:00:00 UTC
-
-Epic Battle Event: Legendary Gauntlet
-
-2022-01-20 06:00:00 UTC
-2022-02-03 06:00:00 UTC
-
-Special Rally
-
-2022-01-20 06:00:00 UTC
-2022-01-31 06:00:00 UTC
-
-Training Area Reward Boost Rally
-
-2022-01-20 06:00:00 UTC
-2022-01-31 06:00:00 UTC
-
-Serena, Guzma, and Bianca Spotlight Scout
-
-2022-01-24 06:00:00 UTC
-2022-02-07 06:00:00 UTC
-
-Solo Event: A Pasio Spectacle
-
-2022-01-24 06:00:00 UTC
-2022-02-07 06:00:00 UTC
-
-Fire- and Steel-Type Egg Event
-
-2022-01-24 06:00:00 UTC
-2022-02-07 06:00:00 UTC
-
-Music Coin Challenge: Daily Battle Event
-
-2022-01-28 06:00:00 UTC
-2022-02-07 06:00:00 UTC
-
-Event Gem Special!
+export const rumorstxt = `Event Gem Special!
 
 2022-01-31 06:00:00 UTC
 2022-02-17 06:00:00 UTC
@@ -1871,4 +1786,169 @@ Steven Master Fair Scout
 Extreme Battle Event: Unity Gala Challenge
 
 2022-12-30 06:00:00 UTC
-2023-01-11 06:00:00 UTC`;
+2023-01-11 06:00:00 UTC
+
+Vol. 5: Monthly Poké Fair Scout
+
+2023-01-01 06:00:00 UTC
+2023-02-01 06:00:00 UTC
+
+New Year’s Poké Fair Ticket Scout
+
+2023-01-01 06:00:00 UTC
+2023-01-23 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×25 (A)
+
+2023-01-01 06:00:00 UTC
+2023-01-31 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×25 (B)
+
+2023-01-01 06:00:00 UTC
+2023-01-31 06:00:00 UTC
+
+Lisia Seasonal Tiered Scout
+
+2023-01-01 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Dawn Seasonal Tiered Scout
+
+2023-01-01 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Story Event: Gather Up! Dream Duo!
+
+2023-01-01 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Daily Battle: New Year’s Challenge
+
+2023-01-01 06:00:00 UTC
+2023-01-09 06:00:00 UTC
+
+Happy New Year Gem Special!
+
+2023-01-01 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2023-01-04 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Story Event: New Year and New Friends
+
+2023-01-04 06:00:00 UTC
+2023-01-18 06:00:00 UTC
+
+Three-Type Egg Event
+
+2023-01-06 06:00:00 UTC
+2023-01-20 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-01-09 06:00:00 UTC
+2023-01-23 06:00:00 UTC
+
+Special Rally
+
+2023-01-09 06:00:00 UTC
+2023-01-16 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2023-01-09 06:00:00 UTC
+2023-01-16 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-01-09 06:00:00 UTC
+2023-01-16 06:00:00 UTC
+
+Legendary Arena: Moltres
+
+2023-01-09 06:00:00 UTC
+2023-01-23 06:00:00 UTC
+
+Sygna Suit Diantha Poké Fair Scout
+
+2023-01-12 06:00:00 UTC
+2023-03-06 06:00:00 UTC
+
+Villain Event: Battle! Friends from Kalos
+
+2023-01-12 06:00:00 UTC
+2023-03-06 06:00:00 UTC
+
+Event Gem Special!
+
+2023-01-12 06:00:00 UTC
+2023-02-05 06:00:00 UTC
+
+New chapter added to the villain arc!
+
+2023-01-12 06:00:00 UTC
+2023-01-19 06:00:00 UTC
+
+Extreme Battle Event: Into the Blazing Chamber
+
+2023-01-13 06:00:00 UTC
+2023-01-31 06:00:00 UTC
+
+Shauna Spotlight Scout
+
+2023-01-16 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Solo Event: With Beauty and Grace
+
+2023-01-16 06:00:00 UTC
+2023-01-31 06:00:00 UTC
+
+Grass-Type Gear Event
+
+2023-01-18 06:00:00 UTC
+2023-02-01 06:00:00 UTC
+
+Type-Specific Poké Fair Scout
+
+2023-01-19 06:00:00 UTC
+2023-02-09 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-01-19 06:00:00 UTC
+2023-02-09 06:00:00 UTC
+
+Bede Poké Fair Scout
+
+2023-01-23 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Story Event: Revel in Rivalry
+
+2023-01-23 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Special Event: Rival Challenge
+
+2023-01-23 06:00:00 UTC
+2023-02-06 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-01-25 06:00:00 UTC
+2023-01-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2022-1-25 06:00:00 UTC
+2022-1-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-1-25 06:00:00 UTC
+2023-1-26 06:00:00 UTC`;
