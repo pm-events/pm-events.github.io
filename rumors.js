@@ -1808,6 +1808,11 @@ New Year’s Poké Fair Ticket Scout
 2023-01-01 06:00:00 UTC
 2023-01-31 06:00:00 UTC
 
+5★-Select Special Scout ×15
+
+2023-01-01 06:00:00 UTC
+2023-01-31 06:00:00 UTC
+
 Lisia Seasonal Tiered Scout
 
 2023-01-01 06:00:00 UTC
