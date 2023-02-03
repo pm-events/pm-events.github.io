@@ -413,6 +413,16 @@ Daily Battle: Blissful Bonanza!
 2023-02-09 06:00:00 UTC
 2023-02-16 06:00:00 UTC
 
+Legendary Arena: Tapu Bulu
+
+2023-02-09 06:00:00 UTC
+2023-02-23 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-02-09 06:00:00 UTC
+2023-02-23 06:00:00 UTC
+
 Sygna Suit Lysandre Poké Fair Scout
 
 2023-02-13 06:00:00 UTC
@@ -448,6 +458,11 @@ Leon Master Fair Scout
 2023-02-18 06:00:00 UTC
 2023-03-18 06:00:00 UTC
 
+Story Event: Champion Time
+
+2023-02-18 06:00:00 UTC
+2023-03-18 06:00:00 UTC
+
 10-Pair Scout (Max 100 Pairs)
 
 2023-02-18 06:00:00 UTC
@@ -473,10 +488,25 @@ Marnie Poké Fair Scout
 2023-02-20 06:00:00 UTC
 2023-03-25 06:00:00 UTC
 
+Solo Event: Yell and Dream
+
+2023-02-20 06:00:00 UTC
+2023-03-11 06:00:00 UTC
+
 Meow Meow Meow!
 
 2023-02-22 06:00:00 UTC
 2023-03-15 06:00:00 UTC
+
+Special Sync Pair Event: Giovanni & Persian
+
+2023-02-22 06:00:00 UTC
+2023-03-18 06:00:00 UTC
+
+Legendary Arena: Tornadus
+
+2023-02-24 06:00:00 UTC
+2023-03-10 06:00:00 UTC
 
 Special Monthly Event: Pokémon Masters Day
 
