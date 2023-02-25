@@ -536,4 +536,163 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2023-2-25 06:00:00 UTC
-2023-2-26 06:00:00 UTC`;
+2023-2-26 06:00:00 UTC
+
+3.5 Year Celebration Rally
+
+2023-02-28 06:00:00 UTC
+2023-03-18 06:00:00 UTC
+
+Marnie Master Fair Scout
+
+2023-02-28 06:00:00 UTC
+2023-04-09 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2023-02-28 06:00:00 UTC
+2023-03-21 06:00:00 UTC
+
+Neo Champions: Fight for the Future Together
+2023-02-28 06:00:00 UTC
+2023-03-25 06:00:00 UTC
+
+Extreme Battle Event: Show the Best Teamwork!
+
+2023-02-28 06:00:00 UTC
+2023-03-21 06:00:00 UTC
+
+3.5 Year Celebration Gem Special!
+
+2023-02-28 06:00:00 UTC
+2023-03-18 06:00:00 UTC
+
+Vol. 7: Monthly Poké Fair Scout
+
+2023-03-01 06:00:00 UTC
+2023-04-01 06:00:00 UTC
+
+Hop Master Fair Scout
+
+2023-03-02 06:00:00 UTC
+2023-04-09 06:00:00 UTC
+
+Bede Master Fair Scout
+
+2023-03-04 06:00:00 UTC
+2023-04-09 06:00:00 UTC
+
+Special Battle Event: Challenge Galar’s Worthiest
+
+2023-03-06 06:00:00 UTC
+2023-03-21 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-03-10 06:00:00 UTC
+2023-03-17 06:00:00 UTC
+
+Legendary Arena: Terrakion
+
+2023-03-10 06:00:00 UTC
+2023-03-17 06:00:00 UTC
+
+Triple Feature Charming Poké Fair Scout
+
+2023-03-14 06:00:00 UTC
+2023-03-31 06:00:00 UTC
+
+Solo Event: Special Day with the Guys
+
+2023-03-14 06:00:00 UTC
+2023-03-31 06:00:00 UTC
+
+Event Gem Special!
+
+2023-03-14 06:00:00 UTC
+2023-03-23 06:00:00 UTC
+
+Type-Specific Poké Fair Scout
+
+2023-03-16 06:00:00 UTC
+2023-04-06 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-03-16 06:00:00 UTC
+2023-04-06 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-03-16 06:00:00 UTC
+2023-04-06 06:00:00 UTC
+
+Ball Guy Variety Scout
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Story Event: Galar’s Poké Ball Enthusiast
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Expedition Event: Search for the  Ball Pokémon!
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Ball Guy Welcome Special Rally
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Do You Want an Egg?
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Collecta-ball Poison Gear!
+
+2023-03-21 06:00:00 UTC
+2023-04-07 06:00:00 UTC
+
+Event Gem Special!
+
+2023-03-21 06:00:00 UTC
+2023-04-03 06:00:00 UTC
+
+Lance Poké Fair Scout
+
+2023-03-25 06:00:00 UTC
+2023-04-08 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2023-03-27 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Villain Event: Team Magma’s Red-Hot Rage
+
+2023-03-27 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Villain Event: Team Aqua’s Stormy Seas
+
+2023-03-29 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-03-25 06:00:00 UTC
+2023-03-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-3-25 06:00:00 UTC
+2023-3-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-3-25 06:00:00 UTC
+2023-3-26 06:00:00 UTC`;
