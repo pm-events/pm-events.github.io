@@ -554,8 +554,19 @@ Marnie Master Fair Scout
 2023-03-21 06:00:00 UTC
 
 Neo Champions: Fight for the Future Together
+
 2023-02-28 06:00:00 UTC
 2023-03-25 06:00:00 UTC
+
+Villain Event: Looming Shadow of Kanto
+
+2023-03-07 06:00:00 UTC
+2023-03-27 06:00:00 UTC
+
+Villain Event: Spreading Shadows
+
+2023-03-09 06:00:00 UTC
+2023-03-27 06:00:00 UTC
 
 Extreme Battle Event: Show the Best Teamwork!
 
@@ -567,7 +578,7 @@ Extreme Battle Event: Show the Best Teamwork!
 2023-02-28 06:00:00 UTC
 2023-03-18 06:00:00 UTC
 
-Vol. 7: Monthly Poké Fair Scout
+Vol. 7: Monthly Poké Fair Scout (Gloria)
 
 2023-03-01 06:00:00 UTC
 2023-04-01 06:00:00 UTC
@@ -597,7 +608,7 @@ Legendary Arena: Terrakion
 2023-03-10 06:00:00 UTC
 2023-03-17 06:00:00 UTC
 
-Triple Feature Charming Poké Fair Scout
+Triple Feature Charming Poké Fair Scout (Raihan - Anniversary 2022)
 
 2023-03-14 06:00:00 UTC
 2023-03-31 06:00:00 UTC
@@ -637,7 +648,7 @@ Story Event: Galar’s Poké Ball Enthusiast
 2023-03-21 06:00:00 UTC
 2023-04-07 06:00:00 UTC
 
-Expedition Event: Search for the  Ball Pokémon!
+Expedition Event: Search for the Ball Pokémon!
 
 2023-03-21 06:00:00 UTC
 2023-04-07 06:00:00 UTC
@@ -647,7 +658,7 @@ Ball Guy Welcome Special Rally
 2023-03-21 06:00:00 UTC
 2023-04-07 06:00:00 UTC
 
-Do You Want an Egg?
+Do You Want an Egg? (Electric- or Psychic-type Pokémon Eggs)
 
 2023-03-21 06:00:00 UTC
 2023-04-07 06:00:00 UTC
@@ -667,7 +678,7 @@ Lance Poké Fair Scout
 2023-03-25 06:00:00 UTC
 2023-04-08 06:00:00 UTC
 
-Double Feature Poké Fair Scout
+Double Feature Poké Fair Scout (May - Anniversary 2022)
 
 2023-03-27 06:00:00 UTC
 2023-04-15 06:00:00 UTC
