@@ -598,6 +598,11 @@ Special Battle Event: Challenge Galar’s Worthiest
 2023-03-06 06:00:00 UTC
 2023-03-21 06:00:00 UTC
 
+The Battle Villa Is Open!
+
+2023-03-10 06:00:00 UTC
+2023-03-24 06:00:00 UTC
+
 Daily Battle: Blissful Bonanza!
 
 2023-03-10 06:00:00 UTC
