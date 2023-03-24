@@ -678,6 +678,21 @@ Event Gem Special!
 2023-03-21 06:00:00 UTC
 2023-04-03 06:00:00 UTC
 
+Special Monthly Event: Pokémon Masters Day
+
+2023-03-25 06:00:00 UTC
+2023-03-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-3-25 06:00:00 UTC
+2023-3-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-3-25 06:00:00 UTC
+2023-3-26 06:00:00 UTC
+
 Lance Poké Fair Scout
 
 2023-03-25 06:00:00 UTC
@@ -696,19 +711,4 @@ Villain Event: Team Magma’s Red-Hot Rage
 Villain Event: Team Aqua’s Stormy Seas
 
 2023-03-29 06:00:00 UTC
-2023-04-15 06:00:00 UTC
-
-Special Monthly Event: Pokémon Masters Day
-
-2023-03-25 06:00:00 UTC
-2023-03-26 06:00:00 UTC
-
-Pokémon Masters Day Scout for 25 Gems
-
-2023-3-25 06:00:00 UTC
-2023-3-26 06:00:00 UTC
-
-Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
-
-2023-3-25 06:00:00 UTC
-2023-3-26 06:00:00 UTC`;
+2023-04-15 06:00:00 UTC`;
