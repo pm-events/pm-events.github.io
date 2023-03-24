@@ -685,13 +685,13 @@ Special Monthly Event: Pokémon Masters Day
 
 Pokémon Masters Day Scout for 25 Gems
 
-2023-3-25 06:00:00 UTC
-2023-3-26 06:00:00 UTC
+2023-03-25 06:00:00 UTC
+2023-03-26 06:00:00 UTC
 
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
-2023-3-25 06:00:00 UTC
-2023-3-26 06:00:00 UTC
+2023-03-25 06:00:00 UTC
+2023-03-26 06:00:00 UTC
 
 Lance Poké Fair Scout
 
