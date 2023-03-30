@@ -711,4 +711,179 @@ Villain Event: Team Magma’s Red-Hot Rage
 Villain Event: Team Aqua’s Stormy Seas
 
 2023-03-29 06:00:00 UTC
-2023-04-15 06:00:00 UTC`;
+2023-04-15 06:00:00 UTC
+
+Steven Costume Tiered Scout
+
+2023-03-31 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Costume Event: Solve the Case! (Part 1)
+
+2023-03-31 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Event Gem Special!
+
+2023-03-31 06:00:00 UTC
+2023-04-17 06:00:00 UTC
+
+One Day Only! Special Event: Metronome Day
+
+2023-04-01 06:00:00 UTC
+2023-04-02 06:00:00 UTC
+
+Vol. 8: Monthly Poké Fair Scout (Steven)
+
+2023-04-01 06:00:00 UTC
+2023-05-01 06:00:00 UTC
+
+Shauna Costume Tiered Scout
+
+2023-04-02 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Special Event: Helping Out on Pasio
+
+2023-04-02 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Story Event: Pasio Eggsplorers
+
+2023-04-06 06:00:00 UTC
+2023-04-20 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2023-04-06 06:00:00 UTC
+2023-04-20 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-04-08 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Poison-, Dragon-, and Flying-Type Egg Event
+
+2023-04-08 06:00:00 UTC
+2023-04-22 06:00:00 UTC
+
+Special Rally
+
+2023-04-08 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2023-04-08 06:00:00 UTC
+2023-04-15 06:00:00 UTC
+
+Victor Poké Fair Scout
+
+2023-04-11 06:00:00 UTC
+2023-04-25 06:00:00 UTC
+
+5★-Select Type Scout (Grass)
+
+2023-04-11 06:00:00 UTC
+2023-04-25 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2023-04-11 06:00:00 UTC
+2023-04-25 06:00:00 UTC
+
+New content added to the Paulo Interlude!
+
+2023-04-11 06:00:00 UTC
+2023-04-18 06:00:00 UTC
+
+Legendary Arena: Regirock
+
+2023-04-11 06:00:00 UTC
+2023-04-25 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-04-11 06:00:00 UTC
+2023-04-25 06:00:00 UTC
+
+Event Gem Special!
+
+2023-04-13 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Costume Event: Solve the Case! (Part 2)
+
+2023-04-13 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Zinnia Costume Tiered Scout
+
+2023-04-13 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Lyra Costume Tiered Scout
+
+2023-04-15 06:00:00 UTC
+2023-05-02 06:00:00 UTC
+
+Lorelei Variety Scout
+
+2023-04-20 06:00:00 UTC
+2023-05-14 06:00:00 UTC
+
+Trainer Files: Kanto Elite Four (Part 1)
+
+2023-04-20 06:00:00 UTC
+2023-05-14 06:00:00 UTC
+
+Costume Event: Curious Tea Party
+
+2023-04-22 06:00:00 UTC
+2023-05-08 06:00:00 UTC
+
+Costume Event: Solving Wonderful Mysteries
+
+2023-04-22 06:00:00 UTC
+2023-05-08 06:00:00 UTC
+
+Costume Tiered Scout
+
+2023-04-22 06:00:00 UTC
+2023-05-08 06:00:00 UTC
+
+Bruno Variety Scout
+
+2023-04-22 06:00:00 UTC
+2023-05-14 06:00:00 UTC
+
+Sygna Suit Lusamine Master Fair Scout
+
+2023-04-25 06:00:00 UTC
+2023-05-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-04-25 06:00:00 UTC
+2023-04-26 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-04-25 06:00:00 UTC
+2023-04-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-04-25 06:00:00 UTC
+2023-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-04-25 06:00:00 UTC
+2023-04-26 06:00:00 UTC
+
+Legendary Arena: Cresselia
+
+2023-04-26 06:00:00 UTC
+2023-05-10 06:00:00 UTC`;
