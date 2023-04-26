@@ -886,4 +886,199 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Legendary Arena: Cresselia
 
 2023-04-26 06:00:00 UTC
-2023-05-10 06:00:00 UTC`;
+2023-05-10 06:00:00 UTC
+
+Villain Event: Investigate the Foundation
+
+2023-04-28 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Sygna Suit Hau Poké Fair Scout
+
+2023-04-28 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+5★-Guaranteed Alola Special Scout
+
+2023-04-28 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Event Gem Special!
+
+2023-04-28 06:00:00 UTC
+2023-05-15 06:00:00 UTC
+
+New chapter added to the villain arc!
+
+2023-04-28 06:00:00 UTC
+2023-05-05 06:00:00 UTC
+
+Sygna Suit Mina Poké Fair Scout
+
+2023-04-30 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2023-04-30 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Vol. 9: Monthly Poké Fair Scout
+
+2023-05-01 06:00:00 UTC
+2023-06-01 06:00:00 UTC
+
+Solo Event: Fashion Week!
+
+2023-05-03 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+Fifty Million Downloads Celebration Poké Fair Scout
+
+2023-05-03 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+First Scout ×11 Half Off!: Fashion Week Limited Scout
+
+2023-05-03 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+Fifty Million Downloads Celebration Rally
+
+2023-05-03 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+Daily Battle: The Golden Magikarp
+
+2023-05-04 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+Solo Event: Pasio Gold Rush
+
+2023-05-05 06:00:00 UTC
+2023-05-17 06:00:00 UTC
+
+Trainer Files: Kanto Elite Four (Part 2)
+
+2023-05-07 06:00:00 UTC
+2023-05-21 06:00:00 UTC
+
+Agatha Variety Scout
+
+2023-05-07 06:00:00 UTC
+2023-05-21 06:00:00 UTC
+
+Lance Variety Scout
+
+2023-05-09 06:00:00 UTC
+2023-05-21 06:00:00 UTC
+
+Time Trial Event: Top Speed
+
+2023-05-10 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Villain Event: People Protecting Pokémon
+
+2023-05-12 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Sygna Suit Acerola Poké Fair Scout
+
+2023-05-12 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Event Gem Special!
+
+2023-05-12 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+New content added to the Alola chapter!
+
+2023-05-12 06:00:00 UTC
+2023-05-19 06:00:00 UTC
+
+Sygna Suit Lana Poké Fair Scout
+
+2023-05-14 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Story Event: Trials on the Isle
+
+2023-05-16 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Battle Villa Re-Opens!
+
+2023-05-16 06:00:00 UTC
+2023-05-30 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-05-18 06:00:00 UTC
+2023-05-25 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-05-18 06:00:00 UTC
+2023-06-07 06:00:00 UTC
+
+Water, Fire, and Bug 5★-Select Scout
+
+2023-05-18 06:00:00 UTC
+2023-06-08 06:00:00 UTC
+
+Bug-, Water-, and Fire-Type Poké Fair Scout
+
+2023-05-18 06:00:00 UTC
+2023-06-08 06:00:00 UTC
+
+Villain Event: Dreams of the Void
+
+2023-05-20 06:00:00 UTC
+2023-06-10 06:00:00 UTC
+
+Villain Event: Galactic Awakening
+
+2023-05-24 06:00:00 UTC
+2023-06-10 06:00:00 UTC
+
+Sygna Suit (Renegade) Cynthia Master Fair Scout
+
+2023-05-25 06:00:00 UTC
+2023-06-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-05-25 06:00:00 UTC
+2023-05-26 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-05-25 06:00:00 UTC
+2023-05-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-05-25 06:00:00 UTC
+2023-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-05-25 06:00:00 UTC
+2023-05-26 06:00:00 UTC
+
+Training Area Reward Boost Rally
+
+2023-05-26 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Special Rally
+
+2023-05-26 06:00:00 UTC
+2023-06-02 06:00:00 UTC
+
+Fairy-Type Gear Event
+
+2023-05-27 06:00:00 UTC
+2023-06-10 06:00:00 UTC`;
