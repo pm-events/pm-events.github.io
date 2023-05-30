@@ -1081,4 +1081,139 @@ Special Rally
 Fairy-Type Gear Event
 
 2023-05-27 06:00:00 UTC
-2023-06-10 06:00:00 UTC`;
+2023-06-10 06:00:00 UTC
+
+Story Event: Travelers from a Distant Past
+
+2023-05-31 06:00:00 UTC
+2023-06-17 06:00:00 UTC
+
+Extreme Battle Event: Training with Dawn and Lucas!
+
+2023-05-31 06:00:00 UTC
+2023-06-17 06:00:00 UTC
+
+Adaman Master Fair Scout
+
+2023-05-31 06:00:00 UTC
+2023-07-10 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2023-05-31 06:00:00 UTC
+2023-07-05 06:00:00 UTC
+
+Vol. 10: Monthly Poké Fair Scout (Marnie)
+
+2023-06-01 06:00:00 UTC
+2023-07-01 06:00:00 UTC
+
+Irida Master Fair Scout
+
+2023-06-02 06:00:00 UTC
+2023-07-10 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-06-05 06:00:00 UTC
+2023-06-12 06:00:00 UTC
+
+Story Event: A Golden Future
+
+2023-06-08 06:00:00 UTC
+2023-07-02 06:00:00 UTC
+
+Sygna Suit Morty Poké Fair Scout
+
+2023-06-08 06:00:00 UTC
+2023-07-02 06:00:00 UTC
+
+Solo Event: Kris’s Worries
+
+2023-06-10 06:00:00 UTC
+2023-06-24 06:00:00 UTC
+
+Battle Villa Re-Opens!
+
+2023-06-12 06:00:00 UTC
+2023-06-26 06:00:00 UTC
+
+Story Event: Chase the Northern Wind
+
+2023-06-15 06:00:00 UTC
+2023-07-02 06:00:00 UTC
+
+Eusine Poké Fair Scout
+
+2023-06-15 06:00:00 UTC
+2023-07-15 06:00:00 UTC
+
+Event Gem Special!
+
+2023-06-15 06:00:00 UTC
+2023-07-05 06:00:00 UTC
+
+Sygna Suit Silver Poké Fair Scout
+
+2023-06-17 06:00:00 UTC
+2023-07-15 06:00:00 UTC
+
+Ice-Type Gear Event
+
+2023-06-20 06:00:00 UTC
+2023-07-04 06:00:00 UTC
+
+Villain Event: Team Magma’s Red-Hot Rage
+
+2023-06-22 06:00:00 UTC
+2023-07-11 06:00:00 UTC
+
+Sygna Suit May Poké Fair Scout
+
+2023-06-22 06:00:00 UTC
+2023-07-11 06:00:00 UTC
+
+Villain Event: Team Aqua’s Stormy Seas
+
+2023-06-24 06:00:00 UTC
+2023-07-11 06:00:00 UTC
+
+Archie Master Fair Scout
+
+2023-06-25 06:00:00 UTC
+2023-07-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-06-25 06:00:00 UTC
+2023-06-26 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-06-25 06:00:00 UTC
+2023-06-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-06-25 06:00:00 UTC
+2023-06-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-06-25 06:00:00 UTC
+2023-06-26 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Marnie)
+
+2023-06-27 06:00:00 UTC
+2023-07-11 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-06-27 06:00:00 UTC
+2023-07-11 06:00:00 UTC
+
+Sygna Suit N Poké Fair Scout
+
+2023-06-27 06:00:00 UTC
+2023-07-11 06:00:00 UTC`;
