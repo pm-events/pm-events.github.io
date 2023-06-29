@@ -1216,4 +1216,158 @@ Special Event: Pasio Special Stadium (Champion Marnie)
 Sygna Suit N Poké Fair Scout
 
 2023-06-27 06:00:00 UTC
-2023-07-11 06:00:00 UTC`;
+2023-07-11 06:00:00 UTC
+
+Event Gem Special!
+
+2023-06-30 06:00:00 UTC
+2023-07-17 06:00:00 UTC
+
+Story Event: Twin Stars Far Apart
+
+2023-06-30 06:00:00 UTC
+2023-07-17 06:00:00 UTC
+
+Tate Seasonal Tiered Scout
+
+2023-06-30 06:00:00 UTC
+2023-07-17 06:00:00 UTC
+
+Vol. 11 Monthly Poké Fair Scout
+
+2023-07-01 06:00:00 UTC
+2023-08-01 06:00:00 UTC
+
+Liza Seasonal Tiered Scout
+
+2023-07-02 06:00:00 UTC
+2023-07-17 06:00:00 UTC
+
+Battle Villa Re-Opens!
+2023-07-04 06:00:00 UTC
+2023-07-18 06:00:00 UTC
+
+Story Event: Summer Nights & Wishing Stars
+
+2023-07-06 06:00:00 UTC
+2023-07-20 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2023-07-06 06:00:00 UTC
+2023-07-20 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-07-11 06:00:00 UTC
+2023-07-25 06:00:00 UTC
+
+Water-Type Exclusive Double Feature Poké Fair Scout
+
+2023-07-11 06:00:00 UTC
+2023-07-25 06:00:00 UTC
+
+Water-Type Gear Event
+
+2023-07-11 06:00:00 UTC
+2023-07-25 06:00:00 UTC
+
+High Score Event: Water-Type Masters
+
+2023-07-11 06:00:00 UTC
+2023-07-25 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2023-07-14 06:00:00 UTC
+2023-08-02 06:00:00 UTC
+
+Rose Poké Fair Scout
+
+2023-07-14 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Event Gem Special!
+
+2023-07-14 06:00:00 UTC
+2023-08-02 06:00:00 UTC
+
+Villain Event: Lamenting a Millennium
+
+2023-07-14 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Extreme Battle Event: Let’s Get Stronger with Everyone from Galar!
+
+2023-07-14 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2023-07-14 06:00:00 UTC
+2023-07-21 06:00:00 UTC
+
+Oleana Poké Fair Scout
+
+2023-07-16 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Legendary Arena: Raikou
+
+2023-07-19 06:00:00 UTC
+2023-08-02 06:00:00 UTC
+
+Trainer Files: Akala Passion
+
+2023-07-21 06:00:00 UTC
+2023-08-04 06:00:00 UTC
+
+Kiawe Variety Scout
+
+2023-07-21 06:00:00 UTC
+2023-08-04 06:00:00 UTC
+
+Mallow Variety Scout
+
+2023-07-23 06:00:00 UTC
+2023-08-04 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-07-25 06:00:00 UTC
+2023-07-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-07-25 06:00:00 UTC
+2023-07-26 06:00:00 UTC
+
+Maxie Master Fair Scout
+
+2023-07-25 06:00:00 UTC
+2023-08-25 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-07-25 06:00:00 UTC
+2023-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-07-25 06:00:00 UTC
+2023-07-26 06:00:00 UTC
+
+Sygna Suit Wally Poké Fair Scout
+
+2023-07-26 06:00:00 UTC
+2023-08-09 06:00:00 UTC
+
+Story Event: Melancholy Wally
+
+2023-07-26 06:00:00 UTC
+2023-08-09 06:00:00 UTC
+
+New content added to the Paulo Interlude!
+
+2023-08-16 06:00:00 UTC
+2023-08-23 06:00:00 UTC`;
