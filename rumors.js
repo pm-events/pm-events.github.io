@@ -1244,6 +1244,7 @@ Liza Seasonal Tiered Scout
 2023-07-17 06:00:00 UTC
 
 Battle Villa Re-Opens!
+
 2023-07-04 06:00:00 UTC
 2023-07-18 06:00:00 UTC
 
