@@ -43,4 +43,4 @@ Event 3 Name[...]
 `
 ```
 
-#### If something breaks, you can ping @ ntcs#0900 on Discord.
+#### If something breaks, you can ping @ antocs on Discord.
