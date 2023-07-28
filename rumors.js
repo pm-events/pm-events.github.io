@@ -1368,7 +1368,202 @@ Story Event: Melancholy Wally
 2023-07-26 06:00:00 UTC
 2023-08-09 06:00:00 UTC
 
-New content added to the Paulo Interlude!
+Leon (Alt.) Poké Fair Scout
+
+2023-07-31 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Event Gem Special!
+
+2023-07-31 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Villain Event: Hear the Cheers!
+
+2023-07-31 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Vol. 12: Monthly Poké Fair Scout
+
+2023-08-01 06:00:00 UTC
+2023-09-01 06:00:00 UTC
+
+Gloria (Alt. 2) Poké Fair Scout
+
+2023-08-02 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Extreme Battle Event: Beat the Unbeatable Champion!
+
+2023-08-02 06:00:00 UTC
+2023-08-19 06:00:00 UTC
+
+Olympia Spotlight Scout
+
+2023-08-04 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Daily Type Rotation: Type Team-Up
+
+2023-08-04 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Drasna Spotlight Scout
+
+2023-08-07 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Fire- and Psychic-Type Egg Event
+
+2023-08-07 06:00:00 UTC
+2023-08-21 06:00:00 UTC
+
+Nemona Poké Fair Scout
+
+2023-08-08 13:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Event Gem Special!
+
+2023-08-08 13:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Story Event: We Should Battle!
+
+2023-08-08 13:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Training Area Update: Sprint Drills
+
+2023-08-08 13:00:00 UTC
+2023-08-25 06:00:00 UTC
+
+Solo Event: Let’s Have a Fruitful Battle!
+
+2023-08-09 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Battle Villa Re-Opens!
+
+2023-08-10 06:00:00 UTC
+2023-08-24 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-08-12 06:00:00 UTC
+2023-08-26 06:00:00 UTC
+
+Ingo, Red, and Diantha Poké Fair Scout
+
+2023-08-12 06:00:00 UTC
+2023-08-26 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-08-12 06:00:00 UTC
+2023-09-04 06:00:00 UTC
+
+New content added to the Paulo Chapter!
 
 2023-08-16 06:00:00 UTC
-2023-08-23 06:00:00 UTC`;
+2023-08-23 06:00:00 UTC
+
+Sygna Suit Kris Master Fair Scout
+
+2023-08-16 06:00:00 UTC
+2023-09-15 06:00:00 UTC
+
+10-Pair Scout (Max 100 Pairs)
+
+2023-08-16 06:00:00 UTC
+2023-09-22 06:00:00 UTC
+
+Run-Up to Four Years Gem Special!
+
+2023-08-16 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Special Sync Pair Event: Victor & Spectrier
+
+2023-08-16 06:00:00 UTC
+2023-09-30 06:00:00 UTC
+
+Training Area Update: Field Drills
+
+2023-08-08 06:00:00 UTC
+2023-08-25 06:00:00 UTC
+
+Villain Event: Rocket Execs Assemble
+
+2023-08-16 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Extreme Battle Event: Trio of Justice
+
+2023-08-16 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Villain Event: Team Rocket Attacks
+
+2023-08-18 06:00:00 UTC
+2023-08-28 06:00:00 UTC
+
+Sygna Suit Lyra Master Fair Scout
+
+2023-08-18 06:00:00 UTC
+2023-09-15 06:00:00 UTC
+
+Sygna Suit Ethan Master Fair Scout
+
+2023-08-20 06:00:00 UTC
+2023-09-15 06:00:00 UTC
+
+Special Sync Pair Event: Giovanni & Persian
+
+2023-08-20 06:00:00 UTC
+2023-10-04 06:00:00 UTC
+
+Special Sync Pair Event: Misty & Psyduck
+
+2023-08-22 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 A
+
+2023-08-23 06:00:00 UTC
+2023-09-07 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 B
+
+2023-08-23 06:00:00 UTC
+2023-09-07 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 C
+
+2023-08-23 06:00:00 UTC
+2023-09-07 06:00:00 UTC
+
+Special Sync Pair Event: Blue & Arcanine
+
+2023-08-24 06:00:00 UTC
+2023-10-08 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-08-25 06:00:00 UTC
+2023-08-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-08-25 06:00:00 UTC
+2023-08-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-08-25 06:00:00 UTC
+2023-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-08-25 06:00:00 UTC
+2023-08-26 06:00:00 UTC`;
