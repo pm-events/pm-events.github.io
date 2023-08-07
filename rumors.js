@@ -1490,7 +1490,7 @@ Special Sync Pair Event: Victor & Spectrier
 
 Training Area Update: Field Drills
 
-2023-08-08 06:00:00 UTC
+2023-08-16 06:00:00 UTC
 2023-08-25 06:00:00 UTC
 
 Villain Event: Rocket Execs Assemble
