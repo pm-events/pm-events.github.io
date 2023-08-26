@@ -1566,4 +1566,209 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2023-08-25 06:00:00 UTC
-2023-08-26 06:00:00 UTC`;
+2023-08-26 06:00:00 UTC
+
+Four-Year Anniversary Gem Specials!
+
+2023-08-28 06:00:00 UTC
+2023-10-02 06:00:00 UTC
+
+10 Paid Gems! Daily 5★-Guaranteed Scout ×11
+
+2023-08-28 06:00:00 UTC
+2023-09-07 06:00:00 UTC
+
+Fair-Exclusive 5★-Select Ticket Scout
+
+2023-08-28 06:00:00 UTC
+2023-10-04 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (Anniversary May, Anniversary Skyla, Anniversary Raihan)
+
+2023-08-28 06:00:00 UTC
+2023-09-28 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×25
+
+2023-08-28 06:00:00 UTC
+2023-09-28 06:00:00 UTC
+
+Champion Red Master Fair Scout
+
+2023-08-28 06:00:00 UTC
+2023-10-07 06:00:00 UTC
+
+Neo Champions: Three Trainers, Three Minds
+
+2023-08-28 06:00:00 UTC
+2023-10-02 06:00:00 UTC
+
+Villain Arc Final Chapter
+
+2023-08-28 06:00:00 UTC
+2023-10-02 06:00:00 UTC
+
+Champion Leaf Master Fair Scout
+
+2023-08-30 06:00:00 UTC
+2023-10-07 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Red)
+
+2023-08-30 06:00:00 UTC
+2023-09-15 06:00:00 UTC
+
+Vol. 13: Monthly Poké Fair Scout
+
+2023-09-01 06:00:00 UTC
+2023-10-01 06:00:00 UTC
+
+Champion Blue Master Fair Scout
+
+2023-09-01 06:00:00 UTC
+2023-10-07 06:00:00 UTC
+
+Extreme Battle Event: Fight through Kanto’s Best!
+
+2023-09-01 06:00:00 UTC
+2023-09-18 06:00:00 UTC
+
+Throwback Challenge: Rental Battle Event
+
+2023-09-01 06:00:00 UTC
+2023-09-15 06:00:00 UTC
+
+Double Feature Poké Fair Scout (Paulo & Tina (4★))
+
+2023-09-04 06:00:00 UTC
+2023-10-04 06:00:00 UTC
+
+Special Event: Stop the Evil Mastermind!
+
+2023-09-06 06:00:00 UTC
+2023-09-16 06:00:00 UTC
+
+Team Rocket Variety Scout (Giovanni, Archer, Ariana, Petrel, Proton)
+
+2023-09-06 06:00:00 UTC
+2023-09-27 06:00:00 UTC
+
+Team Rocket Executive Guaranteed Ticket Scout
+
+2023-09-06 06:00:00 UTC
+2023-10-27 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-09-08 06:00:00 UTC
+2023-09-22 06:00:00 UTC
+
+Rosa Costume Scout
+
+2023-09-10 06:00:00 UTC
+2023-09-24 06:00:00 UTC
+
+Costume Event: Super Tour Guide Rosa
+
+2023-09-10 06:00:00 UTC
+2023-09-24 06:00:00 UTC
+
+A Lively Trio! (Paldea Eggs)
+
+2023-09-12 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+5★-Select Costume Scout ×11 A
+
+2023-09-12 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+5★-Select Costume Scout ×11 B
+
+2023-09-12 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+High Score Event: Electric-Type Masters
+
+2023-09-14 06:00:00 UTC
+2023-09-27 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-09-14 06:00:00 UTC
+2023-09-27 06:00:00 UTC
+
+Electric-Type Exclusive Elesa Poké Fair Scout
+
+2023-09-14 06:00:00 UTC
+2023-09-27 06:00:00 UTC
+
+Story Event: Tower Tycoon and Hall Matron
+
+2023-09-16 06:00:00 UTC
+2023-10-03 06:00:00 UTC
+
+Palmer Poké Fair Scout
+
+2023-09-16 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Event Gem Special!
+
+2023-09-16 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Argenta Poké Fair Scout
+
+2023-09-18 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Hop)
+
+2023-09-20 06:00:00 UTC
+2023-10-04 06:00:00 UTC
+
+Bede Poké Fair Scout
+
+2023-09-22 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Flying-Type Gear Event
+
+2023-09-22 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Story Event: Revel in Rivalry
+
+2023-09-22 06:00:00 UTC
+2023-10-06 06:00:00 UTC
+
+Sygna Suit Serena Master Fair Scout
+
+2023-09-25 06:00:00 UTC
+2023-10-25 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-09-25 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-09-25 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-09-25 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-09-25 06:00:00 UTC
+2023-09-26 06:00:00 UTC
+
+Normal- and Fairy-Type Egg Event
+
+2023-09-27 06:00:00 UTC
+2023-10-11 06:00:00 UTC`;
