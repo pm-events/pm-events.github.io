@@ -1771,4 +1771,154 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Normal- and Fairy-Type Egg Event
 
 2023-09-27 06:00:00 UTC
-2023-10-11 06:00:00 UTC`;
+2023-10-11 06:00:00 UTC
+
+Akari Poké Fair Scout
+
+2023-09-29 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+Event Gem Special!
+
+2023-09-29 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+Get the New Gear! Event
+
+2023-09-29 06:00:00 UTC
+2023-10-13 06:00:00 UTC
+
+Story Event: Together in an Unknown Land
+
+2023-09-29 06:00:00 UTC
+2023-10-16 06:00:00 UTC
+
+Vol. 14: Monthly Poké Fair Scout (Steven)
+
+2023-10-01 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Rei Poké Fair Scout
+
+2023-10-01 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+Thorton Variety Scout
+
+2023-10-05 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+Trainer Files: Two Factory Heads
+
+2023-10-05 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+Noland Variety Scout
+
+2023-10-07 06:00:00 UTC
+2023-10-19 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-10-08 06:00:00 UTC
+2023-10-22 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-10-10 06:00:00 UTC
+2023-10-24 06:00:00 UTC
+
+Triple Feature Poké Fair Scout (Red, Lance, SS Hau)
+
+2023-10-10 06:00:00 UTC
+2023-10-24 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-10-10 06:00:00 UTC
+2023-10-30 06:00:00 UTC
+
+Phoebe Seasonal Tiered Scout
+
+2023-10-12 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Event Gem Special!
+
+2023-10-12 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Story Event: The Haunted Museum
+
+2023-10-12 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Roxanne Seasonal Tiered Scout
+
+2023-10-14 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Lenora Spotlight Scout
+
+2023-10-16 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2023-10-18 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Story Event: Otherworldly Encounter
+
+2023-10-18 06:00:00 UTC
+2023-11-01 06:00:00 UTC
+
+Extreme Battle Event: Take on battles with Trainers from different regions!
+
+2023-10-20 06:00:00 UTC
+2023-11-03 06:00:00 UTC
+
+Triple Feature Poké Fair Scout (SS Hilda, SS Hilbert, SS N)
+
+2023-10-22 06:00:00 UTC
+2023-11-12 06:00:00 UTC
+
+Villain Event: The Captured King
+
+2023-10-22 06:00:00 UTC
+2023-11-03 06:00:00 UTC
+
+Villain Event: Team Plasma’s Icy Malice
+
+2023-10-24 06:00:00 UTC
+2023-11-03 06:00:00 UTC
+
+Calem (Champion) Master Fair Scout
+
+2023-10-25 06:00:00 UTC
+2023-11-25 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-10-25 06:00:00 UTC
+2023-10-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-10-25 06:00:00 UTC
+2023-10-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-10-25 06:00:00 UTC
+2023-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-10-25 06:00:00 UTC
+2023-10-26 06:00:00 UTC
+
+Ground- and Fighting-Type Egg Event
+
+2023-10-27 06:00:00 UTC
+2023-11-10 06:00:00 UTC`;
