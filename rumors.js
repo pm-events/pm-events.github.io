@@ -1921,4 +1921,174 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Ground- and Fighting-Type Egg Event
 
 2023-10-27 06:00:00 UTC
-2023-11-10 06:00:00 UTC`;
+2023-11-10 06:00:00 UTC
+
+Event Gem Special!
+
+2023-10-31 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Sygna Suit Roxie Poké Fair Scout
+
+2023-10-31 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Story Event: Who’s the Best Singer?
+
+2023-10-31 06:00:00 UTC
+2023-11-17 06:00:00 UTC
+
+Vol. 15: Monthly Poké Fair Scout
+
+2023-11-01 06:00:00 UTC
+2023-12-01 06:00:00 UTC
+
+Red & Venusaur Mix Scout
+
+2023-11-01 06:00:00 UTC
+2024-05-01 06:00:00 UTC
+
+Mysterious Stones Chapter
+
+2023-11-01 06:00:00 UTC
+2023-12-01 06:00:00 UTC
+
+Sygna Suit Piers Poké Fair Scout
+
+2023-11-02 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Ryuki Spotlight Scout
+
+2023-11-04 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Iris (Alt.) Poké Fair Scout
+
+2023-11-06 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Story Event: Shining Heart of Dragons
+
+2023-11-06 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-11-06 06:00:00 UTC
+2023-11-20 06:00:00 UTC
+
+Fire-Type Exclusive: Double Feature Poké Fair Scout
+
+2023-11-08 06:00:00 UTC
+2023-11-22 06:00:00 UTC
+
+5★-Select Type Scout
+
+2023-11-08 06:00:00 UTC
+2023-11-22 06:00:00 UTC
+
+High Score Event: Fire-Type Masters
+
+2023-11-08 06:00:00 UTC
+2023-11-22 06:00:00 UTC
+
+Penny Poké Fair Scout
+
+2023-11-10 06:00:00 UTC
+2023-11-30 06:00:00 UTC
+
+Event Gem Special!
+
+2023-11-10 06:00:00 UTC
+2023-12-02 06:00:00 UTC
+
+Story Event: Veevee on Pasio!
+
+2023-11-10 06:00:00 UTC
+2023-11-30 06:00:00 UTC
+
+Steel-Type Gear Event
+
+2023-11-14 06:00:00 UTC
+2023-11-28 06:00:00 UTC
+
+Ultimate Battle: Anabel’s Flickering Flames
+
+2023-11-14 06:00:00 UTC
+2023-11-28 06:00:00 UTC
+
+Elaine Poké Fair Scout
+
+2023-11-17 06:00:00 UTC
+2023-12-07 06:00:00 UTC
+
+Story Event: Let’s Go in Search of Wonder
+
+2023-11-17 06:00:00 UTC
+2023-12-04 06:00:00 UTC
+
+Eevee Day Celebration Tiered Scout
+
+2023-11-21 06:00:00 UTC
+2023-12-08 06:00:00 UTC
+
+Eevee Day Celebration!: Eevee Tales
+
+2023-11-21 06:00:00 UTC
+2023-12-08 06:00:00 UTC
+
+Many Possibilities Egg Event
+
+2023-11-21 06:00:00 UTC
+2023-12-05 06:00:00 UTC
+
+Villain Event: Battle! Friends from Kalos
+
+2023-11-24 06:00:00 UTC
+2023-12-06 06:00:00 UTC
+
+Extreme Battle Event: Into the Blazing Chamber
+
+2023-11-24 06:00:00 UTC
+2023-12-06 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2023-11-24 06:00:00 UTC
+2023-12-06 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-11-25 06:00:00 UTC
+2023-11-26 06:00:00 UTC
+
+Serena (Champion) Master Fair Scout
+
+2023-11-25 06:00:00 UTC
+2023-12-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-11-25 06:00:00 UTC
+2023-11-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-11-25 06:00:00 UTC
+2023-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-11-25 06:00:00 UTC
+2023-11-26 06:00:00 UTC
+
+Villain Event: Go, Go, Team Flare!
+
+2023-11-26 06:00:00 UTC
+2023-12-06 06:00:00 UTC
+
+Extreme Battle Event: Challenge the Hope of Kalos
+
+2023-11-26 06:00:00 UTC
+2023-12-06 06:00:00 UTC`;
