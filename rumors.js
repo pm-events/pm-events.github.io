@@ -2091,4 +2091,169 @@ Villain Event: Go, Go, Team Flare!
 Extreme Battle Event: Challenge the Hope of Kalos
 
 2023-11-26 06:00:00 UTC
-2023-12-06 06:00:00 UTC`;
+2023-12-06 06:00:00 UTC
+
+Special Present!: Nate Master Fair Scout
+
+2023-11-30 06:00:00 UTC
+2024-01-11 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2023-11-30 06:00:00 UTC
+2023-12-20 06:00:00 UTC
+
+Neo Champions: A Pure and Touching Heart
+
+2023-11-30 06:00:00 UTC
+2023-12-31 06:00:00 UTC
+
+Extreme Battle Event: Show Your Hearts As One!
+
+2023-11-30 06:00:00 UTC
+2023-12-31 06:00:00 UTC
+
+Vol. 16: Monthly Poké Fair Scout (Marnie)
+
+2023-12-01 06:00:00 UTC
+2024-01-01 06:00:00 UTC
+
+Mysterious Stones Arc Update & Lodge Jasmine
+
+2023-12-01 06:00:00 UTC
+2024-01-01 06:00:00 UTC
+
+Triple Feature Poké Fair Scout (SS Acerola, SS Mina, SS Lana)
+
+2023-12-04 06:00:00 UTC
+2023-12-18 06:00:00 UTC
+
+Special Battle Event: Take on a serious Nate!
+
+2023-12-04 06:00:00 UTC
+2024-01-04 06:00:00 UTC
+
+Villain Event: Investigate the Foundation
+
+2023-12-04 06:00:00 UTC
+2023-12-18 06:00:00 UTC
+
+Time Trial Event: Top Speed
+
+2023-12-04 06:00:00 UTC
+2023-12-18 06:00:00 UTC
+
+Villain Event: People Protecting Pokémon
+
+2023-12-06 06:00:00 UTC
+2023-12-18 06:00:00 UTC
+
+5★-Select Type Scout (Flying, Poison, Ghost, Water)
+
+2023-12-08 06:00:00 UTC
+2023-12-22 06:00:00 UTC
+
+Triple Feature Poké Fair Scout (SS Korrina, SS Blue, Emma)
+
+2023-12-08 06:00:00 UTC
+2023-12-22 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2023-12-08 06:00:00 UTC
+2023-12-29 06:00:00 UTC
+
+Ultimate Battle: Thorton’s Freezing Frost
+
+2023-12-08 06:00:00 UTC
+2023-12-29 06:00:00 UTC
+
+The Battle Villa Is Open!
+
+2023-12-08 06:00:00 UTC
+2023-12-22 06:00:00 UTC
+
+Viola Seasonal Tiered Scout
+
+2023-12-12 06:00:00 UTC
+2023-12-30 06:00:00 UTC
+
+Event Gem Special!
+
+2023-12-12 06:00:00 UTC
+2024-01-01 06:00:00 UTC
+
+Story Event: Focus on the Shining Shot!
+
+2023-12-12 06:00:00 UTC
+2023-12-27 06:00:00 UTC
+
+Sycamore Seasonal Tiered Scout
+
+2023-12-14 06:00:00 UTC
+2023-12-30 06:00:00 UTC
+
+Bug-Type Gear Event
+
+2023-12-16 06:00:00 UTC
+2023-12-30 06:00:00 UTC
+
+Seasonal Tiered Scout (Holiday)
+
+2023-12-19 06:00:00 UTC
+2024-01-02 06:00:00 UTC
+
+Story Event: Shine a Gentle Light
+
+2023-12-19 06:00:00 UTC
+2024-01-02 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Leaf)
+
+2023-12-21 06:00:00 UTC
+2024-01-04 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2023-12-25 06:00:00 UTC
+2023-12-26 06:00:00 UTC
+
+Special Present!: Rosa Master Fair Scout
+
+2023-12-25 06:00:00 UTC
+2024-01-29 06:00:00 UTC
+
+Neo Champions: A Touching Sepia-Toned Song
+
+2023-12-25 06:00:00 UTC
+2024-01-14 06:00:00 UTC
+
+Extreme Battle Event: Show the Meaning of Strength!
+
+2023-12-25 06:00:00 UTC
+2024-01-14 06:00:00 UTC
+
+Special Battle Event: Take on a serious Rosa!
+
+2023-12-25 06:00:00 UTC
+2024-01-14 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2023-12-25 06:00:00 UTC
+2023-12-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2023-12-25 06:00:00 UTC
+2023-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2023-12-25 06:00:00 UTC
+2023-12-26 06:00:00 UTC
+
+A Jolly Trio! (Galar Starter Egg Event)
+
+2023-12-27 06:00:00 UTC
+2024-01-10 06:00:00 UTC`;
