@@ -44,3 +44,4 @@ Event 3 Name[...]
 ```
 
 #### If something breaks, you can ping @ antocs on Discord.
+#### Credits to Absol-utely and the other Pokémon Masters EX dataminers.
