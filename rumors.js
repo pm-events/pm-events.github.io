@@ -413,6 +413,11 @@ Normal-Type Gear Event
 2024-02-16 06:00:00 UTC
 2024-03-01 06:00:00 UTC
 
+Ultimate Battle: Argenta’s Glistening Crystals
+
+2024-02-16 06:00:00 UTC
+2024-03-01 06:00:00 UTC
+
 Fair-exclusive pairs included! 10-Pair Scout (Max 100 Pairs)
 
 2024-02-19 06:00:00 UTC
