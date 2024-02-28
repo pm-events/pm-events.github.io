@@ -491,4 +491,204 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2024-02-25 06:00:00 UTC
-2024-02-26 06:00:00 UTC`;
+2024-02-26 06:00:00 UTC
+
+Fair-Exclusive 5★-Select Ticket Scout & Lucky Skill Area
+
+2024-02-28 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (A)
+
+2024-02-28 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (B)
+
+2024-02-28 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (C)
+
+2024-02-28 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+Special Present! Geeta Master Fair Scout
+
+2024-02-28 06:00:00 UTC
+2024-04-08 06:00:00 UTC
+
+4.5 Year Celebration Gem Special!
+
+2024-02-28 06:00:00 UTC
+2024-03-19 06:00:00 UTC
+
+4.5 Year Celebration! Special Co-op Battle!
+
+2024-02-28 06:00:00 UTC
+2024-03-13 06:00:00 UTC
+
+Neo Champions: Honing One’s Love
+
+2024-02-28 06:00:00 UTC
+2024-03-16 06:00:00 UTC
+
+Extreme Battle Event: Take On the Young Talent
+
+2024-02-28 06:00:00 UTC
+2024-03-16 06:00:00 UTC
+
+Vol. 19 Monthly Poké Fair Scout (Steven)
+
+2024-03-01 06:00:00 UTC
+2024-04-01 06:00:00 UTC
+
+Mysterious Stones Arc Update & Lodge Skyla
+
+2024-03-01 06:00:00 UTC
+2024-04-01 06:00:00 UTC
+
+Special Present! Silver Master Fair Scout
+
+2024-03-01 06:00:00 UTC
+2024-04-08 06:00:00 UTC
+
+Special Battle Event: Take On a Tenacious Silver!
+
+2024-03-03 06:00:00 UTC
+2024-04-12 06:00:00 UTC
+
+5★-Select Variety Scout ×11
+
+2024-03-05 06:00:00 UTC
+2024-03-19 06:00:00 UTC
+
+Neo Champions: Leaders of a New Era
+
+2024-03-05 06:00:00 UTC
+2024-03-19 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Serena)
+
+2024-03-05 06:00:00 UTC
+2024-03-19 06:00:00 UTC
+
+High Score Event: Psychic-Type Masters
+
+2024-03-07 06:00:00 UTC
+2024-03-21 06:00:00 UTC
+
+Psychic-Type Exclusive Double Feature Poké Fair Scout
+
+2024-03-07 06:00:00 UTC
+2024-03-21 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-03-07 06:00:00 UTC
+2024-03-21 06:00:00 UTC
+
+Costume Tiered Scout
+
+2024-03-09 06:00:00 UTC
+2024-03-25 06:00:00 UTC
+
+Costume Event: Solve the Case! (Part 1)
+
+2024-03-09 06:00:00 UTC
+2024-03-25 06:00:00 UTC
+
+Ultimate Battle: Palmer’s Rumbling Might
+
+2024-03-09 06:00:00 UTC
+2024-03-25 06:00:00 UTC
+
+Costume Event: Solve the Case! (Part 2)
+
+2024-03-11 06:00:00 UTC
+2024-03-25 06:00:00 UTC
+
+Event Gem Special!
+
+2024-03-14 06:00:00 UTC
+2024-04-03 06:00:00 UTC
+
+Costume Event: The Power of Dance
+
+2024-03-14 06:00:00 UTC
+2024-03-31 06:00:00 UTC
+
+Adaman Costume Tiered Scout
+
+2024-03-14 06:00:00 UTC
+2024-04-03 06:00:00 UTC
+
+Raise Tyrogue!
+
+2024-03-16 06:00:00 UTC
+2024-03-30 06:00:00 UTC
+
+Irida Costume Tiered Scout
+
+2024-03-16 06:00:00 UTC
+2024-04-03 06:00:00 UTC
+
+Tierno Spotlight Scout
+
+2024-03-18 06:00:00 UTC
+2024-04-03 06:00:00 UTC
+
+Double Feature Poké Fair Scout (Rose & Oleana)
+
+2024-03-19 06:00:00 UTC
+2024-04-02 06:00:00 UTC
+
+Villain Event: Lamenting a Millennium
+
+2024-03-19 06:00:00 UTC
+2024-04-02 06:00:00 UTC
+
+Villain Event: Hear the Cheers!
+
+2024-03-21 06:00:00 UTC
+2024-04-02 06:00:00 UTC
+
+Dahlia Poké Fair Scout
+
+2024-03-22 06:00:00 UTC
+2024-04-11 06:00:00 UTC
+
+Sync Pair-Up Event: Bugsy & Scyther
+
+2024-03-23 06:00:00 UTC
+2024-04-06 06:00:00 UTC
+
+Special Present! Sygna Suit Cynthia (Renegade) Master Fair Scout
+
+2024-03-25 06:00:00 UTC
+2024-04-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-03-25 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-03-25 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-03-25 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-03-25 06:00:00 UTC
+2024-03-26 06:00:00 UTC
+
+Solo Event: Challenge from Passionate Spirits
+
+2024-03-26 06:00:00 UTC
+2024-04-09 06:00:00 UTC`;
