@@ -691,4 +691,144 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Solo Event: Challenge from Passionate Spirits
 
 2024-03-26 06:00:00 UTC
-2024-04-09 06:00:00 UTC`;
+2024-04-09 06:00:00 UTC
+
+Volo Poké Fair Scout & Lodge Volo
+
+2024-03-29 06:00:00 UTC
+2024-04-18 06:00:00 UTC
+
+Story Event: Researcher and Seeker
+
+2024-03-29 06:00:00 UTC
+2024-04-15 06:00:00 UTC
+
+Event Gem Special!
+
+2024-03-29 06:00:00 UTC
+2024-04-18 06:00:00 UTC
+
+Jacq Poké Fair Scout
+
+2024-03-31 06:00:00 UTC
+2024-04-18 06:00:00 UTC
+
+Vol. 20: Monthly Poké Fair Scout (Gloria)
+
+2024-04-01 06:00:00 UTC
+2024-05-01 06:00:00 UTC
+
+One Day Only! Special Event: Electricity Disruptors
+
+2024-04-01 06:00:00 UTC
+2024-04-02 06:00:00 UTC
+
+Mysterious Stones Arc Update
+
+2024-04-01 06:00:00 UTC
+2024-05-01 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2024-04-03 06:00:00 UTC
+2024-04-24 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-04-03 06:00:00 UTC
+2024-04-17 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-04-03 06:00:00 UTC
+2024-04-17 06:00:00 UTC
+
+Villain Event: The Captured King
+
+2024-04-05 06:00:00 UTC
+2024-04-17 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-04-05 06:00:00 UTC
+2024-04-17 06:00:00 UTC
+
+Villain Event: Team Plasma’s Icy Malice
+
+2024-04-07 06:00:00 UTC
+2024-04-17 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Red)
+
+2024-04-09 06:00:00 UTC
+2024-04-23 06:00:00 UTC
+
+Ultimate Battle: Lucy’s Entangling Venom
+
+2024-04-09 06:00:00 UTC
+2024-04-23 06:00:00 UTC
+
+Event Gem Special!
+
+2024-04-12 06:00:00 UTC
+2024-04-29 06:00:00 UTC
+
+Costume Event: New Heroes Are Born
+
+2024-04-12 06:00:00 UTC
+2024-05-17 06:00:00 UTC
+
+Barry Costume Tiered Scout
+
+2024-04-12 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Selene Costume Tiered Scout
+
+2024-04-14 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Variety Tiered Scout
+
+2024-04-18 06:00:00 UTC
+2024-05-04 06:00:00 UTC
+
+Trainer Files: Kanto Elite Four (Part 1)
+
+2024-04-18 06:00:00 UTC
+2024-05-04 06:00:00 UTC
+
+Trainer Files: Kanto Elite Four (Part 2)
+
+2024-04-20 06:00:00 UTC
+2024-05-04 06:00:00 UTC
+
+Daily Battle: Blissful Bonanza!
+
+2024-04-20 06:00:00 UTC
+2024-04-30 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-04-25 06:00:00 UTC
+2024-04-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-04-25 06:00:00 UTC
+2024-04-26 06:00:00 UTC
+
+Special Present! Archie Master Fair Scout
+
+2024-04-25 06:00:00 UTC
+2024-05-25 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-04-25 06:00:00 UTC
+2024-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-04-25 06:00:00 UTC
+2024-04-26 06:00:00 UTC`;
