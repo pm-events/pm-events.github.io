@@ -831,4 +831,184 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2024-04-25 06:00:00 UTC
-2024-04-26 06:00:00 UTC`;
+2024-04-26 06:00:00 UTC
+
+Rika Welcome Gem Special!
+
+2024-04-26 06:00:00 UTC
+2024-05-16 06:00:00 UTC
+
+Rika Poké Fair Scout
+
+2024-04-26 06:00:00 UTC
+2024-05-16 06:00:00 UTC
+
+Story Event: Good Ol’ Rika Here
+
+2024-04-26 06:00:00 UTC
+2024-05-13 06:00:00 UTC
+
+Triple Feature Poké Fair Scout A
+
+2024-04-27 06:00:00 UTC
+2024-05-09 06:00:00 UTC
+
+Triple Feature Poké Fair Scout B
+
+2024-04-27 06:00:00 UTC
+2024-05-09 06:00:00 UTC
+
+Triple Feature Poké Fair Scout C
+
+2024-04-27 06:00:00 UTC
+2024-05-09 06:00:00 UTC
+
+Special Event: Rika’s Elite Test
+
+2024-04-27 06:00:00 UTC
+2024-05-11 06:00:00 UTC
+
+Daily Battle: The Golden Magikarp
+
+2024-04-27 06:00:00 UTC
+2024-05-10 06:00:00 UTC
+
+Solo Event: Pasio Gold Rush
+
+2024-04-27 06:00:00 UTC
+2024-05-10 06:00:00 UTC
+
+Brycen-Man Costume Tiered Scout
+
+2024-04-30 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Event Gem Special!
+
+2024-04-30 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Costume Event: Infamous Pokéstar Villains
+
+2024-04-30 06:00:00 UTC
+2024-05-17 06:00:00 UTC
+
+Vol. 21: Monthly Poké Fair Scout
+
+2024-05-01 06:00:00 UTC
+2024-06-01 06:00:00 UTC
+
+Limited times daily! Blue Mix Scout
+
+2024-05-01 06:00:00 UTC
+2024-09-01 06:00:00 UTC
+
+Mysterious Stones Arc Update
+
+2024-05-01 06:00:00 UTC
+2024-06-01 06:00:00 UTC
+
+Bellelba Costume Tiered Scout
+
+2024-05-02 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Sygna Suit Morty Poké Fair Scout
+
+2024-05-05 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Story Event: A Golden Future
+
+2024-05-05 06:00:00 UTC
+2024-05-20 06:00:00 UTC
+
+Type-Exclusive Double Feature Poké Fair Scout
+
+2024-05-07 06:00:00 UTC
+2024-05-21 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-05-07 06:00:00 UTC
+2024-05-21 06:00:00 UTC
+
+High Score Event: Water and Fairy Conqueror
+
+2024-05-07 06:00:00 UTC
+2024-05-21 06:00:00 UTC
+
+Guzma Variety Scout
+
+2024-05-09 06:00:00 UTC
+2024-05-23 06:00:00 UTC
+
+Trainer Files: Lovable Numskulls
+
+2024-05-09 06:00:00 UTC
+2024-05-23 06:00:00 UTC
+
+Ultimate Battle: Leon’s Unbeatable Blaze
+
+2024-05-09 06:00:00 UTC
+2024-05-23 06:00:00 UTC
+
+Plumeria Variety Scout
+
+2024-05-11 06:00:00 UTC
+2024-05-23 06:00:00 UTC
+
+Event Gem Special!
+
+2024-05-16 06:00:00 UTC
+2024-06-05 06:00:00 UTC
+
+Poppy Poké Fair Scout
+
+2024-05-16 06:00:00 UTC
+2024-06-05 06:00:00 UTC
+
+Time Trial Event: Strong AND Amazing
+
+2024-05-16 06:00:00 UTC
+2024-06-02 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-05-20 06:00:00 UTC
+2024-06-04 06:00:00 UTC
+
+Story Event: Chase the Northern Wind
+
+2024-05-20 06:00:00 UTC
+2024-06-04 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-05-25 06:00:00 UTC
+2024-05-26 06:00:00 UTC
+
+Special Present! Maxie Master Fair Scout
+
+2024-05-25 06:00:00 UTC
+2024-06-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-05-25 06:00:00 UTC
+2024-05-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-05-25 06:00:00 UTC
+2024-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-05-25 06:00:00 UTC
+2024-05-26 06:00:00 UTC
+
+Bug-, Steel-, and Ice-Type Egg Event
+
+2024-05-27 06:00:00 UTC
+2024-06-10 06:00:00 UTC`;
