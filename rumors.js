@@ -1011,4 +1011,154 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Bug-, Steel-, and Ice-Type Egg Event
 
 2024-05-27 06:00:00 UTC
-2024-06-10 06:00:00 UTC`;
+2024-06-10 06:00:00 UTC
+
+Master Fair Gem Special!
+
+2024-05-31 06:00:00 UTC
+2024-06-17 06:00:00 UTC
+
+Special Present! Cheren Master Fair Scout
+
+2024-05-31 06:00:00 UTC
+2024-07-10 06:00:00 UTC
+
+Neo Champions: One More Step to a New Path
+
+2024-05-31 06:00:00 UTC
+2024-06-17 06:00:00 UTC
+
+Extreme Battle Event: Black-and-White Battle!
+
+2024-05-31 06:00:00 UTC
+2024-06-17 06:00:00 UTC
+
+Vol. 22 Monthly Poké Fair Scout
+
+2024-06-01 06:00:00 UTC
+2024-07-01 06:00:00 UTC
+
+Mysterious Stones Arc Update
+
+2024-06-01 06:00:00 UTC
+2024-07-01 06:00:00 UTC
+
+Special Present! Bianca Master Fair Scout
+
+2024-06-02 06:00:00 UTC
+2024-07-10 06:00:00 UTC
+
+Special Battle Event: Take On Cheren and Bianca!
+
+2024-06-02 06:00:00 UTC
+2024-07-12 06:00:00 UTC
+
+Ball Guy Variety Scout
+
+2024-06-04 06:00:00 UTC
+2024-06-18 06:00:00 UTC
+
+Story Event: Galar’s Poké Ball Enthusiast
+
+2024-06-04 06:00:00 UTC
+2024-06-18 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2024-06-05 06:00:00 UTC
+2024-06-19 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-06-07 06:00:00 UTC
+2024-06-21 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-06-07 06:00:00 UTC
+2024-06-21 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2024-06-07 06:00:00 UTC
+2024-06-27 06:00:00 UTC
+
+Solo Event: Strongest Fighters
+
+2024-06-10 06:00:00 UTC
+2024-06-24 06:00:00 UTC
+
+Ultimate Battle: Nita’s Blessed Land
+
+2024-06-12 06:00:00 UTC
+2024-07-01 06:00:00 UTC
+
+Larry Poké Fair Scout
+
+2024-06-14 06:00:00 UTC
+2024-07-11 06:00:00 UTC
+
+Event Gem Special!
+
+2024-06-14 06:00:00 UTC
+2024-07-03 06:00:00 UTC
+
+Story Event: Middle-Aged Opposites
+
+2024-06-14 06:00:00 UTC
+2024-07-03 06:00:00 UTC
+
+Kabu Poké Fair Scout
+
+2024-06-16 06:00:00 UTC
+2024-07-11 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-06-19 06:00:00 UTC
+2024-07-01 06:00:00 UTC
+
+Villain Event: Looming Shadow of Kanto
+
+2024-06-19 06:00:00 UTC
+2024-07-03 06:00:00 UTC
+
+Villain Event: Spreading Shadows
+
+2024-06-21 06:00:00 UTC
+2024-07-03 06:00:00 UTC
+
+Solo Event: Updating the Pokémon Center
+
+2024-06-23 06:00:00 UTC
+2024-07-07 06:00:00 UTC
+
+Lear Presents: Luxurious Missions
+
+2024-06-23 06:00:00 UTC
+2024-07-02 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-06-25 06:00:00 UTC
+2024-06-26 06:00:00 UTC
+
+Special Present! Sygna Suit Ethan Master Fair Scout
+
+2024-06-25 06:00:00 UTC
+2024-07-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-06-25 06:00:00 UTC
+2024-06-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-06-25 06:00:00 UTC
+2024-06-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-06-25 06:00:00 UTC
+2024-06-26 06:00:00 UTC`;
