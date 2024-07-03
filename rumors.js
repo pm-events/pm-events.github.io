@@ -1,179 +1,4 @@
-export const rumorstxt = `Vol. 16: Monthly Poké Fair Scout (Marnie)
-
-2023-12-01 06:00:00 UTC
-2024-01-01 06:00:00 UTC
-
-Mysterious Stones Arc Update & Lodge Jasmine
-
-2023-12-01 06:00:00 UTC
-2024-01-01 06:00:00 UTC
-
-Triple Feature Poké Fair Scout (SS Acerola, SS Mina, SS Lana)
-
-2023-12-04 06:00:00 UTC
-2023-12-18 06:00:00 UTC
-
-Special Battle Event: Take on a serious Nate!
-
-2023-12-04 06:00:00 UTC
-2024-01-04 06:00:00 UTC
-
-Villain Event: Investigate the Foundation
-
-2023-12-04 06:00:00 UTC
-2023-12-18 06:00:00 UTC
-
-Time Trial Event: Top Speed
-
-2023-12-04 06:00:00 UTC
-2023-12-18 06:00:00 UTC
-
-Villain Event: People Protecting Pokémon
-
-2023-12-06 06:00:00 UTC
-2023-12-18 06:00:00 UTC
-
-5★-Select Type Scout (Flying, Poison, Ghost, Water)
-
-2023-12-08 06:00:00 UTC
-2023-12-22 06:00:00 UTC
-
-Triple Feature Poké Fair Scout (SS Korrina, SS Blue, Emma)
-
-2023-12-08 06:00:00 UTC
-2023-12-22 06:00:00 UTC
-
-Epic Battle Event: Legendary Gauntlet
-
-2023-12-08 06:00:00 UTC
-2023-12-29 06:00:00 UTC
-
-Ultimate Battle: Thorton’s Freezing Frost
-
-2023-12-08 06:00:00 UTC
-2023-12-29 06:00:00 UTC
-
-The Battle Villa Is Open!
-
-2023-12-08 06:00:00 UTC
-2023-12-22 06:00:00 UTC
-
-Viola Seasonal Tiered Scout
-
-2023-12-12 06:00:00 UTC
-2023-12-30 06:00:00 UTC
-
-Event Gem Special!
-
-2023-12-12 06:00:00 UTC
-2024-01-01 06:00:00 UTC
-
-Story Event: Focus on the Shining Shot!
-
-2023-12-12 06:00:00 UTC
-2023-12-27 06:00:00 UTC
-
-Sycamore Seasonal Tiered Scout
-
-2023-12-14 06:00:00 UTC
-2023-12-30 06:00:00 UTC
-
-Bug-Type Gear Event
-
-2023-12-16 06:00:00 UTC
-2023-12-30 06:00:00 UTC
-
-Seasonal Tiered Scout (Holiday)
-
-2023-12-19 06:00:00 UTC
-2024-01-02 06:00:00 UTC
-
-Story Event: Shine a Gentle Light
-
-2023-12-19 06:00:00 UTC
-2024-01-02 06:00:00 UTC
-
-Special Event: Pasio Special Stadium (Champion Leaf)
-
-2023-12-21 06:00:00 UTC
-2024-01-04 06:00:00 UTC
-
-Pokémon Masters Day Gem Special!
-
-2023-12-25 06:00:00 UTC
-2023-12-26 06:00:00 UTC
-
-Special Present!: Rosa Master Fair Scout
-
-2023-12-25 06:00:00 UTC
-2024-01-29 06:00:00 UTC
-
-Neo Champions: A Touching Sepia-Toned Song
-
-2023-12-25 06:00:00 UTC
-2024-01-14 06:00:00 UTC
-
-Extreme Battle Event: Show the Meaning of Strength!
-
-2023-12-25 06:00:00 UTC
-2024-01-14 06:00:00 UTC
-
-Special Battle Event: Take on a serious Rosa!
-
-2023-12-25 06:00:00 UTC
-2024-01-14 06:00:00 UTC
-
-Special Monthly Event: Pokémon Masters Day
-
-2023-12-25 06:00:00 UTC
-2023-12-26 06:00:00 UTC
-
-Pokémon Masters Day Scout for 25 Gems
-
-2023-12-25 06:00:00 UTC
-2023-12-26 06:00:00 UTC
-
-Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
-
-2023-12-25 06:00:00 UTC
-2023-12-26 06:00:00 UTC
-
-A Jolly Trio! (Galar Starter Egg Event)
-
-2023-12-27 06:00:00 UTC
-2024-01-10 06:00:00 UTC
-
-5★-Select Poké Fair Scout ×15 (A)
-
-2023-12-31 15:00:00 UTC
-2024-01-31 06:00:00 UTC
-
-5★-Select Poké Fair Scout ×15 (B)
-
-2023-12-31 15:00:00 UTC
-2024-01-31 06:00:00 UTC
-
-5★-Select Poké Fair Scout ×15 (C)
-
-2023-12-31 15:00:00 UTC
-2024-01-31 06:00:00 UTC
-
-Sygna Suit Red (Thunderbolt) Master Fair Scout
-
-2023-12-31 15:00:00 UTC
-2024-01-31 06:00:00 UTC
-
-Sygna Suit Cynthia (Aura) Master Fair Scout
-
-2023-12-31 15:00:00 UTC
-2024-01-31 06:00:00 UTC
-
-Happy New Year Gem Special!
-
-2023-12-31 15:00:00 UTC
-2024-01-18 06:00:00 UTC
-
-Mysterious Stones Arc Update & Lodge Volkner
+export const rumorstxt = `Mysterious Stones Arc Update & Lodge Volkner
 
 2024-01-01 06:00:00 UTC
 2024-02-01 06:00:00 UTC
@@ -1161,4 +986,139 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2024-06-25 06:00:00 UTC
-2024-06-26 06:00:00 UTC`;
+2024-06-26 06:00:00 UTC
+
+Gardenia Seasonal Tiered Scout
+
+2024-06-28 06:00:00 UTC
+2024-07-15 06:00:00 UTC
+
+Story Event: Exciting Treasure Hunt
+
+2024-06-28 06:00:00 UTC
+2024-07-15 06:00:00 UTC
+
+Event Gem Special!
+
+2024-06-28 06:00:00 UTC
+2024-07-15 06:00:00 UTC
+
+Acerola Seasonal Tiered Scout
+
+2024-06-30 06:00:00 UTC
+2024-07-15 06:00:00 UTC
+
+Vol. 23: Monthly Poké Fair Scout
+
+2024-07-01 06:00:00 UTC
+2024-08-01 06:00:00 UTC
+
+Story Event: Twin Stars Far Apart
+
+2024-07-03 06:00:00 UTC
+2024-07-20 06:00:00 UTC
+
+Seasonal Tiered Scout
+
+2024-07-03 06:00:00 UTC
+2024-07-20 06:00:00 UTC
+
+5★-Select Special Scout ×11
+
+2024-07-05 06:00:00 UTC
+2024-07-19 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-07-05 06:00:00 UTC
+2024-07-19 06:00:00 UTC
+
+High Score Event: Ghost and Dark Conqueror
+
+2024-07-05 06:00:00 UTC
+2024-07-21 06:00:00 UTC
+
+Ultimate Battle: Noland’s Plucky Punches
+
+2024-07-08 06:00:00 UTC
+2024-08-01 06:00:00 UTC
+
+Solo Event: With Beauty and Grace
+
+2024-07-09 06:00:00 UTC
+2024-07-23 06:00:00 UTC
+
+Klara Poké Fair Scout
+
+2024-07-12 06:00:00 UTC
+2024-08-07 06:00:00 UTC
+
+Event Gem Special!
+
+2024-07-12 06:00:00 UTC
+2024-07-31 06:00:00 UTC
+
+Story Event: Isle Disciples, Arena Tycoon
+
+2024-07-12 06:00:00 UTC
+2024-07-31 06:00:00 UTC
+
+Avery Poké Fair Scout
+
+2024-07-14 06:00:00 UTC
+2024-08-07 06:00:00 UTC
+
+Greta Poké Fair Scout
+
+2024-07-16 06:00:00 UTC
+2024-08-07 06:00:00 UTC
+
+Villain Event: Team Magma’s Red-Hot Rage
+
+2024-07-19 06:00:00 UTC
+2024-08-02 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-07-19 06:00:00 UTC
+2024-08-02 06:00:00 UTC
+
+Villain Event: Team Aqua’s Stormy Seas
+
+2024-07-21 06:00:00 UTC
+2024-08-02 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2024-07-22 06:00:00 UTC
+2024-08-01 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-07-25 06:00:00 UTC
+2024-07-26 06:00:00 UTC
+
+Special Present! Sygna Suit Lyra Master Fair Scout
+
+2024-07-25 06:00:00 UTC
+2024-08-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-07-25 06:00:00 UTC
+2024-07-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-07-25 06:00:00 UTC
+2024-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-07-25 06:00:00 UTC
+2024-07-26 06:00:00 UTC
+
+Three-Type Egg Event
+
+2024-07-26 06:00:00 UTC
+2024-08-09 06:00:00 UTC`;
