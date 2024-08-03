@@ -1121,4 +1121,174 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Three-Type Egg Event
 
 2024-07-26 06:00:00 UTC
-2024-08-09 06:00:00 UTC`;
+2024-08-09 06:00:00 UTC
+
+Elio Poké Fair Scout
+
+2024-07-31 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+Story Event: Ultra Beast Meet-and-Greet
+
+2024-07-31 06:00:00 UTC
+2024-08-19 06:00:00 UTC
+
+Event Gem Special!
+
+2024-07-31 06:00:00 UTC
+2024-08-19 06:00:00 UTC
+
+Vol. 24 Monthly Poké Fair Scout
+
+2024-08-01 06:00:00 UTC
+2024-09-01 06:00:00 UTC
+
+Selene Poké Fair Scout
+
+2024-08-02 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-08-05 06:00:00 UTC
+2024-08-19 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-08-05 06:00:00 UTC
+2024-08-19 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2024-08-05 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-08-07 06:00:00 UTC
+2024-08-23 06:00:00 UTC
+
+Villain Event: Dreams of the Void
+
+2024-08-07 06:00:00 UTC
+2024-08-23 06:00:00 UTC
+
+Ultimate Battle: Giovanni’s Destructive Power
+
+2024-08-07 06:00:00 UTC
+2024-09-01 06:00:00 UTC
+
+Villain Event: Galactic Awakening
+
+2024-08-09 06:00:00 UTC
+2024-08-23 06:00:00 UTC
+
+Arven Poké Fair Scout
+
+2024-08-10 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Story Event: Peculiar Pokémon-Loving Pal
+
+2024-08-10 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Penny Poké Fair Scout
+
+2024-08-13 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Story Event: Veevee on Pasio!
+
+2024-08-13 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Special Present! Sygna Suit Nemona Master Fair Scout
+
+2024-08-18 06:00:00 UTC
+2024-09-17 06:00:00 UTC
+
+Fair-exclusive pairs included! 10-Pair Scout (Max 100 Pairs)
+
+2024-08-18 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Story Event: Ancient Visitor
+
+2024-08-18 06:00:00 UTC
+2024-09-17 06:00:00 UTC
+
+Extreme Battle Event: Battle a Serious Anabel
+
+2024-08-18 06:00:00 UTC
+2024-09-18 06:00:00 UTC
+
+Special Sync Pair Event: Professor Oak & Nidorino
+
+2024-08-18 06:00:00 UTC
+2024-09-28 06:00:00 UTC
+
+Run-Up to Five Years Gem Special!
+
+2024-08-18 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Special Present! Marnie Master Fair Scout
+
+2024-08-20 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Neo Champions: Fight for the Future Together
+
+2024-08-20 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Extreme Battle Event: Show the Best Teamwork!
+
+2024-08-20 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Special Present! Hop Master Fair Scout
+
+2024-08-21 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+Special Present! Bede Master Fair Scout
+
+2024-08-22 06:00:00 UTC
+2024-08-28 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 A
+
+2024-08-25 06:00:00 UTC
+2024-09-04 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 B
+
+2024-08-25 06:00:00 UTC
+2024-09-04 06:00:00 UTC
+
+5★-Select Seasonal Scout ×11 C
+
+2024-08-25 06:00:00 UTC
+2024-09-04 06:00:00 UTC
+
+Pokémon Masters Day Gem Special!
+
+2024-08-25 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-08-25 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+Pokémon Masters Day Scout for 25 Gems
+
+2024-08-25 06:00:00 UTC
+2024-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-08-25 06:00:00 UTC
+2024-08-26 06:00:00 UTC`;
