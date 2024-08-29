@@ -1291,4 +1291,244 @@ Pokémon Masters Day Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2024-08-25 06:00:00 UTC
-2024-08-26 06:00:00 UTC`;
+2024-08-26 06:00:00 UTC
+
+10 Paid Gems! Daily 5★-Guaranteed Scout ×11
+
+2024-08-28 06:00:00 UTC
+2024-09-07 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2024-08-28 06:00:00 UTC
+2024-09-11 06:00:00 UTC
+
+Story Event: Festive Sun and Moon
+
+2024-08-28 06:00:00 UTC
+2024-10-02 06:00:00 UTC
+
+Cynthia Arc Suit Fair Scout
+
+2024-08-28 06:00:00 UTC
+2024-10-07 06:00:00 UTC
+
+Five-Year Anniversary Gem Specials!
+
+2024-08-28 06:00:00 UTC
+2024-10-02 06:00:00 UTC
+
+Arc Suit Welcome Gem Special (Limit 1)
+
+2024-08-28 06:00:00 UTC
+2024-10-02 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2024-08-30 06:00:00 UTC
+2024-09-08 06:00:00 UTC
+
+Steven Arc Suit Fair Scout
+
+2024-08-30 06:00:00 UTC
+2024-10-07 06:00:00 UTC
+
+Limited times daily! Leaf Mix Scout
+
+2024-09-01 06:00:00 UTC
+2025-01-01 06:00:00 UTC
+
+Vol. 25 Monthly Poké Fair Scout
+
+2024-09-01 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Lance Arc Suit Fair Scout
+
+2024-09-01 06:00:00 UTC
+2024-10-07 06:00:00 UTC
+
+Trainer Lodge Updated & Lodge Lance
+
+2024-09-01 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Five-Year Anniversary Rerun Event: Story Replay
+
+2024-09-02 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Story Event: Two Champions
+
+2024-09-02 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Five-Year Anniversary! Special Co-op Battle!
+
+2024-09-02 06:00:00 UTC
+2024-09-09 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (A)
+
+2024-09-02 06:00:00 UTC
+2024-09-30 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (B)
+
+2024-09-03 06:00:00 UTC
+2024-09-30 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (C)
+
+2024-09-04 06:00:00 UTC
+2024-09-30 06:00:00 UTC
+
+Story Event: The Strongest There Is
+
+2024-09-04 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Extreme Battle Event: Regional Top-Tier Challenge
+
+2024-09-05 06:00:00 UTC
+2024-09-19 06:00:00 UTC
+
+5★-Select Costume Scout ×11 A
+
+2024-09-05 06:00:00 UTC
+2024-09-20 06:00:00 UTC
+
+5★-Select Costume Scout ×11 B
+
+2024-09-06 06:00:00 UTC
+2024-09-20 06:00:00 UTC
+
+Story Event: Threads of Strength
+
+2024-09-06 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Special Event: Mysterious Old Coins
+
+2024-09-07 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Special Sync Pair Event: Victor & Spectrier
+
+2024-09-07 06:00:00 UTC
+2024-09-21 06:00:00 UTC
+
+Story Event: We Should Battle!
+
+2024-09-08 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+Special Sync Pair Event: Riley & Lucario
+
+2024-09-09 06:00:00 UTC
+2024-09-21 06:00:00 UTC
+
+Five-Year Anniversary High Score: Ground and Dragon Conqueror
+
+2024-09-10 06:00:00 UTC
+2024-09-24 06:00:00 UTC
+
+Type-Exclusive: Triple Feature Poké Fair Scout
+
+2024-09-10 06:00:00 UTC
+2024-09-24 06:00:00 UTC
+
+Story Event: Researcher and Seeker
+
+2024-09-10 06:00:00 UTC
+2024-09-22 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-09-10 06:00:00 UTC
+2024-09-24 06:00:00 UTC
+
+Ultimate Battle: Evelyn’s High-Subsonic Speed
+
+2024-09-10 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Daily Type Rotation: Type Team-Up
+
+2024-09-12 06:00:00 UTC
+2024-10-06 06:00:00 UTC
+
+Malva Spotlight Scout
+
+2024-09-12 06:00:00 UTC
+2024-10-06 06:00:00 UTC
+
+Chuck Spotlight Scout
+
+2024-09-14 06:00:00 UTC
+2024-10-06 06:00:00 UTC
+
+Trevor Spotlight Scout
+
+2024-09-16 06:00:00 UTC
+2024-10-06 06:00:00 UTC
+
+Story Event: Golden Bonds on Pasio
+
+2024-09-17 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Sygna Suit Lear Master Fair Scout
+
+2024-09-17 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Double Feature Variety Scout (Rachel & Gimmighoul and Sawyer & Gimmighoul)
+
+2024-09-17 06:00:00 UTC
+2024-10-01 06:00:00 UTC
+
+Lear’s Retainers Guaranteed Ticket Scout
+
+2024-09-17 06:00:00 UTC
+2024-10-08 06:00:00 UTC
+
+Solo Event: Lear Takes the Lead
+
+2024-09-19 06:00:00 UTC
+2024-10-03 06:00:00 UTC
+
+Lear Poké Fair Scout
+
+2024-09-19 06:00:00 UTC
+2024-10-03 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2024-09-22 06:00:00 UTC
+2024-10-06 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-09-25 06:00:00 UTC
+2024-09-26 06:00:00 UTC
+
+Sygna Suit Kris Master Fair Scout
+
+2024-09-25 06:00:00 UTC
+2024-10-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout for 25 Gems
+
+2024-09-25 06:00:00 UTC
+2024-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-09-25 06:00:00 UTC
+2024-09-26 06:00:00 UTC
+
+Water- and Psychic-Type Egg Event
+
+2024-09-26 06:00:00 UTC
+2024-10-10 06:00:00 UTC`;
