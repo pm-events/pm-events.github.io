@@ -1531,4 +1531,164 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 Water- and Psychic-Type Egg Event
 
 2024-09-26 06:00:00 UTC
-2024-10-10 06:00:00 UTC`;
+2024-10-10 06:00:00 UTC
+
+Giacomo Poké Fair Scout
+
+2024-09-30 06:00:00 UTC
+2024-10-18 06:00:00 UTC
+
+Academy Founding Chapter: Let’s Make a School on Pasio
+
+2024-09-30 06:00:00 UTC
+2024-10-18 06:00:00 UTC
+
+Special Monthly Event: Happy Prize Box
+
+2024-10-01 06:00:00 UTC
+2024-11-01 06:00:00 UTC
+
+Vol. 26: Monthly Poké Fair Scout & Trainer Lodge Updated (Lear)
+
+2024-10-01 06:00:00 UTC
+2024-11-01 06:00:00 UTC
+
+Fair-Exclusive Guaranteed Ticket Scout
+
+2024-10-01 06:00:00 UTC
+2024-11-08 06:00:00 UTC
+
+Clavell Poké Fair Scout
+
+2024-10-02 06:00:00 UTC
+2024-10-18 06:00:00 UTC
+
+Villain Event: Investigate the Foundation
+
+2024-10-03 06:00:00 UTC
+2024-10-21 06:00:00 UTC
+
+Super Spotlight Poké Fair Scout
+
+2024-10-03 06:00:00 UTC
+2024-10-21 06:00:00 UTC
+
+Villain Event: People Protecting Pokémon
+
+2024-10-05 06:00:00 UTC
+2024-10-21 06:00:00 UTC
+
+Triple Feature Poké Fair Scout A
+
+2024-10-07 06:00:00 UTC
+2024-10-25 06:00:00 UTC
+
+Triple Feature Poké Fair Scout B
+
+2024-10-07 06:00:00 UTC
+2024-10-25 06:00:00 UTC
+
+Triple Feature Poké Fair Scout C
+
+2024-10-07 06:00:00 UTC
+2024-10-25 06:00:00 UTC
+
+Time Trial Event: Top Speed
+
+2024-10-07 06:00:00 UTC
+2024-10-21 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-10-09 06:00:00 UTC
+2024-10-23 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-10-09 06:00:00 UTC
+2024-10-23 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2024-10-09 06:00:00 UTC
+2024-10-23 06:00:00 UTC
+
+Solo Event: Whosawhatsit the Movie
+
+2024-10-10 06:00:00 UTC
+2024-10-22 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-10-10 06:00:00 UTC
+2024-10-22 06:00:00 UTC
+
+Ultimate Battle: Masked Royal’s Eternal Chill
+
+2024-10-10 06:00:00 UTC
+2024-11-01 06:00:00 UTC
+
+Story Event: The Truth—Mane or Feathers?
+
+2024-10-15 06:00:00 UTC
+2024-11-02 06:00:00 UTC
+
+Iono Seasonal Scout
+
+2024-10-15 06:00:00 UTC
+2024-11-06 06:00:00 UTC
+
+Shauntal Seasonal Scout
+
+2024-10-17 06:00:00 UTC
+2024-11-06 06:00:00 UTC
+
+Iono Zone Presents: Costume Battle Show
+
+2024-10-18 06:00:00 UTC
+2024-11-04 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2024-10-19 06:00:00 UTC
+2024-11-06 06:00:00 UTC
+
+Story Event: The Haunted Museum
+
+2024-10-19 06:00:00 UTC
+2024-11-06 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2024-10-23 06:00:00 UTC
+2024-10-31 06:00:00 UTC
+
+Story Event: Tower Tycoon and Hall Matron
+
+2024-10-24 06:00:00 UTC
+2024-11-07 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-10-24 06:00:00 UTC
+2024-11-07 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-10-25 06:00:00 UTC
+2024-10-26 06:00:00 UTC
+
+Sygna Suit Serena Master Fair Scout
+
+2024-10-25 06:00:00 UTC
+2024-11-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout for 25 Gems
+
+2024-10-25 06:00:00 UTC
+2024-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
+
+2024-10-25 06:00:00 UTC
+2024-10-26 06:00:00 UTC`;
