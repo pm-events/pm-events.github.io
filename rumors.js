@@ -1691,4 +1691,189 @@ Pokémon Masters Day One-Time-Only Happy Scout for 25 Gems
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout for 100 Paid Gems
 
 2024-10-25 06:00:00 UTC
-2024-10-26 06:00:00 UTC`;
+2024-10-26 06:00:00 UTC
+
+Custom Move Candy! Lance Tiered Scout
+
+2024-10-31 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Custom Move Candy! Cynthia Tiered Scout
+
+2024-10-31 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Custom Move Candy! Steven Tiered Scout
+
+2024-10-31 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Sygna Suit Ingo Poké Fair Scout
+
+2024-10-31 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Story Event: Sygna Siblings—All Aboard
+
+2024-10-31 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Vol. 27: Monthly Poké Fair Scout
+
+2024-11-01 06:00:00 UTC
+2024-12-01 06:00:00 UTC
+
+Extreme Battle Event: Pasio Subway
+
+2024-11-01 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Sygna Suit Emmet Poké Fair Scout
+
+2024-11-02 06:00:00 UTC
+2024-11-18 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-11-04 06:00:00 UTC
+2024-11-22 06:00:00 UTC
+
+Story Event: All Aboard the Victory Train
+
+2024-11-04 06:00:00 UTC
+2024-11-22 06:00:00 UTC
+
+5★-Select Type Scout
+
+2024-11-06 06:00:00 UTC
+2024-11-20 06:00:00 UTC
+
+Type-Exclusive Double Feature Poké Fair Scout
+
+2024-11-06 06:00:00 UTC
+2024-11-20 06:00:00 UTC
+
+High Score Event: Fighting and Steel Conqueror
+
+2024-11-06 06:00:00 UTC
+2024-11-20 06:00:00 UTC
+
+Ultimate Battle: Nemona’s Lightning Spirit
+
+2024-11-08 06:00:00 UTC
+2024-12-01 06:00:00 UTC
+
+Eri Poké Fair Scout
+
+2024-11-09 06:00:00 UTC
+2024-11-27 06:00:00 UTC
+
+Academy Founding Chapter: Great Infernal Arrival
+
+2024-11-09 06:00:00 UTC
+2024-11-27 06:00:00 UTC
+
+Story Event: Mysterious Kalos Duo
+
+2024-11-15 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Sina Poké Fair Scout
+
+2024-11-15 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Dexio Poké Fair Scout
+
+2024-11-17 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Eevee Day Celebration! Eevee Tales
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Many Possibilities
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Story Event: Travelers from a Distant Past
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Story Event: Let’s Go In Search of Wonder
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2024-11-21 06:00:00 UTC
+2024-11-29 06:00:00 UTC
+
+Adaman Master Fair Scout
+
+2024-11-21 06:00:00 UTC
+2024-12-25 06:00:00 UTC
+
+Eevee Day Celebration Tiered Scout A
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Eevee Day Celebration Tiered Scout B
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Eevee Day Celebration! Triple Feature Variety Scout
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Eevee Day Celebration! Super Spotlight Variety Scout
+
+2024-11-21 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Eevee Day Celebration Ticket Scout A
+
+2024-11-21 06:00:00 UTC
+2024-12-13 06:00:00 UTC
+
+Eevee Day Celebration Ticket Scout B
+
+2024-11-21 06:00:00 UTC
+2024-12-13 06:00:00 UTC
+
+Eevee Day Celebration Ticket Scout C
+
+2024-11-21 06:00:00 UTC
+2024-12-13 06:00:00 UTC
+
+Irida Master Fair Scout
+
+2024-11-23 06:00:00 UTC
+2024-12-25 06:00:00 UTC
+
+Super Spotlight Poké Fair Scout
+
+2024-11-23 06:00:00 UTC
+2024-12-06 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-11-25 06:00:00 UTC
+2024-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2024-11-25 06:00:00 UTC
+2024-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2024-11-25 06:00:00 UTC
+2024-11-26 06:00:00 UTC`;
