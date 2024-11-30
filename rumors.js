@@ -1876,4 +1876,179 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2024-11-25 06:00:00 UTC
-2024-11-26 06:00:00 UTC`;
+2024-11-26 06:00:00 UTC
+
+Leon Arc Suit Fair Scout
+
+2024-11-29 06:00:00 UTC
+2025-01-07 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2024-11-29 06:00:00 UTC
+2024-12-17 06:00:00 UTC
+
+Arven Poké Fair Scout
+
+2024-12-01 06:00:00 UTC
+2025-01-01 06:00:00 UTC
+
+Triple Feature Poké Fair Scout A
+
+2024-12-01 06:00:00 UTC
+2024-12-17 06:00:00 UTC
+
+Triple Feature Poké Fair Scout B
+
+2024-12-01 06:00:00 UTC
+2024-12-17 06:00:00 UTC
+
+Vol. 28: Monthly Poké Fair Scout
+
+2024-12-01 06:00:00 UTC
+2025-01-01 06:00:00 UTC
+
+Story Event: Champion Time
+
+2024-12-03 06:00:00 UTC
+2024-12-21 06:00:00 UTC
+
+Solo Event: Yell and Dream
+
+2024-12-05 06:00:00 UTC
+2024-12-21 06:00:00 UTC
+
+Milo Poké Fair Scout
+
+2024-12-05 06:00:00 UTC
+2024-12-23 06:00:00 UTC
+
+Ultimate Battle: Morgan’s Telepathic Light
+
+2024-12-07 06:00:00 UTC
+2025-01-07 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2024-12-10 06:00:00 UTC
+2024-12-18 06:00:00 UTC
+
+Solo Event: Three Rivals, Three Ways
+
+2024-12-10 06:00:00 UTC
+2024-12-18 06:00:00 UTC
+
+Triple Feature Variety Scout
+
+2024-12-10 06:00:00 UTC
+2024-12-24 06:00:00 UTC
+
+Costume Event: Poké War Games
+
+2024-12-12 06:00:00 UTC
+2024-12-30 06:00:00 UTC
+
+Costume Event: Battle Prep
+
+2024-12-12 06:00:00 UTC
+2024-12-30 06:00:00 UTC
+
+Super Spotlight Costume Scout
+
+2024-12-12 06:00:00 UTC
+2024-12-30 06:00:00 UTC
+
+Story Event: Joyful Music with Everyone
+
+2024-12-13 06:00:00 UTC
+2024-12-31 06:00:00 UTC
+
+Lillie Seasonal Scout
+
+2024-12-13 06:00:00 UTC
+2024-12-31 06:00:00 UTC
+
+Bugsy Seasonal Scout
+
+2024-12-15 06:00:00 UTC
+2024-12-31 06:00:00 UTC
+
+Special Event: Shiny Rayquaza Appears
+
+2024-12-16 06:00:00 UTC
+2025-01-05 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2024-12-17 06:00:00 UTC
+2025-01-04 06:00:00 UTC
+
+Story Event: Focus on the Shining Shot!
+
+2024-12-17 06:00:00 UTC
+2025-01-04 06:00:00 UTC
+
+Special Sync Pair Event: Giovanni & Persian
+
+2024-12-19 06:00:00 UTC
+2025-01-03 06:00:00 UTC
+
+Special Sync Pair Event: Misty & Psyduck
+
+2024-12-21 06:00:00 UTC
+2025-01-03 06:00:00 UTC
+
+Special Sync Pair Event: Blue & Arcanine
+
+2024-12-23 06:00:00 UTC
+2025-01-03 06:00:00 UTC
+
+Red Master Fair Scout
+
+2024-12-25 06:00:00 UTC
+2025-01-25 06:00:00 UTC
+
+Blue Master Fair Scout
+
+2024-12-25 06:00:00 UTC
+2025-01-25 06:00:00 UTC
+
+Leaf Master Fair Scout
+
+2024-12-25 06:00:00 UTC
+2025-01-25 06:00:00 UTC
+
+Neo Champions: Three Trainers, Three Minds
+
+2024-12-25 06:00:00 UTC
+2025-01-12 06:00:00 UTC
+
+Extreme Battle Event: Fight through Kanto’s Best!
+
+2024-12-25 06:00:00 UTC
+2025-01-12 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2024-12-25 06:00:00 UTC
+2024-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2024-12-25 06:00:00 UTC
+2024-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2024-12-25 06:00:00 UTC
+2024-12-26 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2024-12-26 06:00:00 UTC
+2025-01-06 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2024-12-26 06:00:00 UTC
+2025-01-13 06:00:00 UTC`;
