@@ -2051,4 +2051,9 @@ Double Feature Poké Fair Scout
 Triple Feature Poké Fair Scout
 
 2024-12-26 06:00:00 UTC
-2025-01-13 06:00:00 UTC`;
+2025-01-13 06:00:00 UTC
+
+Special Event: Pasio Special Stadium (Champion Blue)
+
+2024-12-26 06:00:00 UTC
+2025-01-06 06:00:00 UTC`;
