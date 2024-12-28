@@ -2056,4 +2056,159 @@ Triple Feature Poké Fair Scout
 Special Event: Pasio Special Stadium (Champion Blue)
 
 2024-12-26 06:00:00 UTC
-2025-01-06 06:00:00 UTC`;
+2025-01-06 06:00:00 UTC
+
+Sygna Suit Giovanni Master Fair Scout
+
+2024-12-31 15:00:00 UTC
+2025-02-10 06:00:00 UTC
+
+Story Event: Guzzling Glutton’s Target
+
+2024-12-31 15:00:00 UTC
+2025-02-10 06:00:00 UTC
+
+Extreme Battle Event: Take On the Silver Soul!
+
+2024-12-31 15:00:00 UTC
+2025-02-10 06:00:00 UTC
+
+Vol. 29: Monthly Poké Fair Scout
+
+2025-01-01 06:00:00 UTC
+2025-02-01 06:00:00 UTC
+
+Limited times daily! Lucas Mix Scout
+
+2025-01-01 06:00:00 UTC
+2025-05-01 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (A)
+
+2025-01-02 06:00:00 UTC
+2025-01-20 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (B)
+
+2025-01-02 06:00:00 UTC
+2025-01-20 06:00:00 UTC
+
+5★-Select Poké Fair Scout ×15 (C)
+
+2025-01-02 06:00:00 UTC
+2025-01-20 06:00:00 UTC
+
+Raihan Seasonal Scout
+
+2025-01-03 06:00:00 UTC
+2025-01-21 06:00:00 UTC
+
+Story Event: Friend-Making Battle
+
+2025-01-03 06:00:00 UTC
+2025-01-21 06:00:00 UTC
+
+Poppy Seasonal Scout
+
+2025-01-05 06:00:00 UTC
+2025-01-21 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2025-01-07 06:00:00 UTC
+2025-01-25 06:00:00 UTC
+
+Story Event: Rising New Year’s Resolutions
+
+2025-01-07 06:00:00 UTC
+2025-01-25 06:00:00 UTC
+
+Team Rocket Variety Scout
+
+2025-01-09 06:00:00 UTC
+2025-01-27 06:00:00 UTC
+
+Special Battle Event: Take On Team Rocket!
+
+2025-01-09 06:00:00 UTC
+2025-01-27 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-01-10 06:00:00 UTC
+2025-01-24 06:00:00 UTC
+
+Type-Exclusive: Triple Feature Poké Fair Scout
+
+2025-01-10 06:00:00 UTC
+2025-01-19 06:00:00 UTC
+
+High Score Event: Ice and Rock Conqueror
+
+2025-01-10 06:00:00 UTC
+2025-01-19 06:00:00 UTC
+
+Poison- and Rock-Type Egg Event
+
+2025-01-12 06:00:00 UTC
+2025-01-24 06:00:00 UTC
+
+Ultimate Battle: Dana’s Icy Passion
+
+2025-01-13 06:00:00 UTC
+2025-02-13 06:00:00 UTC
+
+Mela Poké Fair Scout
+
+2025-01-15 06:00:00 UTC
+2025-02-02 06:00:00 UTC
+
+Academy Founding Chapter: Explosive Art, Ninja’s Craft
+
+2025-01-15 06:00:00 UTC
+2025-02-02 06:00:00 UTC
+
+Atticus Poké Fair Scout
+
+2025-01-17 06:00:00 UTC
+2025-02-02 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2025-01-21 06:00:00 UTC
+2025-02-08 06:00:00 UTC
+
+Story Event: Who’s the Best Singer?
+
+2025-01-21 06:00:00 UTC
+2025-02-08 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-01-24 06:00:00 UTC
+2025-02-02 06:00:00 UTC
+
+N Master Fair Scout
+
+2025-01-25 06:00:00 UTC
+2025-02-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-01-25 06:00:00 UTC
+2025-01-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-01-25 06:00:00 UTC
+2025-01-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-01-25 06:00:00 UTC
+2025-01-26 06:00:00 UTC
+
+Solo Event: Challenge from Passionate Spirits
+
+2025-01-26 06:00:00 UTC
+2025-02-13 06:00:00 UTC`;
