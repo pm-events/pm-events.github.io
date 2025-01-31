@@ -2211,4 +2211,184 @@ Special Monthly Event: Pokémon Masters Day
 Solo Event: Challenge from Passionate Spirits
 
 2025-01-26 06:00:00 UTC
-2025-02-13 06:00:00 UTC`;
+2025-02-13 06:00:00 UTC
+
+Marley Seasonal Scout
+
+2025-01-31 06:00:00 UTC
+2025-02-18 06:00:00 UTC
+
+Story Event: Tiny Courage, Big Thanks
+
+2025-01-31 06:00:00 UTC
+2025-02-18 06:00:00 UTC
+
+Vol. 30: Monthly Poké Fair Scout
+
+2025-02-01 06:00:00 UTC
+2025-03-01 06:00:00 UTC
+
+Erika Seasonal Scout
+
+2025-02-02 06:00:00 UTC
+2025-02-18 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2025-02-04 06:00:00 UTC
+2025-02-22 06:00:00 UTC
+
+Story Event: Victor’s Cooking Class!
+
+2025-02-04 06:00:00 UTC
+2025-02-22 06:00:00 UTC
+
+Ultimate Battle: Wally’s Sensing Swords
+
+2025-02-06 06:00:00 UTC
+2025-03-06 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-02-07 06:00:00 UTC
+2025-02-20 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2025-02-07 06:00:00 UTC
+2025-02-20 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-02-07 06:00:00 UTC
+2025-02-20 06:00:00 UTC
+
+Special Event Celebration: One-Time-Only Fair-Exclusive Guaranteed Scout
+
+2025-02-10 06:00:00 UTC
+2025-02-28 06:00:00 UTC
+
+Special Battle Event: Battle with a Theme Team
+
+2025-02-10 06:00:00 UTC
+2025-02-28 06:00:00 UTC
+
+Special Sync Pair Event: Sweet and Fancy
+
+2025-02-11 06:00:00 UTC
+2025-02-25 06:00:00 UTC
+
+Super Spotlight Poké Fair Scout
+
+2025-02-12 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Extreme Battle Event: Into the Blazing Chamber
+
+2025-02-12 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Villain Event: Battle! Friends from Kalos
+
+2025-02-12 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Extreme Battle Event: Challenge the Hope of Kalos
+
+2025-02-14 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Villain Event: Go, Go, Team Flare!
+
+2025-02-14 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Special Sync Pair Event: Riley & Lucario
+
+2025-02-17 06:00:00 UTC
+2025-03-31 06:00:00 UTC
+
+Special Sync Pair Event: Clavell & Sprigatito
+
+2025-02-17 06:00:00 UTC
+2025-03-31 06:00:00 UTC
+
+Story Event: Five Friends’ Treasure Hunt
+
+2025-02-17 06:00:00 UTC
+2025-03-29 06:00:00 UTC
+
+Juliana Master Fair Scout
+
+2025-02-17 06:00:00 UTC
+2025-03-29 06:00:00 UTC
+
+5★-Select Variety Scout ×11 A
+
+2025-02-17 06:00:00 UTC
+2025-03-10 06:00:00 UTC
+
+5★-Select Variety Scout ×11 B
+
+2025-02-17 06:00:00 UTC
+2025-03-10 06:00:00 UTC
+
+Fair-exclusive pairs included! Special Collaboration 5★-Guaranteed Ticket Scout
+
+2025-02-17 06:00:00 UTC
+2025-04-30 06:00:00 UTC
+
+Fair-exclusive pairs included! 10-Pair Scout (Max 100 Pairs)
+
+2025-02-17 06:00:00 UTC
+2025-04-07 06:00:00 UTC
+
+Extreme Battle Event: Take On the Talented Friends
+
+2025-02-19 06:00:00 UTC
+2025-03-29 06:00:00 UTC
+
+Florian Master Fair Scout
+
+2025-02-19 06:00:00 UTC
+2025-03-29 06:00:00 UTC
+
+Egg Battle Event: Aim to Be an Egg Master
+
+2025-02-20 06:00:00 UTC
+2025-03-10 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2025-02-21 06:00:00 UTC
+2025-02-28 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-02-21 06:00:00 UTC
+2025-03-02 06:00:00 UTC
+
+Meow Meow Meow!
+
+2025-02-22 06:00:00 UTC
+2025-03-10 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-02-25 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Lillie Master Fair Scout
+
+2025-02-25 06:00:00 UTC
+2025-03-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-02-25 06:00:00 UTC
+2025-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-02-25 06:00:00 UTC
+2025-02-26 06:00:00 UTC`;
