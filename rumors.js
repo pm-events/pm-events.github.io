@@ -2391,4 +2391,169 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2025-02-25 06:00:00 UTC
-2025-02-26 06:00:00 UTC`;
+2025-02-26 06:00:00 UTC
+
+Special Collaboration Special Kick-Start Event: Strong and Reliable Friends
+
+2025-02-26 06:00:00 UTC
+2025-04-30 06:00:00 UTC
+
+Special Collaboration Hop Variety Scout
+
+2025-02-26 06:00:00 UTC
+2025-03-12 06:00:00 UTC
+
+Neo Champions: Going Beyond Primal Nature
+
+2025-02-28 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+Extreme Battle Event: Take On Hoenn’s Finest Duo
+
+2025-02-28 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+May Master Fair Scout
+
+2025-02-28 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+One-Time-Only! 5.5 Year Celebration Master Fair Scout
+
+2025-02-28 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+Triple Feature Master Fair Scout
+
+2025-02-28 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+Vol. 31 Monthly Poké Fair Scout
+
+2025-03-01 06:00:00 UTC
+2025-04-01 06:00:00 UTC
+
+Brendan Master Fair Scout
+
+2025-03-02 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+Special Co-op Event: Sky, Sea, and Land Challenge
+
+2025-03-02 06:00:00 UTC
+2025-03-09 06:00:00 UTC
+
+Story Event: Masters of Land and Sea
+
+2025-03-04 06:00:00 UTC
+2025-03-31 06:00:00 UTC
+
+Steven Master Fair Scout
+
+2025-03-04 06:00:00 UTC
+2025-04-09 06:00:00 UTC
+
+Ultimate Battle: Dahlia’s Lucky Dance
+
+2025-03-06 06:00:00 UTC
+2025-04-06 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-03-07 06:00:00 UTC
+2025-03-16 06:00:00 UTC
+
+Type-Exclusive Triple Feature Poké Fair Scout
+
+2025-03-07 06:00:00 UTC
+2025-03-16 06:00:00 UTC
+
+High Score Event: Electric and Ground Conqueror
+
+2025-03-07 06:00:00 UTC
+2025-03-16 06:00:00 UTC
+
+N Arc Suit Fair Scout
+
+2025-03-10 06:00:00 UTC
+2025-04-19 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2025-03-10 06:00:00 UTC
+2025-03-31 06:00:00 UTC
+
+Story Event: The Ideal Formula
+
+2025-03-12 06:00:00 UTC
+2025-03-31 06:00:00 UTC
+
+Special Collaboration Ethan Variety Scout
+
+2025-03-14 06:00:00 UTC
+2025-03-28 06:00:00 UTC
+
+Academy Founding Chapter: Let’s Make a School on Pasio
+
+2025-03-18 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Academy Founding Chapter: Great Infernal Arrival
+
+2025-03-18 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Academy Founding Chapter: Explosive Art, Ninja’s Craft
+
+2025-03-18 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Ortega Poké Fair Scout
+
+2025-03-20 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Team Star Assemble! Super Spotlight Poké Fair Scout
+
+2025-03-20 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Academy Founding Chapter: The Bratty Mechanic
+
+2025-03-20 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-03-24 06:00:00 UTC
+2025-04-01 06:00:00 UTC
+
+Nate Master Fair Scout
+
+2025-03-25 06:00:00 UTC
+2025-04-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-03-25 06:00:00 UTC
+2025-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-03-25 06:00:00 UTC
+2025-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-03-25 06:00:00 UTC
+2025-03-26 06:00:00 UTC
+
+Story Event: Veevee on Pasio!
+
+2025-03-26 06:00:00 UTC
+2025-04-07 06:00:00 UTC
+
+Special Collaboration Cynthia Variety Scout
+
+2025-04-10 06:00:00 UTC
+2025-04-24 06:00:00 UTC`;
