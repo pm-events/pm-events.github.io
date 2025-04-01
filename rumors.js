@@ -2553,7 +2553,137 @@ Story Event: Veevee on Pasio!
 2025-03-26 06:00:00 UTC
 2025-04-07 06:00:00 UTC
 
-Special Collaboration Cynthia Variety Scout
+Lacey Poké Fair Scout
+
+2025-03-31 06:00:00 UTC
+2025-04-18 06:00:00 UTC
+
+Rei Costume Scout
+
+2025-03-31 06:00:00 UTC
+2025-04-18 06:00:00 UTC
+
+Presents! Limit 1! 48-Hour Limited Paid-Gem Costume Scout ×25
+
+2025-03-31 06:00:00 UTC
+2025-04-02 06:00:00 UTC
+
+Academy Event: Pasio Academy Opening
+
+2025-03-31 06:00:00 UTC
+2025-04-18 06:00:00 UTC
+
+Vol. 32: Monthly Poké Fair Scout
+
+2025-04-01 06:00:00 UTC
+2025-05-01 06:00:00 UTC
+
+One Day Only! Special Event: Slumbering Snorlax
+
+2025-04-01 06:00:00 UTC
+2025-04-02 06:00:00 UTC
+
+Ilima Spotlight Scout
+
+2025-04-04 06:00:00 UTC
+2025-04-22 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2025-04-05 06:00:00 UTC
+2025-04-23 06:00:00 UTC
+
+Story Event: Together in an Unknown Land
+
+2025-04-05 06:00:00 UTC
+2025-04-23 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-04-08 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Double Feature Poké Fair Scout
+
+2025-04-08 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-04-08 06:00:00 UTC
+2025-04-20 06:00:00 UTC
+
+Special Collaboration: Cynthia Variety Scout
 
 2025-04-10 06:00:00 UTC
-2025-04-24 06:00:00 UTC`;
+2025-04-24 06:00:00 UTC
+
+Ultimate Battle: Two Finest Subway Brothers
+
+2025-04-12 06:00:00 UTC
+2025-05-12 06:00:00 UTC
+
+Marnie Costume Scout
+
+2025-04-15 06:00:00 UTC
+2025-05-03 06:00:00 UTC
+
+Presents! Limit 1! 48-Hour Limited Paid-Gem Costume Scout ×25 A
+
+2025-04-15 06:00:00 UTC
+2025-04-17 06:00:00 UTC
+
+Morty Costume Scout
+
+2025-04-15 06:00:00 UTC
+2025-05-03 06:00:00 UTC
+
+Presents! Limit 1! 48-Hour Limited Paid-Gem Costume Scout ×25 B
+
+2025-04-15 06:00:00 UTC
+2025-04-17 06:00:00 UTC
+
+Academy Event: Pasio Paranormal Studies Club
+
+2025-04-15 06:00:00 UTC
+2025-05-03 06:00:00 UTC
+
+Double Feature Variety Scout
+
+2025-04-19 06:00:00 UTC
+2025-05-07 06:00:00 UTC
+
+Trainer Files: Akala Passion
+
+2025-04-19 06:00:00 UTC
+2025-05-07 06:00:00 UTC
+
+Egg Battle Event: Aim to Be an Egg Master
+
+2025-04-20 06:00:00 UTC
+2025-05-02 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-04-23 06:00:00 UTC
+2025-05-01 06:00:00 UTC
+
+Rosa Master Fair Scout
+
+2025-04-25 06:00:00 UTC
+2025-05-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-04-25 06:00:00 UTC
+2025-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-04-25 06:00:00 UTC
+2025-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-04-25 06:00:00 UTC
+2025-04-26 06:00:00 UTC`;
