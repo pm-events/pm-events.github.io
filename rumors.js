@@ -2686,4 +2686,154 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2025-04-25 06:00:00 UTC
-2025-04-26 06:00:00 UTC`;
+2025-04-26 06:00:00 UTC
+
+Sygna Suit Iono Poké Fair Scout
+
+2025-04-25 06:00:00 UTC
+2025-05-13 06:00:00 UTC
+
+Story Event: Zippity Zappity Collab
+
+2025-04-25 06:00:00 UTC
+2025-05-13 06:00:00 UTC
+
+Sygna Suit Elesa Poké Fair Scout
+
+2025-04-27 06:00:00 UTC
+2025-05-13 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2025-04-27 06:00:00 UTC
+2025-05-07 06:00:00 UTC
+
+Special Event: Rolling in Gold
+
+2025-04-29 06:00:00 UTC
+2025-05-07 06:00:00 UTC
+
+Special Event for All Types: Aim for the Top Super Sparring
+
+2025-04-29 06:00:00 UTC
+2025-05-07 06:00:00 UTC
+
+Alder Arc Suit Fair Scout
+
+2025-04-30 06:00:00 UTC
+2025-06-09 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2025-04-30 06:00:00 UTC
+2025-05-18 06:00:00 UTC
+
+Fair-Exclusive Guaranteed Ticket Scout
+
+2025-05-01 06:00:00 UTC
+2025-06-08 06:00:00 UTC
+
+Limited times daily! Dawn Mix Scout
+
+2025-05-01 06:00:00 UTC
+2025-09-01 06:00:00 UTC
+
+Vol. 33: Monthly Poké Fair Scout
+
+2025-05-01 06:00:00 UTC
+2025-06-01 06:00:00 UTC
+
+Triple Feature Poké Fair Scout
+
+2025-05-03 06:00:00 UTC
+2025-05-15 06:00:00 UTC
+
+Presents! Limit 1! Gloria Poké Fair Scout
+
+2025-05-03 06:00:00 UTC
+2025-05-15 06:00:00 UTC
+
+Presents! Limit 1! Marnie Poké Fair Scout
+
+2025-05-03 06:00:00 UTC
+2025-05-15 06:00:00 UTC
+
+Presents! Limit 1! Red Poké Fair Scout
+
+2025-05-03 06:00:00 UTC
+2025-05-15 06:00:00 UTC
+
+Benga Poké Fair Scout
+
+2025-05-05 06:00:00 UTC
+2025-05-21 06:00:00 UTC
+
+Double Feature Costume Scout
+
+2025-05-08 06:00:00 UTC
+2025-05-25 06:00:00 UTC
+
+Costume Event: The Power of Dance
+
+2025-05-08 06:00:00 UTC
+2025-05-25 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-05-12 06:00:00 UTC
+2025-05-21 06:00:00 UTC
+
+Type-Exclusive: Triple Feature Poké Fair Scout
+
+2025-05-12 06:00:00 UTC
+2025-05-21 06:00:00 UTC
+
+High Score Event: Grass and Bug Conqueror
+
+2025-05-12 06:00:00 UTC
+2025-05-21 06:00:00 UTC
+
+Sygna Suit Bede Poké Fair Scout
+
+2025-05-15 06:00:00 UTC
+2025-06-02 06:00:00 UTC
+
+Story Event: Blades of the Future
+
+2025-05-15 06:00:00 UTC
+2025-06-02 06:00:00 UTC
+
+Grimsley Variety Scout
+
+2025-05-20 06:00:00 UTC
+2025-06-06 06:00:00 UTC
+
+Special Co-op Event: Mega Evolve—Luck of the Draw
+
+2025-05-20 06:00:00 UTC
+2025-06-06 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-05-25 06:00:00 UTC
+2025-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-05-25 06:00:00 UTC
+2025-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-05-25 06:00:00 UTC
+2025-05-26 06:00:00 UTC
+
+Sygna Suit Gladion Master Fair Scout
+
+2025-05-25 06:00:00 UTC
+2025-06-25 06:00:00 UTC
+
+Story Event: Mechanized—Love and Solitude
+
+2025-05-27 06:00:00 UTC
+2025-06-13 06:00:00 UTC`;
