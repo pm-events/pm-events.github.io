@@ -2836,4 +2836,139 @@ Sygna Suit Gladion Master Fair Scout
 Story Event: Mechanized—Love and Solitude
 
 2025-05-27 06:00:00 UTC
-2025-06-13 06:00:00 UTC`;
+2025-06-13 06:00:00 UTC
+
+Elio Master Fair
+
+2025-05-30 06:00:00 UTC
+2025-07-09 06:00:00 UTC
+
+Neo Champions: Shining Sky-High Sync Moves
+
+2025-05-30 06:00:00 UTC
+2025-07-09 06:00:00 UTC
+
+Extreme Battle Event: Battle Alola’s Best
+
+2025-05-30 06:00:00 UTC
+2025-07-09 06:00:00 UTC
+
+Vol. 34: Monthly Poké Fair
+
+2025-06-01 06:00:00 UTC
+2025-07-01 06:00:00 UTC
+
+Selene Master Fair
+
+2025-06-01 06:00:00 UTC
+2025-07-09 06:00:00 UTC
+
+Special Battle Event: Take On Elio and Selene
+
+2025-06-01 06:00:00 UTC
+2025-06-17 06:00:00 UTC
+
+Extreme Battle Event: Say Alola to Pasio’s Best
+
+2025-06-03 06:00:00 UTC
+2025-06-21 06:00:00 UTC
+
+Super Spotlight Costume Scout
+
+2025-06-06 06:00:00 UTC
+2025-06-24 06:00:00 UTC
+
+Costume Event: New Heroes Are Born
+
+2025-06-06 06:00:00 UTC
+2025-06-24 06:00:00 UTC
+
+Costume Event: Infamous Pokéstar Villains
+
+2025-06-08 06:00:00 UTC
+2025-06-24 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-06-10 06:00:00 UTC
+2025-06-22 06:00:00 UTC
+
+Triple Feature Poké Fair
+
+2025-06-10 06:00:00 UTC
+2025-06-22 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-06-10 06:00:00 UTC
+2025-06-22 06:00:00 UTC
+
+Larry Costume Scout
+
+2025-06-11 06:00:00 UTC
+2025-06-30 06:00:00 UTC
+
+Costume Event: Trouble at the Alola Fair
+
+2025-06-11 06:00:00 UTC
+2025-06-30 06:00:00 UTC
+
+Clive Costume Scout
+
+2025-06-13 06:00:00 UTC
+2025-06-30 06:00:00 UTC
+
+Samson Oak Welcome Ticket Scout
+
+2025-06-17 06:00:00 UTC
+2025-07-09 06:00:00 UTC
+
+Samson Oak Variety Scout
+
+2025-06-17 06:00:00 UTC
+2025-07-02 06:00:00 UTC
+
+Samson Presents: Delightful Missions
+
+2025-06-17 06:00:00 UTC
+2025-07-02 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-06-20 06:00:00 UTC
+2025-06-29 06:00:00 UTC
+
+Gordie Variety Scout
+
+2025-06-23 06:00:00 UTC
+2025-07-11 06:00:00 UTC
+
+Trainer Files: Beyond the Crossroads
+
+2025-06-23 06:00:00 UTC
+2025-07-11 06:00:00 UTC
+
+Melony Variety Scout
+
+2025-06-25 06:00:00 UTC
+2025-07-11 06:00:00 UTC
+
+Geeta Master Fair Scout
+
+2025-06-25 06:00:00 UTC
+2025-07-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-06-25 06:00:00 UTC
+2025-06-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-06-25 06:00:00 UTC
+2025-06-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-06-25 06:00:00 UTC
+2025-06-26 06:00:00 UTC`;
