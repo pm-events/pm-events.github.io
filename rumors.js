@@ -2971,4 +2971,119 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2025-06-25 06:00:00 UTC
-2025-06-26 06:00:00 UTC`;
+2025-06-26 06:00:00 UTC
+
+Story Event: High-Flying Seaside Holiday
+
+2025-06-30 06:00:00 UTC
+2025-07-18 06:00:00 UTC
+
+Cynthia Seasonal Scout
+
+2025-06-30 06:00:00 UTC
+2025-07-18 06:00:00 UTC
+
+Vol. 35 Monthly Poké Fair
+
+2025-07-01 06:00:00 UTC
+2025-08-01 06:00:00 UTC
+
+Skyla Seasonal Scout
+
+2025-07-02 06:00:00 UTC
+2025-07-18 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2025-07-04 06:00:00 UTC
+2025-07-22 06:00:00 UTC
+
+Story Event: Exciting Treasure Hunt
+
+2025-07-04 06:00:00 UTC
+2025-07-22 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-07-07 06:00:00 UTC
+2025-07-16 06:00:00 UTC
+
+Type-Exclusive Triple Feature Poké Fair
+
+2025-07-07 06:00:00 UTC
+2025-07-16 06:00:00 UTC
+
+High Score Event: Water and Psychic Conqueror
+
+2025-07-07 06:00:00 UTC
+2025-07-16 06:00:00 UTC
+
+Solo Event: Make Waves to the Future
+
+2025-07-09 06:00:00 UTC
+2025-07-27 06:00:00 UTC
+
+Story Replay: Silver's Path
+
+2025-07-13 06:00:00 UTC
+2025-07-28 06:00:00 UTC
+
+Silver Arc Suit Fair
+
+2025-07-15 06:00:00 UTC
+2025-08-24 06:00:00 UTC
+
+3,000 Gems! Gem Challenge
+
+2025-07-15 06:00:00 UTC
+2025-07-29 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2025-07-15 06:00:00 UTC
+2025-08-02 06:00:00 UTC
+
+Ethan Arc Suit Fair
+
+2025-07-17 06:00:00 UTC
+2025-08-24 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-07-20 06:00:00 UTC
+2025-07-29 06:00:00 UTC
+
+Trainer Files: Two Factory Heads
+
+2025-07-23 06:00:00 UTC
+2025-08-10 06:00:00 UTC
+
+Double Feature Variety Scout
+
+2025-07-23 06:00:00 UTC
+2025-08-10 06:00:00 UTC
+
+Silver Master Fair
+
+2025-07-25 06:00:00 UTC
+2025-08-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-07-25 06:00:00 UTC
+2025-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-07-25 06:00:00 UTC
+2025-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-07-25 06:00:00 UTC
+2025-07-26 06:00:00 UTC
+
+Pasio Special Stadium
+
+2025-07-29 06:00:00 UTC
+2025-08-08 06:00:00 UTC`;
