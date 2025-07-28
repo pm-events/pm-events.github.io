@@ -3083,7 +3083,172 @@ Pokémon Masters Day One-Time-Only Happy Scout
 2025-07-25 06:00:00 UTC
 2025-07-26 06:00:00 UTC
 
+Carmine Poké Fair
+
+2025-07-29 06:00:00 UTC
+2025-09-06 06:00:00 UTC
+
+One-Time-Only! Triple Feature Select Master Fair!
+
+2025-07-29 06:00:00 UTC
+2025-08-18 06:00:00 UTC
+
+Story Event: From Kitakami—Prelude
+
+2025-07-29 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
 Pasio Special Stadium
 
 2025-07-29 06:00:00 UTC
-2025-08-08 06:00:00 UTC`;
+2025-08-08 06:00:00 UTC
+
+Vol. 36: Monthly Poké Fair
+
+2025-08-01 06:00:00 UTC
+2025-09-01 06:00:00 UTC
+
+Iris Costume Scout
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Gladion Costume Scout
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Academy Event: Best Buddies Program
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Academy Founding Chapter: Let’s Make a School on Pasio
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Academy Founding Chapter: Great Infernal Arrival
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Academy Founding Chapter: Explosive Art, Ninja’s Craft
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+Academy Founding Chapter: The Bratty Mechanic
+
+2025-08-05 06:00:00 UTC
+2025-08-23 06:00:00 UTC
+
+5★-Select Type Scout
+
+2025-08-07 06:00:00 UTC
+2025-08-19 06:00:00 UTC
+
+Triple Feature Poké Fair
+
+2025-08-07 06:00:00 UTC
+2025-08-19 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-08-07 06:00:00 UTC
+2025-08-19 06:00:00 UTC
+
+Double Feature Variety Scout
+
+2025-08-12 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Trainer Files: Lovable Numskulls
+
+2025-08-12 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Kieran Master Fair
+
+2025-08-18 06:00:00 UTC
+2025-09-27 06:00:00 UTC
+
+Story Event: From Kitakami—Continued
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Presents! Limit 1! Scout ×25 + 5★-Select Poké Fair A
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Presents! Limit 1! Scout ×25 + 5★-Select Poké Fair B
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Presents! Limit 1! Scout ×25 + 5★-Select Poké Fair C
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Presents! Limit 1! Scout ×25 + 5★-Select Poké Fair D
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Presents! Limit 1! Scout ×25 + 5★-Select Poké Fair E
+
+2025-08-18 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Fair-exclusive pairs included! 10-Pair Scout (Max 100 Pairs)
+
+2025-08-18 06:00:00 UTC
+2025-09-22 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-08-18 06:00:00 UTC
+2025-08-26 06:00:00 UTC
+
+Juliana Master Fair Scout
+
+2025-08-19 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Florian Master Fair Scout
+
+2025-08-19 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Story Event: Five Friends’ Treasure Hunt
+
+2025-08-19 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Extreme Battle Event: Take On the Talented Friends
+
+2025-08-19 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Special Sync Pair Event: Professor Oak & Nidorino
+
+2025-08-20 06:00:00 UTC
+2025-08-28 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-08-25 06:00:00 UTC
+2025-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
+
+2025-08-25 06:00:00 UTC
+2025-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-08-25 06:00:00 UTC
+2025-08-26 06:00:00 UTC`;
