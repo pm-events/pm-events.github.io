@@ -3123,22 +3123,7 @@ Academy Event: Best Buddies Program
 2025-08-05 06:00:00 UTC
 2025-08-23 06:00:00 UTC
 
-Academy Founding Chapter: Let’s Make a School on Pasio
-
-2025-08-05 06:00:00 UTC
-2025-08-23 06:00:00 UTC
-
-Academy Founding Chapter: Great Infernal Arrival
-
-2025-08-05 06:00:00 UTC
-2025-08-23 06:00:00 UTC
-
-Academy Founding Chapter: Explosive Art, Ninja’s Craft
-
-2025-08-05 06:00:00 UTC
-2025-08-23 06:00:00 UTC
-
-Academy Founding Chapter: The Bratty Mechanic
+Academy Founding Chapter: Read the Founding Chapter Again!
 
 2025-08-05 06:00:00 UTC
 2025-08-23 06:00:00 UTC
