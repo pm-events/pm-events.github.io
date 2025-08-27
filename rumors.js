@@ -3236,4 +3236,208 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout
 Pokémon Masters Day One-Time-Only Happy Scout
 
 2025-08-25 06:00:00 UTC
-2025-08-26 06:00:00 UTC`;
+2025-08-26 06:00:00 UTC
+
+Six-Year Anniversary Ticket Scout
+
+2025-08-28 06:00:00 UTC
+2025-10-14 06:00:00 UTC
+
+Master Fair Guaranteed Ticket Scout
+
+2025-08-28 06:00:00 UTC
+2025-10-14 06:00:00 UTC
+
+Red EX Master Fair
+
+2025-08-28 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Six-Year Anniversary: Paid-Gem Scout ×25 EX Master Fair
+
+2025-08-28 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Paid-Gem 5★-Select Master Fair Tiered Scout
+
+2025-08-28 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Six-Year Anniversary Event: Terastal Festival
+
+2025-08-28 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Six-Year Anniversary! Special Co-op Battle!
+
+2025-08-28 06:00:00 UTC
+2025-09-17 06:00:00 UTC
+
+Irida EX Master Fair
+
+2025-08-30 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Trainer Tales Bonus Event: From Kitakami—Continued
+
+2025-08-30 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Trainer Tales Bonus Event: Five Friends’ Treasure Hunt
+
+2025-08-30 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+10th Place! Twin Stars Far Apart
+
+2025-08-30 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Six-Year Anniversary High Score: Poison and Dragon Conqueror
+
+2025-08-30 06:00:00 UTC
+2025-09-09 06:00:00 UTC
+
+9th Place! Researcher and Seeker
+
+2025-08-31 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Gloria EX Master Fair
+
+2025-09-01 06:00:00 UTC
+2025-10-07 06:00:00 UTC
+
+Limited times daily! Barry Mix Scout
+
+2025-09-01 06:00:00 UTC
+2026-01-01 06:00:00 UTC
+
+Vol. 37: Monthly Poké Fair
+2025-09-01 06:00:00 UTC
+2025-10-01 06:00:00 UTC
+
+8th Place! All Aboard the Victory Train
+
+2025-09-01 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Six-Year Anniversary! Ranked Damage Event Super Sparring
+
+2025-09-01 06:00:00 UTC
+2025-09-11 06:00:00 UTC
+
+7th Place! Travelers from a Distant Past
+
+2025-09-02 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+6th Place! One More Step to a New Path
+
+2025-09-03 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+5th Place! Chase the Northern Wind
+
+2025-09-04 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Triple Feature Variety Scout
+
+2025-09-05 06:00:00 UTC
+2025-09-23 06:00:00 UTC
+
+4th Place! Honing One’s Love
+
+2025-09-05 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Solo Event: Nature Incarnate
+
+2025-09-05 06:00:00 UTC
+2025-09-23 06:00:00 UTC
+
+3rd Place! A Golden Future
+
+2025-09-06 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+2nd Place! Middle-Aged Opposites
+
+2025-09-07 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+1st Place! The Ideal Formula
+
+2025-09-08 06:00:00 UTC
+2025-09-19 06:00:00 UTC
+
+Legendary Power-Up Event: Create New Legends
+
+2025-09-09 06:00:00 UTC
+2025-09-27 06:00:00 UTC
+
+Presents! Limit 1! 5★-Select Variety Scout ×11
+
+2025-09-11 06:00:00 UTC
+2025-09-29 06:00:00 UTC
+
+Presents! Limit 1! 5★-Select Seasonal Scout ×11
+
+2025-09-11 06:00:00 UTC
+2025-09-29 06:00:00 UTC
+
+Volo EX Master Fair
+
+2025-09-15 06:00:00 UTC
+2025-10-25 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2025-09-15 06:00:00 UTC
+2025-10-03 06:00:00 UTC
+
+Challenge Arc Suits Event: Show Me Thy Bonds
+
+2025-09-15 06:00:00 UTC
+2025-10-03 06:00:00 UTC
+
+Rei Costume Scout
+
+2025-09-22 06:00:00 UTC
+2025-10-10 06:00:00 UTC
+
+Lacey Poké Fair Scout
+
+2025-09-22 06:00:00 UTC
+2025-10-10 06:00:00 UTC
+
+Academy Event: Pasio Academy Opening
+
+2025-09-22 06:00:00 UTC
+2025-10-10 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2025-09-25 06:00:00 UTC
+2025-10-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-09-25 06:00:00 UTC
+2025-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-09-25 06:00:00 UTC
+2025-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2025-09-25 06:00:00 UTC
+2025-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2025-09-25 06:00:00 UTC
+2025-09-26 06:00:00 UTC`;
