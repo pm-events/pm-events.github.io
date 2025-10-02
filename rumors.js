@@ -3441,4 +3441,114 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2025-09-25 06:00:00 UTC
-2025-09-26 06:00:00 UTC`;
+2025-09-26 06:00:00 UTC
+
+Arezu EX Fair
+
+2025-09-30 06:00:00 UTC
+2025-10-18 06:00:00 UTC
+
+Story Event: Perrin and the Diamond Clan
+
+2025-09-30 06:00:00 UTC
+2025-10-18 06:00:00 UTC
+
+Vol. 38: Monthly Poké Fair
+
+2025-10-01 06:00:00 UTC
+2025-11-01 06:00:00 UTC
+
+Mai EX Fair
+
+2025-10-02 06:00:00 UTC
+2025-10-18 06:00:00 UTC
+
+Perrin EX Fair
+
+2025-10-04 06:00:00 UTC
+2025-10-18 06:00:00 UTC
+
+Special Photo Missions: Perrin’s Photo Requests
+
+2025-10-04 06:00:00 UTC
+2025-10-18 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-10-05 06:00:00 UTC
+2025-10-13 06:00:00 UTC
+
+Daily Battle: Move Candy Challenge
+
+2025-10-07 06:00:00 UTC
+2025-10-25 06:00:00 UTC
+
+5★-Select Fair-Exclusive Scout ×11
+
+2025-10-09 06:00:00 UTC
+2025-10-21 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-10-09 06:00:00 UTC
+2025-10-21 06:00:00 UTC
+
+Lacey Seasonal Scout
+
+2025-10-14 06:00:00 UTC
+2025-11-01 06:00:00 UTC
+
+Story Event: Mischievous Lacey
+
+2025-10-14 06:00:00 UTC
+2025-11-01 06:00:00 UTC
+
+Story Event: The Truth—Mane or Feathers?
+
+2025-10-18 06:00:00 UTC
+2025-11-05 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2025-10-18 06:00:00 UTC
+2025-11-05 06:00:00 UTC
+
+Triple Feature Variety Scout
+
+2025-10-23 06:00:00 UTC
+2025-11-10 06:00:00 UTC
+
+Solo Event: Triple Hospitality
+
+2025-10-23 06:00:00 UTC
+2025-11-10 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-10-25 06:00:00 UTC
+2025-10-26 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2025-10-25 06:00:00 UTC
+2025-11-02 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2025-10-25 06:00:00 UTC
+2025-11-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-10-25 06:00:00 UTC
+2025-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2025-10-25 06:00:00 UTC
+2025-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2025-10-25 06:00:00 UTC
+2025-10-26 06:00:00 UTC`;
