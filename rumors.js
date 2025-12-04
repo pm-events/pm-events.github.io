@@ -1796,4 +1796,119 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2025-11-25 06:00:00 UTC
-2025-11-26 06:00:00 UTC`;
+2025-11-26 06:00:00 UTC
+
+Neo Champions: Facing the Future with Fight
+
+2025-11-28 06:00:00 UTC
+2026-01-07 06:00:00 UTC
+
+Hilbert EX Master Fair
+
+2025-11-28 06:00:00 UTC
+2026-01-07 06:00:00 UTC
+
+Hilda EX Master Fair
+
+2025-11-30 06:00:00 UTC
+2026-01-07 06:00:00 UTC
+
+Vol. 40 Monthly Poké Fair
+
+2025-12-01 06:00:00 UTC
+2026-01-01 06:00:00 UTC
+
+5★-Select Fair-Exclusive Scout ×11
+
+2025-12-05 06:00:00 UTC
+2025-12-18 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2025-12-05 06:00:00 UTC
+2025-12-18 06:00:00 UTC
+
+Sygna Suit Red Guaranteed Ticket Scout
+
+2025-12-09 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Leon Arc Suit Fair Scout
+
+2025-12-09 06:00:00 UTC
+2026-01-04 06:00:00 UTC
+
+Lance Variety Scout
+
+2025-12-09 06:00:00 UTC
+2025-12-24 06:00:00 UTC
+
+Special Co-op Event: Lance’s New Partner Pokémon
+
+2025-12-09 06:00:00 UTC
+2025-12-24 06:00:00 UTC
+
+Arven Seasonal Scout
+
+2025-12-15 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Story Event: The Hottest Present
+
+2025-12-15 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2025-12-17 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Story Event: Joyful Music with Everyone
+
+2025-12-17 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Special Event: Battle Countdown
+
+2025-12-21 06:00:00 UTC
+2025-12-31 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2025-12-25 06:00:00 UTC
+2025-12-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2025-12-25 06:00:00 UTC
+2026-01-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2025-12-25 06:00:00 UTC
+2025-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2025-12-25 06:00:00 UTC
+2025-12-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2025-12-25 06:00:00 UTC
+2025-12-26 06:00:00 UTC
+
+Sygna Suit Carmine EX Master Fair
+
+2025-12-27 06:00:00 UTC
+2026-02-05 06:00:00 UTC
+
+Story Event: Pecharunt Strikes Back
+
+2025-12-27 06:00:00 UTC
+2026-02-05 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2025-12-29 06:00:00 UTC
+2026-01-07 06:00:00 UTC`;
