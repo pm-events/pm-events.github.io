@@ -1911,4 +1911,129 @@ Story Event: Pecharunt Strikes Back
 Ranked Damage Event: Super Sparring
 
 2025-12-29 06:00:00 UTC
-2026-01-07 06:00:00 UTC`;
+2026-01-07 06:00:00 UTC
+
+New Year’s exclusive! Select Master Fair Lucky Scout
+
+2025-12-31 15:00:00 UTC
+2026-01-09 06:00:00 UTC
+
+New Year’s exclusive! 5★-Only Lucky Scout
+
+2025-12-31 15:00:00 UTC
+2026-01-09 06:00:00 UTC
+
+New Year’s exclusive! Daily Lucky Poké Fair
+
+2025-12-31 15:00:00 UTC
+2026-01-09 06:00:00 UTC
+
+Special Co-op Event: New Year’s Battle
+
+2025-12-31 15:00:00 UTC
+2026-01-09 06:00:00 UTC
+
+Sygna Suit Ball Guy EX Fair
+
+2026-01-01 06:00:00 UTC
+2026-01-19 06:00:00 UTC
+
+Limited times daily! Elio Mix Scout
+
+2026-01-01 06:00:00 UTC
+2026-05-01 06:00:00 UTC
+
+Vol. 41 Monthly Poké Fair
+
+2026-01-01 06:00:00 UTC
+2026-02-01 06:00:00 UTC
+
+Story Event: Fishing Up a Golden New Year
+
+2026-01-01 06:00:00 UTC
+2026-01-19 06:00:00 UTC
+
+Lana Seasonal Scout
+
+2026-01-03 06:00:00 UTC
+2026-01-19 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2026-01-05 06:00:00 UTC
+2026-01-23 06:00:00 UTC
+
+Story Event: Friend-Making Battle
+
+2026-01-05 06:00:00 UTC
+2026-01-23 06:00:00 UTC
+
+Daily Battle: Move Candy Challenge
+
+2026-01-07 06:00:00 UTC
+2026-01-25 06:00:00 UTC
+
+5★-Select Fair-Exclusive Scout ×11
+
+2026-01-09 06:00:00 UTC
+2026-01-18 06:00:00 UTC
+
+High Score Event: Ghost and Fairy Conqueror
+
+2026-01-09 06:00:00 UTC
+2026-01-18 06:00:00 UTC
+
+Hassel EX Fair
+
+2026-01-16 06:00:00 UTC
+2026-02-03 06:00:00 UTC
+
+Brassius EX Fair
+
+2026-01-16 06:00:00 UTC
+2026-02-03 06:00:00 UTC
+
+Academy Event: Art Agony, Teacher’s Tears
+
+2026-01-16 06:00:00 UTC
+2026-02-03 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-01-21 06:00:00 UTC
+2026-01-29 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-01-25 06:00:00 UTC
+2026-01-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-01-25 06:00:00 UTC
+2026-02-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-01-25 06:00:00 UTC
+2026-01-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-01-25 06:00:00 UTC
+2026-01-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-01-25 06:00:00 UTC
+2026-01-26 06:00:00 UTC
+
+Neo Champions: A Pure and Touching Heart
+
+2026-01-26 06:00:00 UTC
+2026-02-09 06:00:00 UTC
+
+Special Event: Pasio Special Stadium
+
+2026-01-28 06:00:00 UTC
+2026-02-09 06:00:00 UTC`;
