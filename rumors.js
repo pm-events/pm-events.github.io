@@ -2036,4 +2036,114 @@ Neo Champions: A Pure and Touching Heart
 Special Event: Pasio Special Stadium
 
 2026-01-28 06:00:00 UTC
-2026-02-09 06:00:00 UTC`;
+2026-02-09 06:00:00 UTC
+
+Rika Seasonal Scout
+
+2026-01-30 06:00:00 UTC
+2026-02-17 06:00:00 UTC
+
+Story Event: Dressed to Give Thanks
+
+2026-01-30 06:00:00 UTC
+2026-02-17 06:00:00 UTC
+
+Adaman Seasonal Scout
+
+2026-02-01 06:00:00 UTC
+2026-02-17 06:00:00 UTC
+
+Vol. 42: Monthly Poké Fair
+
+2026-02-01 06:00:00 UTC
+2026-03-01 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2026-02-03 06:00:00 UTC
+2026-02-19 06:00:00 UTC
+
+Story Event: Tiny Courage, Big Thanks
+
+2026-02-03 06:00:00 UTC
+2026-02-19 06:00:00 UTC
+
+5★-Select Fair-Exclusive Scout ×11
+
+2026-02-06 06:00:00 UTC
+2026-02-19 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2026-02-06 06:00:00 UTC
+2026-02-19 06:00:00 UTC
+
+Story Event: Good Ol’ Rika Here
+
+2026-02-10 06:00:00 UTC
+2026-02-28 06:00:00 UTC
+
+Run-Up to Double Anniversary! 10-Pair Scout (Fair-exclusive pairs included!)
+
+2026-02-17 06:00:00 UTC
+2026-04-07 06:00:00 UTC
+
+Run-Up to Double Anniversary! 10-Pair Scout (Fair-exclusive pair guaranteed!)
+
+2026-02-17 06:00:00 UTC
+2026-04-07 06:00:00 UTC
+
+Misty Arc Suit Fair
+
+2026-02-17 06:00:00 UTC
+2026-03-14 06:00:00 UTC
+
+Pasio Gym Battle: Kanto Gym Leaders Assembled
+
+2026-02-17 06:00:00 UTC
+2026-03-10 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2026-02-17 06:00:00 UTC
+2026-02-28 06:00:00 UTC
+
+Special Sync Pair Event: Clavell & Sprigatito
+
+2026-02-17 06:00:00 UTC
+2026-03-31 06:00:00 UTC
+
+Brock Arc Suit Fair
+
+2026-02-19 06:00:00 UTC
+2026-03-14 06:00:00 UTC
+
+Run-Up to 6.5 Years: Battle Countdown
+
+2026-02-19 06:00:00 UTC
+2026-02-28 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-02-25 06:00:00 UTC
+2026-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-02-25 06:00:00 UTC
+2026-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-02-25 06:00:00 UTC
+2026-02-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-02-25 06:00:00 UTC
+2026-02-26 06:00:00 UTC
+
+Celebration Event: Pokémon Celebration
+
+2026-02-27 14:00:00 UTC
+2026-03-31 06:00:00 UTC`;
