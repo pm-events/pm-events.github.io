@@ -2146,4 +2146,159 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 Celebration Event: Pokémon Celebration
 
 2026-02-27 14:00:00 UTC
-2026-03-31 06:00:00 UTC`;
+2026-03-31 06:00:00 UTC
+
+Special Event: Rumors of a Strange Red
+
+2026-02-27 14:20:00 UTC
+2026-04-13 06:00:00 UTC
+
+Presents ×2! Red EX Master Fair
+
+2026-02-27 14:20:00 UTC
+2026-04-13 06:00:00 UTC
+
+1,000 Paid Gems! One-Time-Only Red EX Master Fair
+
+2026-02-27 14:20:00 UTC
+2026-04-13 06:00:00 UTC
+
+Story Event: Teal and Indigo Festival
+
+2026-02-28 06:00:00 UTC
+2026-04-09 06:00:00 UTC
+
+Presents ×2! Florian EX Master Fair
+
+2026-02-28 06:00:00 UTC
+2026-04-09 06:00:00 UTC
+
+6.5 Year Celebration! 48-Hour Paid-Gem Scout ×25 EX Master Fair
+
+2026-02-28 06:00:00 UTC
+2026-03-02 06:00:00 UTC
+
+Vol. 43 Monthly Poké Fair
+
+2026-03-01 06:00:00 UTC
+2026-04-01 06:00:00 UTC
+
+Presents ×2! Juliana EX Master Fair
+
+2026-03-02 06:00:00 UTC
+2026-04-09 06:00:00 UTC
+
+Extreme Battle Event: Take On the Original Legend
+
+2026-03-04 06:00:00 UTC
+2026-04-13 06:00:00 UTC
+
+Pokémon 30-Year Celebration Paid-Gem Scout ×30 Select Master Fair
+
+2026-03-05 06:00:00 UTC
+2026-03-18 06:00:00 UTC
+
+High Score Event: Electric and Grass Conqueror
+
+2026-03-10 06:00:00 UTC
+2026-03-22 06:00:00 UTC
+
+5★-Select Fair-Exclusive Scout ×11
+
+2026-03-10 06:00:00 UTC
+2026-03-22 06:00:00 UTC
+
+Story Event: Bede and Marnie’s Pursuits
+
+2026-03-14 06:00:00 UTC
+2026-04-11 06:00:00 UTC
+
+Presents ×2! Marnie EX Fair
+
+2026-03-14 06:00:00 UTC
+2026-04-11 06:00:00 UTC
+
+Presents ×2! Bede EX Fair
+
+2026-03-16 06:00:00 UTC
+2026-04-11 06:00:00 UTC
+
+Post–6.5 Years Celebration! Special Co-op Battle!
+
+2026-03-18 06:00:00 UTC
+2026-03-30 06:00:00 UTC
+
+Arc Suit Tiered Scout!
+
+2026-03-18 06:00:00 UTC
+2026-03-30 06:00:00 UTC
+
+48 Hours: Cynthia Arc Suit Fair
+
+2026-03-18 06:00:00 UTC
+2026-03-20 06:00:00 UTC
+
+48 Hours: Lance Arc Suit Fair
+
+2026-03-20 06:00:00 UTC
+2026-03-22 06:00:00 UTC
+
+Neo Champions: Fight for the Future Together
+
+2026-03-21 06:00:00 UTC
+2026-04-08 06:00:00 UTC
+
+48 Hours: Steven Arc Suit Fair
+
+2026-03-22 06:00:00 UTC
+2026-03-24 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-03-23 06:00:00 UTC
+2026-03-31 06:00:00 UTC
+
+48 Hours: Leon Arc Suit Fair
+
+2026-03-24 06:00:00 UTC
+2026-03-26 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-03-25 06:00:00 UTC
+2026-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-03-25 06:00:00 UTC
+2026-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-03-25 06:00:00 UTC
+2026-03-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-03-25 06:00:00 UTC
+2026-03-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-03-25 06:00:00 UTC
+2026-04-25 06:00:00 UTC
+
+48 Hours: N Arc Suit Fair
+
+2026-03-26 06:00:00 UTC
+2026-03-28 06:00:00 UTC
+
+Daily Battle: Double Anniversary Blissful Bonanza!
+
+2026-03-27 06:00:00 UTC
+2026-04-03 06:00:00 UTC
+
+48 Hours: Alder Arc Suit Fair
+
+2026-03-28 06:00:00 UTC
+2026-03-30 06:00:00 UTC`;
