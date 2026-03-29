@@ -2301,4 +2301,134 @@ Daily Battle: Double Anniversary Blissful Bonanza!
 48 Hours: Alder Arc Suit Fair
 
 2026-03-28 06:00:00 UTC
-2026-03-30 06:00:00 UTC`;
+2026-03-30 06:00:00 UTC
+
+Vol. 44 Monthly Poké Fair
+
+2026-04-01 06:00:00 UTC
+2026-05-01 06:00:00 UTC
+
+Korrina Arc Suit Fair
+
+2026-04-01 06:00:00 UTC
+2026-05-07 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2026-04-01 06:00:00 UTC
+2026-04-19 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories (Peculiar Pokémon-Loving Pal)
+
+2026-04-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Pasio Gym Battle No. 2: Galar Gym Leaders Assembled
+
+2026-04-01 06:00:00 UTC
+2026-04-21 06:00:00 UTC
+
+Gym Battle Celebration: Three Fair-Exclusives Guaranteed Tiered Scout
+
+2026-04-03 06:00:00 UTC
+2026-04-10 06:00:00 UTC
+
+Sabrina Arc Suit Fair
+
+2026-04-03 06:00:00 UTC
+2026-05-07 06:00:00 UTC
+
+Story Event: Isle Disciples, Arena Tycoon
+
+2026-04-08 06:00:00 UTC
+2026-04-18 06:00:00 UTC
+
+Legendary Gauntlet Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-04-10 06:00:00 UTC
+2026-04-20 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2026-04-10 06:00:00 UTC
+2026-04-20 06:00:00 UTC
+
+Perrin Costume Scout
+
+2026-04-14 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Presents! Limit 1! 48-Hour Paid-Gem Costume Scout ×25 A
+
+2026-04-14 06:00:00 UTC
+2026-04-16 06:00:00 UTC
+
+Sonia Costume Scout
+
+2026-04-14 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Presents! Limit 1! 48-Hour Paid-Gem Costume Scout ×25 B
+
+2026-04-14 06:00:00 UTC
+2026-04-16 06:00:00 UTC
+
+Academy Event: Pasio Academy Fair—Prep
+
+2026-04-14 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Academy Special Event: Support Your Favorite
+
+2026-04-14 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Academy Event: Pasio Academy Opening
+
+2026-04-18 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Academy Event: Best Buddies Program
+
+2026-04-18 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Special Academy Edition: Take on Super Sparring with academy sync pairs!
+
+2026-04-18 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Lacey Poké Fair Scout
+
+2026-04-18 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Triple Feature Costume Scout
+
+2026-04-18 06:00:00 UTC
+2026-04-29 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-04-25 06:00:00 UTC
+2026-04-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-04-25 06:00:00 UTC
+2026-05-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-04-25 06:00:00 UTC
+2026-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-04-25 06:00:00 UTC
+2026-04-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-04-25 06:00:00 UTC
+2026-04-26 06:00:00 UTC`;
