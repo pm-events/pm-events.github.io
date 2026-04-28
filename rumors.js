@@ -2318,7 +2318,7 @@ Arceus Arc Celebration: Special Battle Event
 2026-04-01 06:00:00 UTC
 2026-04-19 06:00:00 UTC
 
-Pokémon 30-Year Celebration: Pokémon Masters Memories (Peculiar Pokémon-Loving Pal)
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Peculiar Pokémon-Loving Pal (Arven)
 
 2026-04-01 06:00:00 UTC
 2026-12-31 15:00:00 UTC
@@ -2431,4 +2431,174 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-04-25 06:00:00 UTC
-2026-04-26 06:00:00 UTC`;
+2026-04-26 06:00:00 UTC
+
+10 Days of Daily Battles: Paldea Battle Tour
+
+2026-04-29 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Story Event: Five Friends’ Treasure Hunt
+
+2026-04-29 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Story Event: From Kitakami—Continued
+
+2026-04-29 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Extreme Battle Event: Beat Pasio’s Best
+
+2026-04-29 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Story Event: League Club Problem Child
+
+2026-04-29 06:00:00 UTC
+2026-06-08 06:00:00 UTC
+
+Drayton EX Fair
+
+2026-04-29 06:00:00 UTC
+2026-06-08 06:00:00 UTC
+
+Paid-Gem 5★-Select Master Fair Tiered Scout
+
+2026-04-29 06:00:00 UTC
+2026-05-18 06:00:00 UTC
+
+Paldea Fair–Exclusive Guaranteed Ticket Scout
+
+2026-04-29 06:00:00 UTC
+2026-05-18 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Fight for the Future Together (Marnie (Summer 2021))
+
+2026-05-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Special Event Pasio Special Stadium
+
+2026-05-01 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Limited times daily! Hau Mix Scout
+
+2026-05-01 06:00:00 UTC
+2026-08-01 06:00:00 UTC
+
+Vol. 45 Monthly Poké Fair
+
+2026-05-01 06:00:00 UTC
+2026-06-01 06:00:00 UTC
+
+Sygna Suit Kieran EX Master Fair
+
+2026-05-01 06:00:00 UTC
+2026-06-08 06:00:00 UTC
+
+Story Event: Good Ol’ Rika Here
+
+2026-05-03 06:00:00 UTC
+2026-05-11 06:00:00 UTC
+
+Solo Event: Urgent Ask for Rika and Poppy
+
+2026-05-03 06:00:00 UTC
+2026-05-18 06:00:00 UTC
+
+Double Feature Variety Scout
+
+2026-05-03 06:00:00 UTC
+2026-05-18 06:00:00 UTC
+
+Special Event: Rolling in Gold
+
+2026-05-05 06:00:00 UTC
+2026-05-18 06:00:00 UTC
+
+High Score Event: Ice and Dragon Conqueror
+
+2026-05-05 06:00:00 UTC
+2026-05-14 06:00:00 UTC
+
+High Score Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-05-05 06:00:00 UTC
+2026-05-14 06:00:00 UTC
+
+Daily Battle: Move Candy Challenge
+
+2026-05-07 06:00:00 UTC
+2026-05-25 06:00:00 UTC
+
+Costume Event: Pasio Hot Spring Fever
+
+2026-05-13 06:00:00 UTC
+2026-06-01 06:00:00 UTC
+
+Larry Costume Scout
+
+2026-05-13 06:00:00 UTC
+2026-06-02 06:00:00 UTC
+
+Flannery Costume Scout
+
+2026-05-15 06:00:00 UTC
+2026-06-02 06:00:00 UTC
+
+Costume Event: Trouble at the Alola Fair
+
+2026-05-20 06:00:00 UTC
+2026-06-07 06:00:00 UTC
+
+Costume Tiered Scout
+
+2026-05-20 06:00:00 UTC
+2026-06-07 06:00:00 UTC
+
+Super Spotlight Costume Scout
+
+2026-05-20 06:00:00 UTC
+2026-06-07 06:00:00 UTC
+
+Double Feature EX Fair
+
+2026-05-21 06:00:00 UTC
+2026-06-08 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-05-21 06:00:00 UTC
+2026-05-28 06:00:00 UTC
+
+Paid-Gem Double Feature Scout ×25 EX Fair
+
+2026-05-21 06:00:00 UTC
+2026-06-08 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-05-25 06:00:00 UTC
+2026-05-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-05-25 06:00:00 UTC
+2026-06-24 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-05-25 06:00:00 UTC
+2026-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-05-25 06:00:00 UTC
+2026-05-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-05-25 06:00:00 UTC
+2026-05-26 06:00:00 UTC`;
