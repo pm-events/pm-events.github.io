@@ -791,4 +791,119 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-06-25 06:00:00 UTC
-2026-06-26 06:00:00 UTC`;
+2026-06-26 06:00:00 UTC
+
+Seasonal Exclusive Guaranteed Ticket Scout
+
+2026-06-30 06:00:00 UTC
+2026-07-29 06:00:00 UTC
+
+Akari Seasonal Scout
+
+2026-06-30 06:00:00 UTC
+2026-07-22 06:00:00 UTC
+
+Story Event: Sea’s Legend and Raging Souls
+
+2026-06-30 06:00:00 UTC
+2026-07-22 06:00:00 UTC
+
+Vol. 47 Monthly Poké Fair
+
+2026-07-01 06:00:00 UTC
+2026-08-01 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Leaders of a New Era (Lysandre)
+
+2026-07-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Arezu Seasonal Scout
+
+2026-07-02 06:00:00 UTC
+2026-07-22 06:00:00 UTC
+
+Solo Event: Brave Heroes of the Sea
+
+2026-07-03 06:00:00 UTC
+2026-07-22 06:00:00 UTC
+
+Presents! Limit 1! 5★-Select Seasonal Scout ×11
+
+2026-07-07 06:00:00 UTC
+2026-07-29 06:00:00 UTC
+
+Double Feature EX Fair
+
+2026-07-10 06:00:00 UTC
+2026-07-27 06:00:00 UTC
+
+High Score Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-07-12 06:00:00 UTC
+2026-07-23 06:00:00 UTC
+
+High Score Event: Water and Grass Conqueror
+
+2026-07-12 06:00:00 UTC
+2026-07-23 06:00:00 UTC
+
+Daily Battle: Move Candy Challenge
+
+2026-07-12 06:00:00 UTC
+2026-07-30 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2026-07-14 06:00:00 UTC
+2026-07-31 06:00:00 UTC
+
+Story Event: High-Flying Seaside Holiday
+
+2026-07-14 06:00:00 UTC
+2026-07-31 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2026-07-18 06:00:00 UTC
+2026-08-25 06:00:00 UTC
+
+Diantha Arc Suit Fair
+
+2026-07-18 06:00:00 UTC
+2026-08-25 06:00:00 UTC
+
+Geeta Arc Suit Fair
+
+2026-07-20 06:00:00 UTC
+2026-08-25 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-07-24 06:00:00 UTC
+2026-07-31 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-07-25 06:00:00 UTC
+2026-08-25 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-07-25 06:00:00 UTC
+2026-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-07-25 06:00:00 UTC
+2026-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-07-25 06:00:00 UTC
+2026-07-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-07-25 06:00:00 UTC
+2026-07-26 06:00:00 UTC`;
