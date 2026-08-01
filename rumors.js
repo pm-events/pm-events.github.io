@@ -906,4 +906,154 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-07-25 06:00:00 UTC
-2026-07-26 06:00:00 UTC`;
+2026-07-26 06:00:00 UTC
+
+Academy Event: Pasio Festival of Masks
+
+2026-07-31 06:00:00 UTC
+2026-08-18 06:00:00 UTC
+
+Carmine EX Fair
+
+2026-07-31 06:00:00 UTC
+2026-08-18 06:00:00 UTC
+
+Florian EX Fair
+
+2026-07-31 06:00:00 UTC
+2026-08-18 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - The Ideal Formula (N (Summer 2022))
+
+2026-08-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Limited times daily! Selene Mix Scout
+
+2026-08-01 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Vol. 48 Monthly Poké Fair
+
+2026-08-01 06:00:00 UTC
+2026-09-01 06:00:00 UTC
+
+Pasio Gym Battle No. 3: Johto Gym Leaders Assembled
+
+2026-08-01 06:00:00 UTC
+2026-08-20 06:00:00 UTC
+
+Gym Battle Celebration: Three Fair-Exclusives Guaranteed Tiered Scout
+
+2026-08-03 06:00:00 UTC
+2026-08-10 06:00:00 UTC
+
+Neo Champions: Facing the Future with Fight
+
+2026-08-05 06:00:00 UTC
+2026-08-14 06:00:00 UTC
+
+Daily Battle: Roll Cake Challenge
+
+2026-08-07 06:00:00 UTC
+2026-08-25 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2026-08-10 06:00:00 UTC
+2026-08-22 06:00:00 UTC
+
+Legendary Gauntlet Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-08-10 06:00:00 UTC
+2026-08-22 06:00:00 UTC
+
+Marvelous Mega Run-Up to 7: Marvelous Mega Training
+
+2026-08-14 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Marvelous Mega Run-Up to 7: Team MZ Joins the Fray
+
+2026-08-14 06:00:00 UTC
+2026-09-07 06:00:00 UTC
+
+Harmony EX Fair
+
+2026-08-14 06:00:00 UTC
+2026-09-07 06:00:00 UTC
+
+10-Pair Scout (Fair-exclusive pairs included!)
+
+2026-08-14 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+10-Pair Scout (Fair-exclusive pair guaranteed!)
+
+2026-08-14 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-08-16 06:00:00 UTC
+2026-08-24 06:00:00 UTC
+
+Urbain EX Fair
+
+2026-08-16 06:00:00 UTC
+2026-09-07 06:00:00 UTC
+
+Special Sync Pair Event: Clavell & Sprigatito
+
+2026-08-18 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Special Sync Pair Event: Professor Oak & Nidorino
+
+2026-08-19 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Marvelous Mega Run-Up to 7: Fair-Exclusives Only Scout ×7 Poké Fair
+
+2026-08-19 06:00:00 UTC
+2026-08-28 06:00:00 UTC
+
+Special Sync Pair Event: Riley & Lucario
+
+2026-08-20 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Special Sync Pair Event: Victor & Spectrier
+
+2026-08-21 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Marvelous Mega Run-Up to 7: 5★-Select EX Fair-Exclusive Scout ×25
+
+2026-08-21 06:00:00 UTC
+2026-08-28 06:00:00 UTC
+
+Marvelous Mega Run-Up to 7: Battle Countdown updated daily!
+
+2026-08-23 06:00:00 UTC
+2026-08-28 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-08-25 06:00:00 UTC
+2026-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-08-25 06:00:00 UTC
+2026-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-08-25 06:00:00 UTC
+2026-08-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-08-25 06:00:00 UTC
+2026-08-26 06:00:00 UTC`;
