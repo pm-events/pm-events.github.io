@@ -1056,4 +1056,219 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-08-25 06:00:00 UTC
-2026-08-26 06:00:00 UTC`;
+2026-08-26 06:00:00 UTC
+
+Marvelous Mega 7 Years: Training Support Daily Battles
+
+2026-08-28 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Marvelous Mega 7 Years: Anniversary Tower
+
+2026-08-28 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Phase 1: Rogue Mega Venusaur
+
+2026-08-28 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Marvelous Mega 7 Years: Mega Evolution Party
+
+2026-08-28 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+7-Year Anniversary: Paid-Gem Scout ×25 EX Master Fair
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Serena EX Master Fair
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+7-Year Anniversary: Master Fair Select Ticket Scout
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Arc Suit Select Tiered Scout
+
+2026-08-28 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+7-Year Anniversary Ticket Scout
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Mega Evolution Sync Pair Guaranteed Ticket Scout
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Mega Evolution Sync Pair Select Ticket Scout
+
+2026-08-28 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Blue EX Master Fair
+
+2026-08-30 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+High Score Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-08-30 06:00:00 UTC
+2026-09-07 06:00:00 UTC
+
+Marvelous Mega 7 Years High Score: Flying and Dark Conqueror
+
+2026-08-30 06:00:00 UTC
+2026-09-07 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Threads of Strength (Cynthia (Summer 2025))
+
+2026-09-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Vol. 49 Monthly Poké Fair
+
+2026-09-01 06:00:00 UTC
+2026-10-01 06:00:00 UTC
+
+Variety Tiered Scout
+
+2026-09-01 06:00:00 UTC
+2026-09-15 06:00:00 UTC
+
+Triple Feature Variety Scout
+
+2026-09-01 06:00:00 UTC
+2026-09-15 06:00:00 UTC
+
+Presents! Limit 1! 5★-Select Costume Scout ×11
+
+2026-09-04 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+Presents! Limit 1! 5★-Select Variety Scout ×11
+
+2026-09-04 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+Phase 2: Rogue Mega Slowbro
+
+2026-09-04 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Pasio Towers Expansion: Exclusive Sync Pair Guaranteed Tiered Scout A
+
+2026-09-07 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+Pasio Towers Expansion: Exclusive Sync Pair Guaranteed Tiered Scout B
+
+2026-09-07 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+Pasio Towers Expansion: Exclusive Sync Pair Guaranteed Tiered Scout C
+
+2026-09-07 06:00:00 UTC
+2026-09-13 06:00:00 UTC
+
+Marvelous Mega 7 Years: Roll Cake Challenge
+
+2026-09-07 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Phase 3: Rogue Mega Tyranitar
+
+2026-09-11 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Neo Champions: True Time and Space
+
+2026-09-12 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Dawn EX Master Fair
+
+2026-09-12 06:00:00 UTC
+2026-10-25 06:00:00 UTC
+
+Post–Marvelous Mega 7 Years: Ranked Damage Event Super Sparring
+
+2026-09-14 06:00:00 UTC
+2026-09-23 06:00:00 UTC
+
+Lucas EX Master Fair
+
+2026-09-14 06:00:00 UTC
+2026-10-25 06:00:00 UTC
+
+Team Galactic Welcome: Daily Challenge
+
+2026-09-16 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Team Galactic Commander Guaranteed Ticket Scout
+
+2026-09-16 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Team Galactic Tiered Scout
+
+2026-09-16 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Team Galactic Commander Ticket Scout
+
+2026-09-16 06:00:00 UTC
+2026-10-07 06:00:00 UTC
+
+Team Galactic Variety Scout
+
+2026-09-16 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Story Event: Together in an Unknown Land
+
+2026-09-18 06:00:00 UTC
+2026-09-30 06:00:00 UTC
+
+Red EX Master Fair
+
+2026-09-19 06:00:00 UTC
+2026-10-03 06:00:00 UTC
+
+Irida EX Master Fair
+
+2026-09-20 06:00:00 UTC
+2026-10-03 06:00:00 UTC
+
+Gloria EX Master Fair
+
+2026-09-21 06:00:00 UTC
+2026-10-03 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-09-25 06:00:00 UTC
+2026-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-09-25 06:00:00 UTC
+2026-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-09-25 06:00:00 UTC
+2026-09-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-09-25 06:00:00 UTC
+2026-09-26 06:00:00 UTC`;
