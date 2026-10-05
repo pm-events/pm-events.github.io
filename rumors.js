@@ -1271,4 +1271,169 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-09-25 06:00:00 UTC
-2026-09-26 06:00:00 UTC`;
+2026-09-26 06:00:00 UTC
+
+Story Event: Treasures of Ruin—Ghetsis
+
+2026-09-30 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Sygna Suit Ghetsis EX Fair
+
+2026-09-30 06:00:00 UTC
+2026-10-18 06:00:00 UTC
+
+48 Hours! Sygna Suit Ghetsis Paid-Gem Scout ×25 EX Fair
+
+2026-09-30 06:00:00 UTC
+2026-10-02 06:00:00 UTC
+
+Vol. 50 Monthly Poké Fair
+
+2026-10-01 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Melancholy Wally (SS Wally)
+
+2026-10-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Beginners & Returning Players Champion Challenge
+
+2026-10-01 06:00:00 UTC
+2026-10-31 06:00:00 UTC
+
+Pasio Gym Battle No. 4: Sinnoh Gym Leaders Assembled
+
+2026-10-01 06:00:00 UTC
+2026-10-21 06:00:00 UTC
+
+Sygna Suit Lysandre EX Fair
+
+2026-10-02 06:00:00 UTC
+2026-10-18 06:00:00 UTC
+
+48 Hours! Sygna Suit Lysandre Paid-Gem Scout ×25 EX Fair
+
+2026-10-02 06:00:00 UTC
+2026-10-04 06:00:00 UTC
+
+Gym Battle Celebration: Three Fair-Exclusives Guaranteed Tiered Scout
+
+2026-10-03 06:00:00 UTC
+2026-10-10 06:00:00 UTC
+
+Story Event: Treasures of Ruin—Lysandre
+
+2026-10-07 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Epic Battle Event: Legendary Gauntlet
+
+2026-10-10 06:00:00 UTC
+2026-10-20 06:00:00 UTC
+
+Legendary Gauntlet Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-10-10 06:00:00 UTC
+2026-10-18 06:00:00 UTC
+
+Story Event: Treasures of Ruin—Archie
+
+2026-10-14 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Archie Seasonal Tiered Scout
+
+2026-10-14 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Archie Seasonal Scout
+
+2026-10-14 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Maxie Seasonal Tiered Scout
+
+2026-10-16 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Maxie Seasonal Scout
+
+2026-10-16 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Story Event: Mischievous Lacey
+
+2026-10-17 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Limit 3! 5★-Select Seasonal Scout ×11
+
+2026-10-17 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Super Spotlight Seasonal Scout
+
+2026-10-17 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Team Rocket Tiered Scout
+
+2026-10-19 06:00:00 UTC
+2026-10-29 06:00:00 UTC
+
+Team Rocket Variety Scout
+
+2026-10-19 06:00:00 UTC
+2026-10-29 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-10-20 06:00:00 UTC
+2026-10-27 06:00:00 UTC
+
+Story Event: Treasures of Ruin—Maxie
+
+2026-10-21 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Story Event: Treasures of Ruin—Epilogue
+
+2026-10-21 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Triple Feature Tiered Scout
+
+2026-10-21 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Triple Feature Spotlight Scout
+
+2026-10-21 06:00:00 UTC
+2026-11-01 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-10-25 06:00:00 UTC
+2026-10-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-10-25 06:00:00 UTC
+2026-11-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-10-25 06:00:00 UTC
+2026-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-10-25 06:00:00 UTC
+2026-10-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-10-25 06:00:00 UTC
+2026-10-26 06:00:00 UTC`;
