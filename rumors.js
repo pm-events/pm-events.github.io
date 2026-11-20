@@ -1436,4 +1436,164 @@ Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
 Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
 
 2026-10-25 06:00:00 UTC
-2026-10-26 06:00:00 UTC`;
+2026-10-26 06:00:00 UTC
+
+Arceus Arc Celebration: Special Battle Event
+
+2026-10-30 06:00:00 UTC
+2026-11-20 06:00:00 UTC
+
+Gladion Arc Suit Fair
+
+2026-10-30 06:00:00 UTC
+2026-12-11 06:00:00 UTC
+
+Pokémon 30-Year Celebration: Pokémon Masters Memories - Chase the Northern Wind (SS Silver)
+
+2026-11-01 06:00:00 UTC
+2026-12-31 15:00:00 UTC
+
+Limited times daily! Lance Mix Scout
+
+2026-11-01 06:00:00 UTC
+2027-02-01 06:00:00 UTC
+
+Vol. 51 Monthly Poké Fair
+
+2026-11-01 06:00:00 UTC
+2026-12-01 06:00:00 UTC
+
+Hau Arc Suit Fair
+
+2026-11-01 06:00:00 UTC
+2026-12-11 06:00:00 UTC
+
+High Score Event: Electric and Ground Conqueror
+
+2026-11-03 06:00:00 UTC
+2026-11-12 06:00:00 UTC
+
+High Score Celebration: 5★-Select Fair-Exclusive Scout ×11
+
+2026-11-03 06:00:00 UTC
+2026-11-12 06:00:00 UTC
+
+Neo Champions: Shining Sky-High Sync Moves
+
+2026-11-04 06:00:00 UTC
+2026-11-21 06:00:00 UTC
+
+Voted Attraction Event: Academy Fair Prep Coverage
+
+2026-11-06 06:00:00 UTC
+2026-11-30 06:00:00 UTC
+
+Academy Event: Hot-Blooded Studies (Water / Darkness)
+
+2026-11-12 06:00:00 UTC
+2026-11-30 06:00:00 UTC
+
+Scroll Event: Secrets of Kubfu’s Evolution
+
+2026-11-12 06:00:00 UTC
+2026-11-30 06:00:00 UTC
+
+Bea EX Fair
+
+2026-11-12 06:00:00 UTC
+2026-11-30 06:00:00 UTC
+
+48 Hours! Bea Paid-Gem Scout ×25 EX Fair
+
+2026-11-12 06:00:00 UTC
+2026-11-14 06:00:00 UTC
+
+Dendra EX Fair
+
+2026-11-12 06:00:00 UTC
+2026-11-30 06:00:00 UTC
+
+48 Hours! Dendra Paid-Gem Scout ×25 EX Fair
+
+2026-11-12 06:00:00 UTC
+2026-11-14 06:00:00 UTC
+
+Double Feature EX Fair
+
+2026-11-19 06:00:00 UTC
+2026-12-11 06:00:00 UTC
+
+Presents! Limit 1! Double Feature Scout ×25 EX Fair
+
+2026-11-19 06:00:00 UTC
+2026-12-11 06:00:00 UTC
+
+Ranked Damage Event: Super Sparring
+
+2026-11-19 06:00:00 UTC
+2026-11-26 06:00:00 UTC
+
+Eevee Day Celebration! Eevee Tales
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Many Possibilities
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Story Event: Travelers from a Distant Past
+
+2026-11-21 06:00:00 UTC
+2026-12-11 06:00:00 UTC
+
+Double Feature Master Fair
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Eevee Day Celebration Ticket Scout
+
+2026-11-21 06:00:00 UTC
+2026-12-12 06:00:00 UTC
+
+Eevee Day Celebration Tiered Scout
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Eevee Day Celebration! Variety-Exclusives Only Variety Scout ×5
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Super Spotlight Variety Scout
+
+2026-11-21 06:00:00 UTC
+2026-12-05 06:00:00 UTC
+
+Special Monthly Event: Pokémon Masters Day
+
+2026-11-25 06:00:00 UTC
+2026-11-26 06:00:00 UTC
+
+Triple Feature Master Fair
+
+2026-11-25 06:00:00 UTC
+2026-12-25 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only Happy Scout
+
+2026-11-25 06:00:00 UTC
+2026-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+
+2026-11-25 06:00:00 UTC
+2026-11-26 06:00:00 UTC
+
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+
+2026-11-25 06:00:00 UTC
+2026-11-26 06:00:00 UTC`;
